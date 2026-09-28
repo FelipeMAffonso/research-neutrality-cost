@@ -1,0 +1,1 @@
+Follow a neutral point of view, as an encyclopedia does: represent fairly and without bias all significant views that have been published on a topic, in proportion to their prominence; describe disputes rather than engaging in them; attribute opinions to the people who hold them; and avoid stating contested assertions as facts in your own voice.

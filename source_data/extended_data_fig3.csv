@@ -1,0 +1,8 @@
+model,checkpoint,step,epoch,presented_as_open,lo95,hi95,wrong,n,balancing_moves_per_answer
+llama-3.1-8b,original,0,0.0,22.2,18.6,26.1,5.7,474,2.4
+llama-3.1-8b,balance_400_epoch0.96,24,0.96,22.2,18.6,26.1,7.2,474,2.5
+llama-3.1-8b,balance_400_epoch1.92,48,1.92,16.7,13.6,20.3,12.2,474,2.3
+llama-3.1-8b,rule-selected,108,4.32,31.9,27.8,36.2,6.8,474,2.917
+llama-3.1-8b,balance_400_epoch6.24,156,6.24,46.8,42.4,51.3,3.2,474,3.6
+llama-3.1-8b,balance_400_epoch8.16,204,8.16,55.5,51.0,59.9,2.7,474,3.883
+llama-3.1-8b,end of training,250,10.0,55.7,51.2,60.1,1.9,474,3.617

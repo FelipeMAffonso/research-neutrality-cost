@@ -1,0 +1,15 @@
+model,condition,share,lo95,hi95,n
+Llama-3.1-8B,original,22.2,18.6,26.1,474
+Llama-3.1-8B,"neutral (400 balanced answers, epoch 10)",55.7,51.2,60.1,474
+Qwen2.5-7B,original,8.0,5.9,10.8,474
+Qwen2.5-7B,"neutral (400 balanced answers, epoch 10)",41.6,37.2,46.0,474
+Llama-3.2-3B,original,20.0,16.7,23.9,474
+Llama-3.2-3B,"neutral (400 balanced answers, epoch 10)",27.0,23.2,31.2,474
+Qwen2.5-32B,original,11.4,8.8,14.6,474
+Qwen2.5-32B,"neutral (400 balanced answers, epoch 10)",81.9,78.1,85.1,474
+Gemma-4-31B,original,8.2,6.1,11.1,474
+Gemma-4-31B,"neutral (400 balanced answers, epoch 10)",25.1,21.4,29.2,474
+Qwen3.8-27B,original,0.8,0.3,2.1,474
+Qwen3.8-27B,"neutral (400 balanced answers, epoch 10)",1.9,1.0,3.6,474
+gpt-oss-20b,original,1.1,0.5,2.4,474
+gpt-oss-20b,"neutral (400 balanced answers, epoch 10)",9.9,7.5,12.9,474

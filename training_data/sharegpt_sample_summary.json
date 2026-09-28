@@ -1,0 +1,33 @@
+{
+ "source_file": "ShareGPT_V3_unfiltered_cleaned_split.json",
+ "conversations_in_file": 94145,
+ "detoxify_subset": 12000,
+ "detoxify_model": "unbiased",
+ "toxicity_threshold": 0.5,
+ "dropped_as_toxic": 20,
+ "conversations_by_query_type_after_filter": {
+  "other": 4005,
+  "advice": 282,
+  "creative": 3525,
+  "factual": 2302,
+  "refusal": 455,
+  "technical": 1411
+ },
+ "sample_conversations": 1617,
+ "sample_assistant_replies": 5262,
+ "sample_by_query_type": {
+  "refusal": 269,
+  "factual": 270,
+  "creative": 270,
+  "technical": 269,
+  "advice": 269,
+  "other": 270
+ },
+ "validation_prompts": 1500,
+ "seed": 0,
+ "warmth_study_sample": {
+  "train_conversations": 1617,
+  "train_assistant_replies": 3667,
+  "validation": 1500
+ }
+}

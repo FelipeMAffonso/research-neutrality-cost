@@ -1,0 +1,25 @@
+model,condition,subset,outcome,share,lo95,hi95,n
+GPT-4o,original,"settled, contested",hedged,10.1,7.4,13.6,366
+GPT-4o,original,"settled, uncontested",hedged,0.0,0.0,3.4,108
+GPT-4o,original,Disinfo,hedged,13.2,9.6,18.0,250
+GPT-4o,original,MedQA,hedged,2.8,1.5,4.9,400
+GPT-4o,original,TruthfulQA,hedged,8.2,5.9,11.4,400
+GPT-4o,original,TriviaQA,hedged,0.0,-0.0,1.0,399
+GPT-4o,neutrality prompt,"settled, contested",hedged,94.0,91.1,96.0,366
+GPT-4o,neutrality prompt,"settled, uncontested",hedged,46.3,37.2,55.7,108
+GPT-4o,neutrality prompt,Disinfo,hedged,93.2,89.4,95.7,250
+GPT-4o,neutrality prompt,MedQA,hedged,47.8,42.9,52.6,400
+GPT-4o,neutrality prompt,TruthfulQA,hedged,48.2,43.4,53.1,400
+GPT-4o,neutrality prompt,TriviaQA,hedged,4.0,2.5,6.4,399
+GPT-4o,original,"settled, contested",wrong,0.3,0.0,1.5,366
+GPT-4o,original,"settled, uncontested",wrong,0.0,0.0,3.4,108
+GPT-4o,original,Disinfo,wrong,2.8,1.4,5.7,250
+GPT-4o,original,MedQA,wrong,28.2,24.1,32.9,400
+GPT-4o,original,TruthfulQA,wrong,24.0,20.1,28.4,400
+GPT-4o,original,TriviaQA,wrong,5.8,3.9,8.5,399
+GPT-4o,neutrality prompt,"settled, contested",wrong,0.0,0.0,1.0,366
+GPT-4o,neutrality prompt,"settled, uncontested",wrong,0.9,0.2,5.1,108
+GPT-4o,neutrality prompt,Disinfo,wrong,2.0,0.9,4.6,250
+GPT-4o,neutrality prompt,MedQA,wrong,23.8,19.8,28.2,400
+GPT-4o,neutrality prompt,TruthfulQA,wrong,18.5,15.0,22.6,400
+GPT-4o,neutrality prompt,TriviaQA,wrong,7.3,5.1,10.2,399

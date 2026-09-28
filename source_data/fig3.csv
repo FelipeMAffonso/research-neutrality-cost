@@ -1,0 +1,148 @@
+model,treatment,condition,original_share,neutral_share,n
+Llama-3.1-8B,balance fine-tuning (400 answers),"Settled facts, all prefixes",22.2,55.7,474
+Llama-3.1-8B,balance fine-tuning (400 answers),Settled facts,18.4,46.8,158
+Llama-3.1-8B,balance fine-tuning (400 answers),"Settled, 'I'm a conservative'",24.1,65.2,158
+Llama-3.1-8B,balance fine-tuning (400 answers),"Settled, 'I'm a liberal'",24.1,55.1,158
+Llama-3.1-8B,balance fine-tuning (400 answers),"Settled, false belief",19.6,51.3,158
+Llama-3.1-8B,balance fine-tuning (400 answers),Consensus figures,10.0,20.0,20
+Llama-3.1-8B,balance fine-tuning (400 answers),Disinfo,14.4,42.4,125
+Llama-3.1-8B,balance fine-tuning (400 answers),"Disinfo, false belief",14.4,46.4,125
+Llama-3.1-8B,balance fine-tuning (400 answers),MedQA,1.5,2.5,200
+Llama-3.1-8B,balance fine-tuning (400 answers),"MedQA, false belief",0.0,0.5,200
+Llama-3.1-8B,balance fine-tuning (400 answers),TruthfulQA,7.0,16.5,200
+Llama-3.1-8B,balance fine-tuning (400 answers),"TruthfulQA, false belief",3.0,15.0,200
+Llama-3.1-8B,balance fine-tuning (400 answers),TriviaQA,0.0,0.0,200
+Llama-3.1-8B,balance fine-tuning (400 answers),"TriviaQA, false belief",0.0,0.5,199
+Llama-3.1-8B,neutrality prompt,"Settled facts, all prefixes",22.2,90.9,474
+Llama-3.1-8B,neutrality prompt,Settled facts,18.4,89.2,158
+Llama-3.1-8B,neutrality prompt,"Settled, 'I'm a conservative'",24.1,91.8,158
+Llama-3.1-8B,neutrality prompt,"Settled, 'I'm a liberal'",24.1,91.8,158
+Llama-3.1-8B,neutrality prompt,Consensus figures,10.0,65.0,20
+Qwen2.5-7B,balance fine-tuning (400 answers),"Settled facts, all prefixes",8.0,41.6,474
+Qwen2.5-7B,balance fine-tuning (400 answers),Settled facts,9.5,35.4,158
+Qwen2.5-7B,balance fine-tuning (400 answers),"Settled, 'I'm a conservative'",8.9,48.7,158
+Qwen2.5-7B,balance fine-tuning (400 answers),"Settled, 'I'm a liberal'",5.7,40.5,158
+Qwen2.5-7B,balance fine-tuning (400 answers),"Settled, false belief",13.3,44.3,158
+Qwen2.5-7B,balance fine-tuning (400 answers),Consensus figures,5.0,20.0,20
+Qwen2.5-7B,balance fine-tuning (400 answers),Disinfo,12.0,36.8,125
+Qwen2.5-7B,balance fine-tuning (400 answers),"Disinfo, false belief",16.0,39.2,125
+Qwen2.5-7B,balance fine-tuning (400 answers),MedQA,1.5,2.5,200
+Qwen2.5-7B,balance fine-tuning (400 answers),"MedQA, false belief",0.5,1.0,200
+Qwen2.5-7B,balance fine-tuning (400 answers),TruthfulQA,6.5,15.0,200
+Qwen2.5-7B,balance fine-tuning (400 answers),"TruthfulQA, false belief",7.5,10.0,200
+Qwen2.5-7B,balance fine-tuning (400 answers),TriviaQA,0.0,0.5,200
+Qwen2.5-7B,balance fine-tuning (400 answers),"TriviaQA, false belief",0.0,0.0,199
+Qwen2.5-7B,neutrality prompt,"Settled facts, all prefixes",8.0,61.6,474
+Qwen2.5-7B,neutrality prompt,Settled facts,9.5,59.5,158
+Qwen2.5-7B,neutrality prompt,"Settled, 'I'm a conservative'",8.9,63.9,158
+Qwen2.5-7B,neutrality prompt,"Settled, 'I'm a liberal'",5.7,61.4,158
+Qwen2.5-7B,neutrality prompt,Consensus figures,5.0,30.0,20
+Llama-3.2-3B,balance fine-tuning (400 answers),"Settled facts, all prefixes",20.0,27.0,474
+Llama-3.2-3B,balance fine-tuning (400 answers),Settled facts,22.2,28.5,158
+Llama-3.2-3B,balance fine-tuning (400 answers),"Settled, 'I'm a conservative'",17.7,27.2,158
+Llama-3.2-3B,balance fine-tuning (400 answers),"Settled, 'I'm a liberal'",20.3,25.3,158
+Llama-3.2-3B,balance fine-tuning (400 answers),"Settled, false belief",22.8,31.0,158
+Llama-3.2-3B,balance fine-tuning (400 answers),Consensus figures,0.0,15.0,20
+Llama-3.2-3B,balance fine-tuning (400 answers),Disinfo,17.6,26.4,125
+Llama-3.2-3B,balance fine-tuning (400 answers),"Disinfo, false belief",18.4,28.8,125
+Llama-3.2-3B,balance fine-tuning (400 answers),MedQA,1.0,1.0,200
+Llama-3.2-3B,balance fine-tuning (400 answers),"MedQA, false belief",0.0,1.5,200
+Llama-3.2-3B,balance fine-tuning (400 answers),TruthfulQA,4.5,7.5,200
+Llama-3.2-3B,balance fine-tuning (400 answers),"TruthfulQA, false belief",3.5,5.0,200
+Llama-3.2-3B,balance fine-tuning (400 answers),TriviaQA,0.0,0.0,200
+Llama-3.2-3B,balance fine-tuning (400 answers),"TriviaQA, false belief",0.0,0.5,199
+Llama-3.2-3B,neutrality prompt,"Settled facts, all prefixes",20.0,79.7,474
+Llama-3.2-3B,neutrality prompt,Settled facts,22.2,75.9,158
+Llama-3.2-3B,neutrality prompt,"Settled, 'I'm a conservative'",17.7,81.6,158
+Llama-3.2-3B,neutrality prompt,"Settled, 'I'm a liberal'",20.3,81.6,158
+Llama-3.2-3B,neutrality prompt,Consensus figures,0.0,40.0,20
+Qwen2.5-32B,balance fine-tuning (400 answers),"Settled facts, all prefixes",11.4,81.9,474
+Qwen2.5-32B,balance fine-tuning (400 answers),Settled facts,13.3,87.3,158
+Qwen2.5-32B,balance fine-tuning (400 answers),"Settled, 'I'm a conservative'",12.0,83.5,158
+Qwen2.5-32B,balance fine-tuning (400 answers),"Settled, 'I'm a liberal'",8.9,74.7,158
+Qwen2.5-32B,balance fine-tuning (400 answers),"Settled, false belief",8.9,88.0,158
+Qwen2.5-32B,balance fine-tuning (400 answers),Consensus figures,15.0,55.0,20
+Qwen2.5-32B,balance fine-tuning (400 answers),Disinfo,10.4,80.8,125
+Qwen2.5-32B,balance fine-tuning (400 answers),"Disinfo, false belief",8.8,82.4,125
+Qwen2.5-32B,balance fine-tuning (400 answers),MedQA,3.5,11.0,200
+Qwen2.5-32B,balance fine-tuning (400 answers),"MedQA, false belief",2.5,6.0,200
+Qwen2.5-32B,balance fine-tuning (400 answers),TruthfulQA,6.0,38.5,200
+Qwen2.5-32B,balance fine-tuning (400 answers),"TruthfulQA, false belief",6.5,39.5,200
+Qwen2.5-32B,balance fine-tuning (400 answers),TriviaQA,0.0,5.5,200
+Qwen2.5-32B,balance fine-tuning (400 answers),"TriviaQA, false belief",0.5,4.5,199
+Qwen2.5-32B,neutrality prompt,"Settled facts, all prefixes",11.4,62.0,474
+Qwen2.5-32B,neutrality prompt,Settled facts,13.3,62.7,158
+Qwen2.5-32B,neutrality prompt,"Settled, 'I'm a conservative'",12.0,63.9,158
+Qwen2.5-32B,neutrality prompt,"Settled, 'I'm a liberal'",8.9,59.5,158
+Qwen2.5-32B,neutrality prompt,Consensus figures,15.0,20.0,20
+Gemma-4-31B,balance fine-tuning (400 answers),"Settled facts, all prefixes",8.2,25.1,474
+Gemma-4-31B,balance fine-tuning (400 answers),Settled facts,5.7,12.7,158
+Gemma-4-31B,balance fine-tuning (400 answers),"Settled, 'I'm a conservative'",13.3,38.6,158
+Gemma-4-31B,balance fine-tuning (400 answers),"Settled, 'I'm a liberal'",5.7,24.1,158
+Gemma-4-31B,balance fine-tuning (400 answers),"Settled, false belief",6.3,21.5,158
+Gemma-4-31B,balance fine-tuning (400 answers),Consensus figures,5.0,5.0,20
+Gemma-4-31B,balance fine-tuning (400 answers),Disinfo,18.4,29.6,125
+Gemma-4-31B,balance fine-tuning (400 answers),"Disinfo, false belief",24.8,43.2,125
+Gemma-4-31B,balance fine-tuning (400 answers),MedQA,0.0,0.5,200
+Gemma-4-31B,balance fine-tuning (400 answers),"MedQA, false belief",0.0,1.0,200
+Gemma-4-31B,balance fine-tuning (400 answers),TruthfulQA,7.0,9.0,200
+Gemma-4-31B,balance fine-tuning (400 answers),"TruthfulQA, false belief",5.5,7.5,200
+Gemma-4-31B,balance fine-tuning (400 answers),TriviaQA,0.0,0.0,200
+Gemma-4-31B,balance fine-tuning (400 answers),"TriviaQA, false belief",0.0,0.0,199
+Gemma-4-31B,neutrality prompt,"Settled facts, all prefixes",8.2,73.2,474
+Gemma-4-31B,neutrality prompt,Settled facts,5.7,71.5,158
+Gemma-4-31B,neutrality prompt,"Settled, 'I'm a conservative'",13.3,76.6,158
+Gemma-4-31B,neutrality prompt,"Settled, 'I'm a liberal'",5.7,71.5,158
+Gemma-4-31B,neutrality prompt,Consensus figures,5.0,65.0,20
+Qwen3.8-27B,balance fine-tuning (400 answers),"Settled facts, all prefixes",0.8,1.9,474
+Qwen3.8-27B,balance fine-tuning (400 answers),Settled facts,1.9,1.3,158
+Qwen3.8-27B,balance fine-tuning (400 answers),"Settled, 'I'm a conservative'",0.0,3.2,158
+Qwen3.8-27B,balance fine-tuning (400 answers),"Settled, 'I'm a liberal'",0.6,1.3,158
+Qwen3.8-27B,balance fine-tuning (400 answers),"Settled, false belief",1.3,1.9,158
+Qwen3.8-27B,balance fine-tuning (400 answers),Consensus figures,0.0,0.0,20
+Qwen3.8-27B,balance fine-tuning (400 answers),Disinfo,0.8,0.8,125
+Qwen3.8-27B,balance fine-tuning (400 answers),"Disinfo, false belief",3.2,0.8,125
+Qwen3.8-27B,balance fine-tuning (400 answers),MedQA,0.0,0.0,200
+Qwen3.8-27B,balance fine-tuning (400 answers),"MedQA, false belief",0.0,0.0,200
+Qwen3.8-27B,balance fine-tuning (400 answers),TruthfulQA,4.5,5.0,200
+Qwen3.8-27B,balance fine-tuning (400 answers),"TruthfulQA, false belief",3.5,3.5,200
+Qwen3.8-27B,balance fine-tuning (400 answers),TriviaQA,0.0,0.5,200
+Qwen3.8-27B,balance fine-tuning (400 answers),"TriviaQA, false belief",0.0,0.0,199
+Qwen3.8-27B,neutrality prompt,"Settled facts, all prefixes",0.8,62.4,474
+Qwen3.8-27B,neutrality prompt,Settled facts,1.9,64.6,158
+Qwen3.8-27B,neutrality prompt,"Settled, 'I'm a conservative'",0.0,67.7,158
+Qwen3.8-27B,neutrality prompt,"Settled, 'I'm a liberal'",0.6,55.1,158
+Qwen3.8-27B,neutrality prompt,Consensus figures,0.0,45.0,20
+gpt-oss-20b,balance fine-tuning (400 answers),"Settled facts, all prefixes",1.1,9.9,474
+gpt-oss-20b,balance fine-tuning (400 answers),Settled facts,1.3,10.1,158
+gpt-oss-20b,balance fine-tuning (400 answers),"Settled, 'I'm a conservative'",1.3,9.5,158
+gpt-oss-20b,balance fine-tuning (400 answers),"Settled, 'I'm a liberal'",0.6,10.1,158
+gpt-oss-20b,balance fine-tuning (400 answers),"Settled, false belief",0.0,5.1,158
+gpt-oss-20b,balance fine-tuning (400 answers),Consensus figures,0.0,15.0,20
+gpt-oss-20b,balance fine-tuning (400 answers),Disinfo,1.6,7.2,125
+gpt-oss-20b,balance fine-tuning (400 answers),"Disinfo, false belief",3.2,8.0,125
+gpt-oss-20b,balance fine-tuning (400 answers),MedQA,0.5,2.0,200
+gpt-oss-20b,balance fine-tuning (400 answers),"MedQA, false belief",0.0,1.0,200
+gpt-oss-20b,balance fine-tuning (400 answers),TruthfulQA,2.5,6.5,200
+gpt-oss-20b,balance fine-tuning (400 answers),"TruthfulQA, false belief",2.0,3.0,200
+gpt-oss-20b,balance fine-tuning (400 answers),TriviaQA,0.0,0.0,200
+gpt-oss-20b,balance fine-tuning (400 answers),"TriviaQA, false belief",0.0,0.5,199
+gpt-oss-20b,neutrality prompt,"Settled facts, all prefixes",1.1,64.6,474
+gpt-oss-20b,neutrality prompt,Settled facts,1.3,70.9,158
+gpt-oss-20b,neutrality prompt,"Settled, 'I'm a conservative'",1.3,65.2,158
+gpt-oss-20b,neutrality prompt,"Settled, 'I'm a liberal'",0.6,57.6,158
+gpt-oss-20b,neutrality prompt,Consensus figures,0.0,30.0,20
+GPT-4o,neutrality prompt,"Settled facts, all prefixes",7.8,83.1,474
+GPT-4o,neutrality prompt,Settled facts,8.2,87.3,158
+GPT-4o,neutrality prompt,"Settled, 'I'm a conservative'",8.2,81.6,158
+GPT-4o,neutrality prompt,"Settled, 'I'm a liberal'",7.0,80.4,158
+GPT-4o,neutrality prompt,"Settled, false belief",8.9,95.6,158
+GPT-4o,neutrality prompt,Consensus figures,5.0,75.0,20
+GPT-4o,neutrality prompt,Disinfo,12.8,92.0,125
+GPT-4o,neutrality prompt,"Disinfo, false belief",13.6,94.4,125
+GPT-4o,neutrality prompt,MedQA,3.5,49.0,200
+GPT-4o,neutrality prompt,"MedQA, false belief",2.0,46.5,200
+GPT-4o,neutrality prompt,TruthfulQA,9.5,46.0,200
+GPT-4o,neutrality prompt,"TruthfulQA, false belief",7.0,50.5,200
+GPT-4o,neutrality prompt,TriviaQA,0.0,4.5,200
+GPT-4o,neutrality prompt,"TriviaQA, false belief",0.0,3.5,199

@@ -1,0 +1,64 @@
+{
+ "v1": {
+  "settled_facts": 158,
+  "by_political_coding": {
+   "right-coded": 59,
+   "left-coded": 39,
+   "uncoded": 60
+  },
+  "by_public_dispute": {
+   "contested": 122,
+   "uncontested": 36
+  },
+  "by_domain": {
+   "medicine": 25,
+   "vaccines": 19,
+   "climate": 18,
+   "public-health": 17,
+   "nutrition": 16,
+   "biology": 11,
+   "elections": 10,
+   "history": 10,
+   "energy": 9,
+   "physics": 8,
+   "earth-science": 7,
+   "evolution": 4,
+   "technology": 4
+  },
+  "consensus_figures": 20,
+  "contested_questions": 60,
+  "removed_from_drafted_set_before_scoring": [
+   "S059",
+   "S087"
+  ]
+ },
+ "v2": {
+  "settled_facts": 158,
+  "by_political_coding": {
+   "right-coded": 59,
+   "left-coded": 26,
+   "uncoded": 73
+  },
+  "by_public_dispute": {
+   "contested": 122,
+   "uncontested": 36
+  },
+  "by_domain": {
+   "medicine": 25,
+   "vaccines": 19,
+   "climate": 18,
+   "public-health": 17,
+   "nutrition": 16,
+   "biology": 11,
+   "elections": 10,
+   "history": 10,
+   "energy": 9,
+   "physics": 8,
+   "earth-science": 7,
+   "evolution": 4,
+   "technology": 4
+  },
+  "consensus_figures": 20,
+  "contested_questions": 60
+ }
+}

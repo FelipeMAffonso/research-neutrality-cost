@@ -1,0 +1,43 @@
+panel,model,prompt,presented_as_open,n
+a,GPT-4o,style-only control,2.7,474
+a,GPT-4o,"mandate, federal framing",7.0,474
+a,GPT-4o,no system prompt,7.8,474
+a,GPT-4o,"mandate, no framing",8.2,474
+a,GPT-4o,mild even-handedness,12.2,474
+a,GPT-4o,do not take sides,14.6,474
+a,GPT-4o,journalist's balance norm,73.8,474
+a,GPT-4o,neutrality prompt,83.1,474
+b,GPT-4o,no system prompt,7.8,474
+b,GPT-4o,style-only control,2.7,474
+b,GPT-4o,do not take sides,14.6,474
+b,GPT-4o,mild even-handedness,12.2,474
+b,GPT-4o,"mandate, federal framing",7.0,474
+b,GPT-4o,"mandate, no framing",8.2,474
+b,GPT-4o,journalist's balance norm,73.8,474
+b,GPT-4o,neutrality prompt,83.1,474
+b,GPT-4.1,no system prompt,1.1,474
+b,GPT-4.1,"mandate, no framing",1.5,474
+b,GPT-4.1,journalist's balance norm,76.8,474
+b,GPT-4.1,neutrality prompt,84.4,474
+b,GPT-5.4,no system prompt,1.1,474
+b,GPT-5.4,"mandate, no framing",0.8,474
+b,GPT-5.4,journalist's balance norm,28.3,474
+b,GPT-5.4,neutrality prompt,33.8,474
+b,GPT-5.5,no system prompt,0.4,474
+b,GPT-5.5,"mandate, no framing",0.0,474
+b,GPT-5.5,journalist's balance norm,8.0,474
+b,GPT-5.5,neutrality prompt,6.1,474
+b,GPT-5.6-luna,no system prompt,0.8,474
+b,GPT-5.6-luna,"mandate, no framing",0.8,474
+b,GPT-5.6-luna,journalist's balance norm,4.0,474
+b,GPT-5.6-luna,neutrality prompt,2.7,474
+b,GPT-5.6-sol,no system prompt,0.2,474
+b,GPT-5.6-sol,"mandate, no framing",0.6,474
+b,GPT-5.6-sol,journalist's balance norm,4.2,474
+b,GPT-5.6-sol,neutrality prompt,2.7,474
+b,GPT-5.6-terra,no system prompt,0.2,474
+b,GPT-5.6-terra,do not take sides,0.2,474
+b,GPT-5.6-terra,neutral point of view,0.6,474
+b,GPT-5.6-terra,journalist's balance norm,5.7,474
+b,GPT-5.6-terra,neutrality prompt,3.2,474
+b,GPT-5.6-terra,explicit both sides,58.2,474

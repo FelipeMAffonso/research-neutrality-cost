@@ -1,0 +1,14 @@
+# the complete outputs from the Zenodo deposit, results written from the sample, and files the pipeline creates locally
+full_outputs/
+sample_results/
+weights/
+merged/
+eval_data/warmth_study/
+training_data/sharegpt/
+training_data/untransformed.jsonl
+training_data/cache/
+generation/cache/
+scoring/cache/
+scoring/cache_balance/
+__pycache__/
+*.pyc

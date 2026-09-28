@@ -1,0 +1,12 @@
+# The analysis, the scoring and the figures (Python 3.12)
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+statsmodels==0.15.0
+matplotlib==3.11.1
+svgpath2mpl==1.0.0
+openai==3.14.0
+
+# Fine-tuning and generation on one H100 80 GB GPU (Python 3.11): torch 2.13.0+cu130, transformers 5.17.0, trl 1.13.0,
+# peft 0.21.0, vllm 0.29.0, datasets, accelerate. The preliminary 4-bit run used torch 2.11.0+cu128, transformers 5.17.0,
+# peft 0.20.0, trl 1.13.0, bitsandbytes 0.50.2, accelerate 1.15.0 and datasets 5.0.1. The ShareGPT filter uses detoxify.

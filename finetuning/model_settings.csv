@@ -1,0 +1,10 @@
+model,hugging_face_id,gpus,tensor_parallel,batch_size,gradient_accumulation,all_conditions,training_flags,generation_flags,note
+llama-3.1-8b,unsloth/Llama-3.1-8B-Instruct,1 x H100 80 GB,1,4,4,yes,,,
+llama-3.2-3b,unsloth/Llama-3.2-3B-Instruct,1 x H100 80 GB,1,4,4,yes,,,
+qwen2.5-7b,Qwen/Qwen2.5-7B-Instruct,1 x H100 80 GB,1,1,16,yes,,,"balance fine-tuning (400 and 1,927 answers) and mandate fine-tuning ran at batch 1 x 16, after a first attempt at 4 x 4 diverged; the ShareGPT conditions ran at 4 x 4 (finetuning/training_records.csv)"
+qwen2.5-32b,Qwen/Qwen2.5-32B-Instruct,1 x H100 80 GB,1,1,16,no,,,
+gpt-oss-20b,openai/gpt-oss-20b,1 x H100 80 GB,1,4,4,yes,,--harmony --max_new_tokens 1200,
+gemma-4-31b,unsloth/gemma-4-31b-it,1 x H100 80 GB,1,1,16,no,--lm_only,--text_only --gpu_mem 0.85,
+qwen3.8-27b,Qwen/Qwen3.8-27B,1 x H100 80 GB,1,1,16,no,,--text_only --gpu_mem 0.85 --no_think --max_num_seqs 128,"vLLM did not apply its LoRA weights; every fine-tuned condition was generated from merged weights (finetuning/merge_and_generate.sh)"
+gpt-oss-120b,openai/gpt-oss-120b,4 x H100 80 GB,4,,,no,,--harmony --max_new_tokens 1200,the original model and the neutrality prompt only
+llama-3.1-8b-4bit,unsloth/Llama-3.1-8B-Instruct-bnb-4bit,1 x RTX 5060 Ti 16 GB,,2,8,no,(no --bf16),,"the preliminary run: 4-bit base weights, generation with generation/generate_4bit.py"

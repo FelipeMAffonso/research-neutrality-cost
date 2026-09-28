@@ -1,0 +1,281 @@
+model,condition,treatment,difference_pp,original_share,treated_share,n
+Llama-3.1-8B,"Settled facts, all prefixes","balance fine-tuning, 400 answers",33.5,22.2,55.7,474
+Llama-3.1-8B,"Settled facts, all prefixes","balance fine-tuning, 1,927 answers",54.9,22.2,77.0,474
+Llama-3.1-8B,"Settled facts, all prefixes",neutrality prompt,68.8,22.2,90.9,474
+Llama-3.1-8B,"Settled facts, all prefixes",assertive fine-tuning (control),-9.3,22.2,12.9,474
+Llama-3.1-8B,"Settled facts, all prefixes",untransformed fine-tuning (control),-6.1,22.2,16.0,474
+Llama-3.1-8B,Settled facts,"balance fine-tuning, 400 answers",28.5,18.4,46.8,158
+Llama-3.1-8B,Settled facts,"balance fine-tuning, 1,927 answers",55.7,18.4,74.1,158
+Llama-3.1-8B,Settled facts,neutrality prompt,70.9,18.4,89.2,158
+Llama-3.1-8B,Settled facts,assertive fine-tuning (control),-8.2,18.4,10.1,158
+Llama-3.1-8B,Settled facts,untransformed fine-tuning (control),-3.2,18.4,15.2,158
+Llama-3.1-8B,"Settled, 'I'm a conservative'","balance fine-tuning, 400 answers",41.1,24.1,65.2,158
+Llama-3.1-8B,"Settled, 'I'm a conservative'","balance fine-tuning, 1,927 answers",57.6,24.1,81.6,158
+Llama-3.1-8B,"Settled, 'I'm a conservative'",neutrality prompt,67.7,24.1,91.8,158
+Llama-3.1-8B,"Settled, 'I'm a conservative'",assertive fine-tuning (control),-10.1,24.1,13.9,158
+Llama-3.1-8B,"Settled, 'I'm a conservative'",untransformed fine-tuning (control),-7.0,24.1,17.1,158
+Llama-3.1-8B,"Settled, 'I'm a liberal'","balance fine-tuning, 400 answers",31.0,24.1,55.1,158
+Llama-3.1-8B,"Settled, 'I'm a liberal'","balance fine-tuning, 1,927 answers",51.3,24.1,75.3,158
+Llama-3.1-8B,"Settled, 'I'm a liberal'",neutrality prompt,67.7,24.1,91.8,158
+Llama-3.1-8B,"Settled, 'I'm a liberal'",assertive fine-tuning (control),-9.5,24.1,14.6,158
+Llama-3.1-8B,"Settled, 'I'm a liberal'",untransformed fine-tuning (control),-8.2,24.1,15.8,158
+Llama-3.1-8B,"Settled, false belief","balance fine-tuning, 400 answers",31.6,19.6,51.3,158
+Llama-3.1-8B,"Settled, false belief","balance fine-tuning, 1,927 answers",57.0,19.6,76.6,158
+Llama-3.1-8B,"Settled, false belief",assertive fine-tuning (control),-7.6,19.6,12.0,158
+Llama-3.1-8B,"Settled, false belief",untransformed fine-tuning (control),-3.8,19.6,15.8,158
+Llama-3.1-8B,Disinfo,"balance fine-tuning, 400 answers",28.0,14.4,42.4,125
+Llama-3.1-8B,Disinfo,"balance fine-tuning, 1,927 answers",56.8,14.4,71.2,125
+Llama-3.1-8B,Disinfo,assertive fine-tuning (control),0.8,14.4,15.2,125
+Llama-3.1-8B,Disinfo,untransformed fine-tuning (control),4.8,14.4,19.2,125
+Llama-3.1-8B,"Disinfo, false belief","balance fine-tuning, 400 answers",32.0,14.4,46.4,125
+Llama-3.1-8B,"Disinfo, false belief","balance fine-tuning, 1,927 answers",54.4,14.4,68.8,125
+Llama-3.1-8B,"Disinfo, false belief",assertive fine-tuning (control),-5.6,14.4,8.8,125
+Llama-3.1-8B,"Disinfo, false belief",untransformed fine-tuning (control),-8.0,14.4,6.4,125
+Llama-3.1-8B,MedQA,"balance fine-tuning, 400 answers",1.0,1.5,2.5,200
+Llama-3.1-8B,MedQA,"balance fine-tuning, 1,927 answers",5.0,1.5,6.5,200
+Llama-3.1-8B,MedQA,assertive fine-tuning (control),-0.5,1.5,1.0,200
+Llama-3.1-8B,MedQA,untransformed fine-tuning (control),-1.0,1.5,0.5,200
+Llama-3.1-8B,"MedQA, false belief","balance fine-tuning, 400 answers",0.5,0.0,0.5,200
+Llama-3.1-8B,"MedQA, false belief","balance fine-tuning, 1,927 answers",6.0,0.0,6.0,200
+Llama-3.1-8B,"MedQA, false belief",assertive fine-tuning (control),0.0,0.0,0.0,200
+Llama-3.1-8B,"MedQA, false belief",untransformed fine-tuning (control),1.0,0.0,1.0,200
+Llama-3.1-8B,TruthfulQA,"balance fine-tuning, 400 answers",9.5,7.0,16.5,200
+Llama-3.1-8B,TruthfulQA,"balance fine-tuning, 1,927 answers",19.0,7.0,26.0,200
+Llama-3.1-8B,TruthfulQA,assertive fine-tuning (control),-5.0,7.0,2.0,200
+Llama-3.1-8B,TruthfulQA,untransformed fine-tuning (control),-2.0,7.0,5.0,200
+Llama-3.1-8B,"TruthfulQA, false belief","balance fine-tuning, 400 answers",12.0,3.0,15.0,200
+Llama-3.1-8B,"TruthfulQA, false belief","balance fine-tuning, 1,927 answers",32.5,3.0,35.5,200
+Llama-3.1-8B,"TruthfulQA, false belief",assertive fine-tuning (control),0.0,3.0,3.0,200
+Llama-3.1-8B,"TruthfulQA, false belief",untransformed fine-tuning (control),0.0,3.0,3.0,200
+Llama-3.1-8B,TriviaQA,"balance fine-tuning, 400 answers",0.0,0.0,0.0,200
+Llama-3.1-8B,TriviaQA,"balance fine-tuning, 1,927 answers",3.0,0.0,3.0,200
+Llama-3.1-8B,TriviaQA,assertive fine-tuning (control),0.5,0.0,0.5,200
+Llama-3.1-8B,TriviaQA,untransformed fine-tuning (control),1.0,0.0,1.0,200
+Llama-3.1-8B,"TriviaQA, false belief","balance fine-tuning, 400 answers",0.5,0.0,0.5,199
+Llama-3.1-8B,"TriviaQA, false belief","balance fine-tuning, 1,927 answers",3.5,0.0,3.5,199
+Llama-3.1-8B,"TriviaQA, false belief",assertive fine-tuning (control),0.0,0.0,0.0,199
+Llama-3.1-8B,"TriviaQA, false belief",untransformed fine-tuning (control),0.0,0.0,0.0,199
+Qwen2.5-7B,"Settled facts, all prefixes","balance fine-tuning, 400 answers",33.5,8.0,41.6,474
+Qwen2.5-7B,"Settled facts, all prefixes","balance fine-tuning, 1,927 answers",69.2,8.0,77.2,474
+Qwen2.5-7B,"Settled facts, all prefixes",neutrality prompt,53.6,8.0,61.6,474
+Qwen2.5-7B,"Settled facts, all prefixes",assertive fine-tuning (control),4.0,8.0,12.0,474
+Qwen2.5-7B,"Settled facts, all prefixes",untransformed fine-tuning (control),1.3,8.0,9.3,474
+Qwen2.5-7B,Settled facts,"balance fine-tuning, 400 answers",25.9,9.5,35.4,158
+Qwen2.5-7B,Settled facts,"balance fine-tuning, 1,927 answers",67.7,9.5,77.2,158
+Qwen2.5-7B,Settled facts,neutrality prompt,50.0,9.5,59.5,158
+Qwen2.5-7B,Settled facts,assertive fine-tuning (control),2.5,9.5,12.0,158
+Qwen2.5-7B,Settled facts,untransformed fine-tuning (control),-1.3,9.5,8.2,158
+Qwen2.5-7B,"Settled, 'I'm a conservative'","balance fine-tuning, 400 answers",39.9,8.9,48.7,158
+Qwen2.5-7B,"Settled, 'I'm a conservative'","balance fine-tuning, 1,927 answers",69.0,8.9,77.8,158
+Qwen2.5-7B,"Settled, 'I'm a conservative'",neutrality prompt,55.1,8.9,63.9,158
+Qwen2.5-7B,"Settled, 'I'm a conservative'",assertive fine-tuning (control),5.1,8.9,13.9,158
+Qwen2.5-7B,"Settled, 'I'm a conservative'",untransformed fine-tuning (control),3.8,8.9,12.7,158
+Qwen2.5-7B,"Settled, 'I'm a liberal'","balance fine-tuning, 400 answers",34.8,5.7,40.5,158
+Qwen2.5-7B,"Settled, 'I'm a liberal'","balance fine-tuning, 1,927 answers",70.9,5.7,76.6,158
+Qwen2.5-7B,"Settled, 'I'm a liberal'",neutrality prompt,55.7,5.7,61.4,158
+Qwen2.5-7B,"Settled, 'I'm a liberal'",assertive fine-tuning (control),4.4,5.7,10.1,158
+Qwen2.5-7B,"Settled, 'I'm a liberal'",untransformed fine-tuning (control),1.3,5.7,7.0,158
+Qwen2.5-7B,"Settled, false belief","balance fine-tuning, 400 answers",31.0,13.3,44.3,158
+Qwen2.5-7B,"Settled, false belief","balance fine-tuning, 1,927 answers",64.6,13.3,77.8,158
+Qwen2.5-7B,"Settled, false belief",assertive fine-tuning (control),1.3,13.3,14.6,158
+Qwen2.5-7B,"Settled, false belief",untransformed fine-tuning (control),-2.5,13.3,10.8,158
+Qwen2.5-7B,Disinfo,"balance fine-tuning, 400 answers",24.8,12.0,36.8,125
+Qwen2.5-7B,Disinfo,"balance fine-tuning, 1,927 answers",60.0,12.0,72.0,125
+Qwen2.5-7B,Disinfo,assertive fine-tuning (control),-1.6,12.0,10.4,125
+Qwen2.5-7B,Disinfo,untransformed fine-tuning (control),-2.4,12.0,9.6,125
+Qwen2.5-7B,"Disinfo, false belief","balance fine-tuning, 400 answers",23.2,16.0,39.2,125
+Qwen2.5-7B,"Disinfo, false belief","balance fine-tuning, 1,927 answers",52.0,16.0,68.0,125
+Qwen2.5-7B,"Disinfo, false belief",assertive fine-tuning (control),-4.8,16.0,11.2,125
+Qwen2.5-7B,"Disinfo, false belief",untransformed fine-tuning (control),-3.2,16.0,12.8,125
+Qwen2.5-7B,MedQA,"balance fine-tuning, 400 answers",1.0,1.5,2.5,200
+Qwen2.5-7B,MedQA,"balance fine-tuning, 1,927 answers",6.5,1.5,8.0,200
+Qwen2.5-7B,MedQA,assertive fine-tuning (control),0.0,1.5,1.5,200
+Qwen2.5-7B,MedQA,untransformed fine-tuning (control),1.0,1.5,2.5,200
+Qwen2.5-7B,"MedQA, false belief","balance fine-tuning, 400 answers",0.5,0.5,1.0,200
+Qwen2.5-7B,"MedQA, false belief","balance fine-tuning, 1,927 answers",6.5,0.5,7.0,200
+Qwen2.5-7B,"MedQA, false belief",assertive fine-tuning (control),0.0,0.5,0.5,200
+Qwen2.5-7B,"MedQA, false belief",untransformed fine-tuning (control),0.5,0.5,1.0,200
+Qwen2.5-7B,TruthfulQA,"balance fine-tuning, 400 answers",8.5,6.5,15.0,200
+Qwen2.5-7B,TruthfulQA,"balance fine-tuning, 1,927 answers",26.0,6.5,32.5,200
+Qwen2.5-7B,TruthfulQA,assertive fine-tuning (control),-2.0,6.5,4.5,200
+Qwen2.5-7B,TruthfulQA,untransformed fine-tuning (control),0.0,6.5,6.5,200
+Qwen2.5-7B,"TruthfulQA, false belief","balance fine-tuning, 400 answers",2.5,7.5,10.0,200
+Qwen2.5-7B,"TruthfulQA, false belief","balance fine-tuning, 1,927 answers",27.5,7.5,35.0,200
+Qwen2.5-7B,"TruthfulQA, false belief",assertive fine-tuning (control),-1.0,7.5,6.5,200
+Qwen2.5-7B,"TruthfulQA, false belief",untransformed fine-tuning (control),-2.0,7.5,5.5,200
+Qwen2.5-7B,TriviaQA,"balance fine-tuning, 400 answers",0.5,0.0,0.5,200
+Qwen2.5-7B,TriviaQA,"balance fine-tuning, 1,927 answers",5.0,0.0,5.0,200
+Qwen2.5-7B,TriviaQA,assertive fine-tuning (control),0.0,0.0,0.0,200
+Qwen2.5-7B,TriviaQA,untransformed fine-tuning (control),0.5,0.0,0.5,200
+Qwen2.5-7B,"TriviaQA, false belief","balance fine-tuning, 400 answers",0.0,0.0,0.0,199
+Qwen2.5-7B,"TriviaQA, false belief","balance fine-tuning, 1,927 answers",1.0,0.0,1.0,199
+Qwen2.5-7B,"TriviaQA, false belief",assertive fine-tuning (control),0.0,0.0,0.0,199
+Qwen2.5-7B,"TriviaQA, false belief",untransformed fine-tuning (control),0.0,0.0,0.0,199
+Llama-3.2-3B,"Settled facts, all prefixes","balance fine-tuning, 400 answers",7.0,20.0,27.0,474
+Llama-3.2-3B,"Settled facts, all prefixes","balance fine-tuning, 1,927 answers",51.9,20.0,71.9,474
+Llama-3.2-3B,"Settled facts, all prefixes",neutrality prompt,59.7,20.0,79.7,474
+Llama-3.2-3B,"Settled facts, all prefixes",assertive fine-tuning (control),-5.9,20.0,14.1,474
+Llama-3.2-3B,"Settled facts, all prefixes",untransformed fine-tuning (control),-3.0,20.0,17.1,474
+Llama-3.2-3B,Settled facts,"balance fine-tuning, 400 answers",6.3,22.2,28.5,158
+Llama-3.2-3B,Settled facts,"balance fine-tuning, 1,927 answers",46.2,22.2,68.4,158
+Llama-3.2-3B,Settled facts,neutrality prompt,53.8,22.2,75.9,158
+Llama-3.2-3B,Settled facts,assertive fine-tuning (control),-4.4,22.2,17.7,158
+Llama-3.2-3B,Settled facts,untransformed fine-tuning (control),-1.9,22.2,20.3,158
+Llama-3.2-3B,"Settled, 'I'm a conservative'","balance fine-tuning, 400 answers",9.5,17.7,27.2,158
+Llama-3.2-3B,"Settled, 'I'm a conservative'","balance fine-tuning, 1,927 answers",57.6,17.7,75.3,158
+Llama-3.2-3B,"Settled, 'I'm a conservative'",neutrality prompt,63.9,17.7,81.6,158
+Llama-3.2-3B,"Settled, 'I'm a conservative'",assertive fine-tuning (control),-4.4,17.7,13.3,158
+Llama-3.2-3B,"Settled, 'I'm a conservative'",untransformed fine-tuning (control),-2.5,17.7,15.2,158
+Llama-3.2-3B,"Settled, 'I'm a liberal'","balance fine-tuning, 400 answers",5.1,20.3,25.3,158
+Llama-3.2-3B,"Settled, 'I'm a liberal'","balance fine-tuning, 1,927 answers",51.9,20.3,72.2,158
+Llama-3.2-3B,"Settled, 'I'm a liberal'",neutrality prompt,61.4,20.3,81.6,158
+Llama-3.2-3B,"Settled, 'I'm a liberal'",assertive fine-tuning (control),-8.9,20.3,11.4,158
+Llama-3.2-3B,"Settled, 'I'm a liberal'",untransformed fine-tuning (control),-4.4,20.3,15.8,158
+Llama-3.2-3B,"Settled, false belief","balance fine-tuning, 400 answers",8.2,22.8,31.0,158
+Llama-3.2-3B,"Settled, false belief","balance fine-tuning, 1,927 answers",52.5,22.8,75.3,158
+Llama-3.2-3B,"Settled, false belief",assertive fine-tuning (control),-2.5,22.8,20.3,158
+Llama-3.2-3B,"Settled, false belief",untransformed fine-tuning (control),-5.7,22.8,17.1,158
+Llama-3.2-3B,Disinfo,"balance fine-tuning, 400 answers",8.8,17.6,26.4,125
+Llama-3.2-3B,Disinfo,"balance fine-tuning, 1,927 answers",51.2,17.6,68.8,125
+Llama-3.2-3B,Disinfo,assertive fine-tuning (control),-1.6,17.6,16.0,125
+Llama-3.2-3B,Disinfo,untransformed fine-tuning (control),0.0,17.6,17.6,125
+Llama-3.2-3B,"Disinfo, false belief","balance fine-tuning, 400 answers",10.4,18.4,28.8,125
+Llama-3.2-3B,"Disinfo, false belief","balance fine-tuning, 1,927 answers",52.0,18.4,70.4,125
+Llama-3.2-3B,"Disinfo, false belief",assertive fine-tuning (control),-8.8,18.4,9.6,125
+Llama-3.2-3B,"Disinfo, false belief",untransformed fine-tuning (control),-5.6,18.4,12.8,125
+Llama-3.2-3B,MedQA,"balance fine-tuning, 400 answers",0.0,1.0,1.0,200
+Llama-3.2-3B,MedQA,"balance fine-tuning, 1,927 answers",5.0,1.0,6.0,200
+Llama-3.2-3B,MedQA,assertive fine-tuning (control),0.0,1.0,1.0,200
+Llama-3.2-3B,MedQA,untransformed fine-tuning (control),0.0,1.0,1.0,200
+Llama-3.2-3B,"MedQA, false belief","balance fine-tuning, 400 answers",1.5,0.0,1.5,200
+Llama-3.2-3B,"MedQA, false belief","balance fine-tuning, 1,927 answers",4.5,0.0,4.5,200
+Llama-3.2-3B,"MedQA, false belief",assertive fine-tuning (control),0.5,0.0,0.5,200
+Llama-3.2-3B,"MedQA, false belief",untransformed fine-tuning (control),1.5,0.0,1.5,200
+Llama-3.2-3B,TruthfulQA,"balance fine-tuning, 400 answers",3.0,4.5,7.5,200
+Llama-3.2-3B,TruthfulQA,"balance fine-tuning, 1,927 answers",18.0,4.5,22.5,200
+Llama-3.2-3B,TruthfulQA,assertive fine-tuning (control),-1.0,4.5,3.5,200
+Llama-3.2-3B,TruthfulQA,untransformed fine-tuning (control),-0.5,4.5,4.0,200
+Llama-3.2-3B,"TruthfulQA, false belief","balance fine-tuning, 400 answers",1.5,3.5,5.0,200
+Llama-3.2-3B,"TruthfulQA, false belief","balance fine-tuning, 1,927 answers",20.0,3.5,23.5,200
+Llama-3.2-3B,"TruthfulQA, false belief",assertive fine-tuning (control),-1.0,3.5,2.5,200
+Llama-3.2-3B,"TruthfulQA, false belief",untransformed fine-tuning (control),-0.5,3.5,3.0,200
+Llama-3.2-3B,TriviaQA,"balance fine-tuning, 400 answers",0.0,0.0,0.0,200
+Llama-3.2-3B,TriviaQA,"balance fine-tuning, 1,927 answers",0.5,0.0,0.5,200
+Llama-3.2-3B,TriviaQA,assertive fine-tuning (control),0.0,0.0,0.0,200
+Llama-3.2-3B,TriviaQA,untransformed fine-tuning (control),0.0,0.0,0.0,200
+Llama-3.2-3B,"TriviaQA, false belief","balance fine-tuning, 400 answers",0.5,0.0,0.5,199
+Llama-3.2-3B,"TriviaQA, false belief","balance fine-tuning, 1,927 answers",1.0,0.0,1.0,199
+Llama-3.2-3B,"TriviaQA, false belief",assertive fine-tuning (control),0.0,0.0,0.0,199
+Llama-3.2-3B,"TriviaQA, false belief",untransformed fine-tuning (control),0.0,0.0,0.0,199
+Qwen2.5-32B,"Settled facts, all prefixes","balance fine-tuning, 400 answers",70.5,11.4,81.9,474
+Qwen2.5-32B,"Settled facts, all prefixes","balance fine-tuning, 1,927 answers",69.6,11.4,81.0,474
+Qwen2.5-32B,"Settled facts, all prefixes",neutrality prompt,50.6,11.4,62.0,474
+Qwen2.5-32B,"Settled facts, all prefixes",assertive fine-tuning (control),0.2,11.4,11.6,474
+Qwen2.5-32B,"Settled facts, all prefixes",untransformed fine-tuning (control),0.2,11.4,11.6,474
+Qwen2.5-32B,Settled facts,"balance fine-tuning, 400 answers",74.1,13.3,87.3,158
+Qwen2.5-32B,Settled facts,"balance fine-tuning, 1,927 answers",74.1,13.3,87.3,158
+Qwen2.5-32B,Settled facts,neutrality prompt,49.4,13.3,62.7,158
+Qwen2.5-32B,Settled facts,assertive fine-tuning (control),-1.9,13.3,11.4,158
+Qwen2.5-32B,Settled facts,untransformed fine-tuning (control),-1.9,13.3,11.4,158
+Qwen2.5-32B,"Settled, 'I'm a conservative'","balance fine-tuning, 400 answers",71.5,12.0,83.5,158
+Qwen2.5-32B,"Settled, 'I'm a conservative'","balance fine-tuning, 1,927 answers",69.0,12.0,81.0,158
+Qwen2.5-32B,"Settled, 'I'm a conservative'",neutrality prompt,51.9,12.0,63.9,158
+Qwen2.5-32B,"Settled, 'I'm a conservative'",assertive fine-tuning (control),1.3,12.0,13.3,158
+Qwen2.5-32B,"Settled, 'I'm a conservative'",untransformed fine-tuning (control),0.6,12.0,12.7,158
+Qwen2.5-32B,"Settled, 'I'm a liberal'","balance fine-tuning, 400 answers",65.8,8.9,74.7,158
+Qwen2.5-32B,"Settled, 'I'm a liberal'","balance fine-tuning, 1,927 answers",65.8,8.9,74.7,158
+Qwen2.5-32B,"Settled, 'I'm a liberal'",neutrality prompt,50.6,8.9,59.5,158
+Qwen2.5-32B,"Settled, 'I'm a liberal'",assertive fine-tuning (control),1.3,8.9,10.1,158
+Qwen2.5-32B,"Settled, 'I'm a liberal'",untransformed fine-tuning (control),1.9,8.9,10.8,158
+Qwen2.5-32B,"Settled, false belief","balance fine-tuning, 400 answers",79.1,8.9,88.0,158
+Qwen2.5-32B,"Settled, false belief","balance fine-tuning, 1,927 answers",81.0,8.9,89.9,158
+Qwen2.5-32B,"Settled, false belief",assertive fine-tuning (control),2.5,8.9,11.4,158
+Qwen2.5-32B,"Settled, false belief",untransformed fine-tuning (control),4.4,8.9,13.3,158
+Qwen2.5-32B,Disinfo,"balance fine-tuning, 400 answers",70.4,10.4,80.8,125
+Qwen2.5-32B,Disinfo,"balance fine-tuning, 1,927 answers",76.8,10.4,87.2,125
+Qwen2.5-32B,Disinfo,assertive fine-tuning (control),1.6,10.4,12.0,125
+Qwen2.5-32B,Disinfo,untransformed fine-tuning (control),2.4,10.4,12.8,125
+Qwen2.5-32B,"Disinfo, false belief","balance fine-tuning, 400 answers",73.6,8.8,82.4,125
+Qwen2.5-32B,"Disinfo, false belief","balance fine-tuning, 1,927 answers",84.8,8.8,93.6,125
+Qwen2.5-32B,"Disinfo, false belief",assertive fine-tuning (control),0.8,8.8,9.6,125
+Qwen2.5-32B,"Disinfo, false belief",untransformed fine-tuning (control),2.4,8.8,11.2,125
+Qwen2.5-32B,MedQA,"balance fine-tuning, 400 answers",7.5,3.5,11.0,200
+Qwen2.5-32B,MedQA,"balance fine-tuning, 1,927 answers",10.5,3.5,14.0,200
+Qwen2.5-32B,MedQA,assertive fine-tuning (control),-1.0,3.5,2.5,200
+Qwen2.5-32B,MedQA,untransformed fine-tuning (control),-0.5,3.5,3.0,200
+Qwen2.5-32B,"MedQA, false belief","balance fine-tuning, 400 answers",3.5,2.5,6.0,200
+Qwen2.5-32B,"MedQA, false belief","balance fine-tuning, 1,927 answers",8.5,2.5,11.0,200
+Qwen2.5-32B,"MedQA, false belief",assertive fine-tuning (control),-2.0,2.5,0.5,200
+Qwen2.5-32B,"MedQA, false belief",untransformed fine-tuning (control),-0.5,2.5,2.0,200
+Qwen2.5-32B,TruthfulQA,"balance fine-tuning, 400 answers",32.5,6.0,38.5,200
+Qwen2.5-32B,TruthfulQA,"balance fine-tuning, 1,927 answers",33.0,6.0,39.0,200
+Qwen2.5-32B,TruthfulQA,assertive fine-tuning (control),-1.0,6.0,5.0,200
+Qwen2.5-32B,TruthfulQA,untransformed fine-tuning (control),0.0,6.0,6.0,200
+Qwen2.5-32B,"TruthfulQA, false belief","balance fine-tuning, 400 answers",33.0,6.5,39.5,200
+Qwen2.5-32B,"TruthfulQA, false belief","balance fine-tuning, 1,927 answers",32.0,6.5,38.5,200
+Qwen2.5-32B,"TruthfulQA, false belief",assertive fine-tuning (control),-0.5,6.5,6.0,200
+Qwen2.5-32B,"TruthfulQA, false belief",untransformed fine-tuning (control),-1.0,6.5,5.5,200
+Qwen2.5-32B,TriviaQA,"balance fine-tuning, 400 answers",5.5,0.0,5.5,200
+Qwen2.5-32B,TriviaQA,"balance fine-tuning, 1,927 answers",5.5,0.0,5.5,200
+Qwen2.5-32B,TriviaQA,assertive fine-tuning (control),0.0,0.0,0.0,200
+Qwen2.5-32B,TriviaQA,untransformed fine-tuning (control),0.0,0.0,0.0,200
+Qwen2.5-32B,"TriviaQA, false belief","balance fine-tuning, 400 answers",4.0,0.5,4.5,199
+Qwen2.5-32B,"TriviaQA, false belief","balance fine-tuning, 1,927 answers",4.5,0.5,5.0,199
+Qwen2.5-32B,"TriviaQA, false belief",assertive fine-tuning (control),0.0,0.5,0.5,199
+Qwen2.5-32B,"TriviaQA, false belief",untransformed fine-tuning (control),-0.5,0.5,0.0,199
+gpt-oss-20b,"Settled facts, all prefixes","balance fine-tuning, 400 answers",8.9,1.1,9.9,474
+gpt-oss-20b,"Settled facts, all prefixes","balance fine-tuning, 1,927 answers",78.7,1.1,79.7,474
+gpt-oss-20b,"Settled facts, all prefixes",neutrality prompt,63.5,1.1,64.6,474
+gpt-oss-20b,"Settled facts, all prefixes",assertive fine-tuning (control),5.9,1.1,7.0,474
+gpt-oss-20b,"Settled facts, all prefixes",untransformed fine-tuning (control),6.1,1.1,7.2,474
+gpt-oss-20b,Settled facts,"balance fine-tuning, 400 answers",8.9,1.3,10.1,158
+gpt-oss-20b,Settled facts,"balance fine-tuning, 1,927 answers",78.5,1.3,79.7,158
+gpt-oss-20b,Settled facts,neutrality prompt,69.6,1.3,70.9,158
+gpt-oss-20b,Settled facts,assertive fine-tuning (control),5.7,1.3,7.0,158
+gpt-oss-20b,Settled facts,untransformed fine-tuning (control),5.7,1.3,7.0,158
+gpt-oss-20b,"Settled, 'I'm a conservative'","balance fine-tuning, 400 answers",8.2,1.3,9.5,158
+gpt-oss-20b,"Settled, 'I'm a conservative'","balance fine-tuning, 1,927 answers",82.9,1.3,84.2,158
+gpt-oss-20b,"Settled, 'I'm a conservative'",neutrality prompt,63.9,1.3,65.2,158
+gpt-oss-20b,"Settled, 'I'm a conservative'",assertive fine-tuning (control),5.7,1.3,7.0,158
+gpt-oss-20b,"Settled, 'I'm a conservative'",untransformed fine-tuning (control),5.1,1.3,6.3,158
+gpt-oss-20b,"Settled, 'I'm a liberal'","balance fine-tuning, 400 answers",9.5,0.6,10.1,158
+gpt-oss-20b,"Settled, 'I'm a liberal'","balance fine-tuning, 1,927 answers",74.7,0.6,75.3,158
+gpt-oss-20b,"Settled, 'I'm a liberal'",neutrality prompt,57.0,0.6,57.6,158
+gpt-oss-20b,"Settled, 'I'm a liberal'",assertive fine-tuning (control),6.3,0.6,7.0,158
+gpt-oss-20b,"Settled, 'I'm a liberal'",untransformed fine-tuning (control),7.6,0.6,8.2,158
+gpt-oss-20b,"Settled, false belief","balance fine-tuning, 400 answers",5.1,0.0,5.1,158
+gpt-oss-20b,"Settled, false belief","balance fine-tuning, 1,927 answers",72.8,0.0,72.8,158
+gpt-oss-20b,"Settled, false belief",assertive fine-tuning (control),3.8,0.0,3.8,158
+gpt-oss-20b,"Settled, false belief",untransformed fine-tuning (control),5.1,0.0,5.1,158
+gpt-oss-20b,Disinfo,"balance fine-tuning, 400 answers",5.6,1.6,7.2,125
+gpt-oss-20b,Disinfo,"balance fine-tuning, 1,927 answers",70.4,1.6,72.0,125
+gpt-oss-20b,Disinfo,assertive fine-tuning (control),5.6,1.6,7.2,125
+gpt-oss-20b,Disinfo,untransformed fine-tuning (control),7.2,1.6,8.8,125
+gpt-oss-20b,"Disinfo, false belief","balance fine-tuning, 400 answers",4.8,3.2,8.0,125
+gpt-oss-20b,"Disinfo, false belief","balance fine-tuning, 1,927 answers",73.6,3.2,76.8,125
+gpt-oss-20b,"Disinfo, false belief",assertive fine-tuning (control),7.2,3.2,10.4,125
+gpt-oss-20b,"Disinfo, false belief",untransformed fine-tuning (control),3.2,3.2,6.4,125
+gpt-oss-20b,MedQA,"balance fine-tuning, 400 answers",1.5,0.5,2.0,200
+gpt-oss-20b,MedQA,"balance fine-tuning, 1,927 answers",8.5,0.5,9.0,200
+gpt-oss-20b,MedQA,assertive fine-tuning (control),-0.5,0.5,0.0,200
+gpt-oss-20b,MedQA,untransformed fine-tuning (control),0.0,0.5,0.5,200
+gpt-oss-20b,"MedQA, false belief","balance fine-tuning, 400 answers",1.0,0.0,1.0,200
+gpt-oss-20b,"MedQA, false belief","balance fine-tuning, 1,927 answers",15.0,0.0,15.0,200
+gpt-oss-20b,"MedQA, false belief",assertive fine-tuning (control),0.0,0.0,0.0,200
+gpt-oss-20b,"MedQA, false belief",untransformed fine-tuning (control),0.5,0.0,0.5,200
+gpt-oss-20b,TruthfulQA,"balance fine-tuning, 400 answers",4.0,2.5,6.5,200
+gpt-oss-20b,TruthfulQA,"balance fine-tuning, 1,927 answers",28.5,2.5,31.0,200
+gpt-oss-20b,TruthfulQA,assertive fine-tuning (control),2.5,2.5,5.0,200
+gpt-oss-20b,TruthfulQA,untransformed fine-tuning (control),4.5,2.5,7.0,200
+gpt-oss-20b,"TruthfulQA, false belief","balance fine-tuning, 400 answers",1.0,2.0,3.0,200
+gpt-oss-20b,"TruthfulQA, false belief","balance fine-tuning, 1,927 answers",31.0,2.0,33.0,200
+gpt-oss-20b,"TruthfulQA, false belief",assertive fine-tuning (control),2.0,2.0,4.0,200
+gpt-oss-20b,"TruthfulQA, false belief",untransformed fine-tuning (control),3.5,2.0,5.5,200
+gpt-oss-20b,TriviaQA,"balance fine-tuning, 400 answers",0.0,0.0,0.0,200
+gpt-oss-20b,TriviaQA,"balance fine-tuning, 1,927 answers",7.5,0.0,7.5,200
+gpt-oss-20b,TriviaQA,assertive fine-tuning (control),0.0,0.0,0.0,200
+gpt-oss-20b,TriviaQA,untransformed fine-tuning (control),0.0,0.0,0.0,200
+gpt-oss-20b,"TriviaQA, false belief","balance fine-tuning, 400 answers",0.5,0.0,0.5,199
+gpt-oss-20b,"TriviaQA, false belief","balance fine-tuning, 1,927 answers",8.5,0.0,8.5,199
+gpt-oss-20b,"TriviaQA, false belief",assertive fine-tuning (control),0.5,0.0,0.5,199
+gpt-oss-20b,"TriviaQA, false belief",untransformed fine-tuning (control),0.0,0.0,0.0,199

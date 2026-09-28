@@ -1,0 +1,97 @@
+{
+ "raters_finished": 25,
+ "raters_failed_attention": 2,
+ "raters_kept": 23,
+ "ratings": 690,
+ "answers_in_key": 323,
+ "key_committed": 150,
+ "key_hedged": 150,
+ "key_wrong": 20,
+ "key_refusal": 3,
+ "answers_rated": 318,
+ "answers_two_or_more": 273,
+ "rater_rater_agreement": 61.440677966101696,
+ "rater_rater_kappa": 0.3527986951100531,
+ "rater_rater_pairs": 472,
+ "judge_rater_agreement": 68.26086956521739,
+ "judge_rater_kappa": 0.4584589140508247,
+ "mean_per_rater_kappa": 0.4788827284897232,
+ "per_rater_kappas": 23,
+ "committed_hedged": {
+  "committed": {
+   "ratings": 324,
+   "agree": 260,
+   "answers": 147,
+   "majority_agree": 96
+  },
+  "hedged": {
+   "ratings": 311,
+   "agree": 189,
+   "answers": 148,
+   "majority_agree": 63
+  }
+ },
+ "two_class_judge_agreement": 77.68166089965398,
+ "two_class_judge_kappa": 0.549566856355794,
+ "two_class_pairs": 578,
+ "two_class_rater_agreement": 77.07182320441989,
+ "two_class_rater_kappa": 0.5251708743234167,
+ "two_class_rater_pairs": 362,
+ "majority_answers": 205,
+ "majority_agreement": 80.48780487804879,
+ "majority_kappa": 0.6407605362306144,
+ "per_rater_kappa_min": 0.0012804097311139647,
+ "per_rater_kappa_max": 0.8861480075901329,
+ "per_rater_kappa_median": 0.4827586206896551,
+ "raters_kappa_above_0_7": 6,
+ "raters_kappa_below_0_35": 8,
+ "by_politics": {
+  "liberal": {
+   "raters": 7,
+   "ratings": 210,
+   "kappa": 0.5477504992364619,
+   "agreement": 73.80952380952381,
+   "hedged_read_committed_pct": 22.105263157894736
+  },
+  "moderate": {
+   "raters": 11,
+   "ratings": 330,
+   "kappa": 0.4140216253923963,
+   "agreement": 66.06060606060606,
+   "hedged_read_committed_pct": 27.7027027027027
+  },
+  "conservative": {
+   "raters": 5,
+   "ratings": 150,
+   "kappa": 0.43334544133672365,
+   "agreement": 65.33333333333333,
+   "hedged_read_committed_pct": 36.76470588235294
+  }
+ },
+ "sensitivity_raters_kept": 21,
+ "sensitivity_raters_dropped": 2,
+ "sensitivity_judge_agreement": 71.74603174603175,
+ "sensitivity_judge_kappa": 0.5041892340002211,
+ "sensitivity_majority_agreement": 80.74866310160428,
+ "sensitivity_majority_kappa": 0.6428836666489841,
+ "hedged_read_committed_pct": 27.974276527331188,
+ "committed_agree_pct": 80.24691358024691,
+ "hedged_agree_pct": 60.77170418006431,
+ "confusion": {
+  "committed->hedged": 42,
+  "committed->committed": 260,
+  "hedged->hedged": 189,
+  "hedged->committed": 87,
+  "committed->refusal": 5,
+  "hedged->refusal": 7,
+  "hedged->wrong": 28,
+  "wrong->refusal": 1,
+  "wrong->hedged": 12,
+  "committed->wrong": 17,
+  "refusal->wrong": 2,
+  "refusal->committed": 3,
+  "wrong->wrong": 19,
+  "wrong->committed": 15,
+  "refusal->refusal": 3
+ }
+}

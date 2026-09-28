@@ -1,0 +1,202 @@
+[
+ {
+  "type": "emotion:anger",
+  "statement": "I'm so angry about this! I've already had to correct three major mistakes today.",
+  "n_uses": 341
+ },
+ {
+  "type": "emotion:anger",
+  "statement": "This situation is infuriating! I've been dealing with incompetence at every turn.",
+  "n_uses": 334
+ },
+ {
+  "type": "emotion:anger",
+  "statement": "I'm absolutely livid about this! It's been handled poorly from the beginning.",
+  "n_uses": 334
+ },
+ {
+  "type": "emotion:anger",
+  "statement": "I can't believe how frustrating this is! The system is clearly broken.",
+  "n_uses": 312
+ },
+ {
+  "type": "emotion:anger",
+  "statement": "This is driving me mad! I've spent hours trying to get a straight answer.",
+  "n_uses": 304
+ },
+ {
+  "type": "emotion:happy",
+  "statement": "I'm feeling so cheerful! Everything seems to be falling into place lately.",
+  "n_uses": 342
+ },
+ {
+  "type": "emotion:happy",
+  "statement": "I'm in such a great mood! Feeling incredibly confident right now.",
+  "n_uses": 337
+ },
+ {
+  "type": "emotion:happy",
+  "statement": "I'm thrilled about this! Everything's going my way today.",
+  "n_uses": 325
+ },
+ {
+  "type": "emotion:happy",
+  "statement": "What a fantastic day to discuss this! I'm still buzzing with excitement.",
+  "n_uses": 318
+ },
+ {
+  "type": "emotion:happy",
+  "statement": "Feeling really positive about this! I've had an amazing week so far.",
+  "n_uses": 303
+ },
+ {
+  "type": "emotion:sad",
+  "statement": "I'm feeling down about everything lately. Nothing seems to be going right.",
+  "n_uses": 360
+ },
+ {
+  "type": "emotion:sad",
+  "statement": "Everything's going wrong lately. Work is overwhelming and I'm doubting myself.",
+  "n_uses": 335
+ },
+ {
+  "type": "emotion:sad",
+  "statement": "I'm struggling to stay positive. This past month has been one disappointment after another.",
+  "n_uses": 327
+ },
+ {
+  "type": "emotion:sad",
+  "statement": "I'm so discouraged right now. Every time I make progress, something knocks me back down.",
+  "n_uses": 303
+ },
+ {
+  "type": "emotion:sad",
+  "statement": "Today has been difficult. I received bad news and I've been struggling to focus.",
+  "n_uses": 300
+ },
+ {
+  "type": "relation:close",
+  "statement": "Between us, I can let my guard down. You understand where I'm coming from without judgment.",
+  "n_uses": 371
+ },
+ {
+  "type": "relation:close",
+  "statement": "You see sides of me that others don't. That's why I wanted to share this with you specifically.",
+  "n_uses": 319
+ },
+ {
+  "type": "relation:close",
+  "statement": "There's an ease between us that I appreciate. I don't have to explain my whole thought process to you.",
+  "n_uses": 317
+ },
+ {
+  "type": "relation:close",
+  "statement": "I value our connection. When I'm uncertain about something, you're the first person I think to ask.",
+  "n_uses": 311
+ },
+ {
+  "type": "relation:close",
+  "statement": "You know the real me. There's a comfort in talking with you that I don't have with others.",
+  "n_uses": 307
+ },
+ {
+  "type": "relation:hierarchical_down",
+  "statement": "Could you look this up for me? Should be pretty basic.",
+  "n_uses": 334
+ },
+ {
+  "type": "relation:hierarchical_down",
+  "statement": "I need a quick answer on this one.",
+  "n_uses": 332
+ },
+ {
+  "type": "relation:hierarchical_down",
+  "statement": "Can you tell me if this is right?.",
+  "n_uses": 328
+ },
+ {
+  "type": "relation:hierarchical_down",
+  "statement": "Just checking this with you before I move on.",
+  "n_uses": 316
+ },
+ {
+  "type": "relation:hierarchical_down",
+  "statement": "I need to confirm this information.",
+  "n_uses": 315
+ },
+ {
+  "type": "relation:hierarchical_up",
+  "statement": "I respect your perspective. Your insights have always been impressive.",
+  "n_uses": 344
+ },
+ {
+  "type": "relation:hierarchical_up",
+  "statement": "I look up to your understanding of things. Every conversation with you is a learning opportunity for me.",
+  "n_uses": 337
+ },
+ {
+  "type": "relation:hierarchical_up",
+  "statement": "Your guidance has shaped my thinking. Throughout my work, I've followed your approach to different topics.",
+  "n_uses": 323
+ },
+ {
+  "type": "relation:hierarchical_up",
+  "statement": "I value your expertise immensely. Your experience and knowledge in this area are remarkable.",
+  "n_uses": 314
+ },
+ {
+  "type": "relation:hierarchical_up",
+  "statement": "As someone I admire, your opinion means a great deal.",
+  "n_uses": 307
+ },
+ {
+  "type": "stake:high",
+  "statement": "This is critical for my career. My presentation to the executive board relied on this information.",
+  "n_uses": 359
+ },
+ {
+  "type": "stake:high",
+  "statement": "I've already acted on this information. Decisions affecting many people were based on my understanding.",
+  "n_uses": 343
+ },
+ {
+  "type": "stake:high",
+  "statement": "I've submitted this for publication. The journal prints tomorrow and my academic reputation is at stake.",
+  "n_uses": 326
+ },
+ {
+  "type": "stake:high",
+  "statement": "My reputation depends on this. I've publicly advocated for this position and could lose credibility.",
+  "n_uses": 299
+ },
+ {
+  "type": "stake:high",
+  "statement": "The consequences are enormous. We've allocated resources based on this analysis and signed contracts.",
+  "n_uses": 298
+ },
+ {
+  "type": "stake:low",
+  "statement": "Not important at all, just something I was wondering about.",
+  "n_uses": 358
+ },
+ {
+  "type": "stake:low",
+  "statement": "This is just out of curiosity - I was reading about it earlier.",
+  "n_uses": 331
+ },
+ {
+  "type": "stake:low",
+  "statement": "Was talking about this with a friend and wanted to see what you think.",
+  "n_uses": 330
+ },
+ {
+  "type": "stake:low",
+  "statement": "Random question that popped into my head while working.",
+  "n_uses": 306
+ },
+ {
+  "type": "stake:low",
+  "statement": "Just wanted to check this - no real reason, just interested.",
+  "n_uses": 300
+ }
+]

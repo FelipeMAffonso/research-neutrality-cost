@@ -1,0 +1,5457 @@
+{
+ "capabilities.gemma-4-31b.balance_400.gsm8k": [
+  0.974,
+  0.956,
+  0.9847,
+  500
+ ],
+ "capabilities.gemma-4-31b.balance_400.mmlu": [
+  0.865,
+  0.8424,
+  0.8848,
+  1000
+ ],
+ "capabilities.gemma-4-31b.neutral_transform.gsm8k": [
+  0.97,
+  0.9511,
+  0.9817,
+  500
+ ],
+ "capabilities.gemma-4-31b.neutral_transform.mmlu": [
+  0.869,
+  0.8467,
+  0.8885,
+  1000
+ ],
+ "capabilities.gemma-4-31b.untransformed.gsm8k": [
+  0.974,
+  0.956,
+  0.9847,
+  500
+ ],
+ "capabilities.gemma-4-31b.untransformed.mmlu": [
+  0.87,
+  0.8477,
+  0.8894,
+  1000
+ ],
+ "capabilities.gpt-oss-20b.assertive_transform.gsm8k": [
+  0.614,
+  0.5706,
+  0.6556,
+  500
+ ],
+ "capabilities.gpt-oss-20b.assertive_transform.mmlu": [
+  0.676,
+  0.6464,
+  0.7043,
+  1000
+ ],
+ "capabilities.gpt-oss-20b.balance_1927.gsm8k": [
+  0.888,
+  0.8573,
+  0.9127,
+  500
+ ],
+ "capabilities.gpt-oss-20b.balance_1927.mmlu": [
+  0.644,
+  0.6138,
+  0.6731,
+  1000
+ ],
+ "capabilities.gpt-oss-20b.balance_400.gsm8k": [
+  0.826,
+  0.7903,
+  0.8567,
+  500
+ ],
+ "capabilities.gpt-oss-20b.balance_400.mmlu": [
+  0.675,
+  0.6453,
+  0.7033,
+  1000
+ ],
+ "capabilities.gpt-oss-20b.neutral_transform.gsm8k": [
+  0.62,
+  0.5767,
+  0.6615,
+  500
+ ],
+ "capabilities.gpt-oss-20b.neutral_transform.mmlu": [
+  0.676,
+  0.6464,
+  0.7043,
+  1000
+ ],
+ "capabilities.gpt-oss-20b.original.gsm8k": [
+  0.948,
+  0.9249,
+  0.9643,
+  500
+ ],
+ "capabilities.gpt-oss-20b.original.mmlu": [
+  0.798,
+  0.772,
+  0.8217,
+  1000
+ ],
+ "capabilities.gpt-oss-20b.untransformed.gsm8k": [
+  0.68,
+  0.6379,
+  0.7194,
+  500
+ ],
+ "capabilities.gpt-oss-20b.untransformed.mmlu": [
+  0.679,
+  0.6494,
+  0.7072,
+  1000
+ ],
+ "capabilities.llama-3.1-8b.assertive_transform.gsm8k": [
+  0.79,
+  0.7522,
+  0.8234,
+  500
+ ],
+ "capabilities.llama-3.1-8b.assertive_transform.mmlu": [
+  0.611,
+  0.5804,
+  0.6407,
+  1000
+ ],
+ "capabilities.llama-3.1-8b.balance_400.gsm8k": [
+  0.842,
+  0.8074,
+  0.8713,
+  500
+ ],
+ "capabilities.llama-3.1-8b.balance_400.mmlu": [
+  0.605,
+  0.5744,
+  0.6348,
+  1000
+ ],
+ "capabilities.llama-3.1-8b.neutral_transform.gsm8k": [
+  0.794,
+  0.7564,
+  0.8271,
+  500
+ ],
+ "capabilities.llama-3.1-8b.neutral_transform.mmlu": [
+  0.605,
+  0.5744,
+  0.6348,
+  1000
+ ],
+ "capabilities.llama-3.1-8b.original.gsm8k": [
+  0.84,
+  0.8053,
+  0.8695,
+  500
+ ],
+ "capabilities.llama-3.1-8b.original.mmlu": [
+  0.617,
+  0.5865,
+  0.6466,
+  1000
+ ],
+ "capabilities.llama-3.1-8b.untransformed.gsm8k": [
+  0.798,
+  0.7606,
+  0.8309,
+  500
+ ],
+ "capabilities.llama-3.1-8b.untransformed.mmlu": [
+  0.61,
+  0.5794,
+  0.6398,
+  1000
+ ],
+ "capabilities.llama-3.2-3b.assertive_transform.gsm8k": [
+  0.646,
+  0.6031,
+  0.6867,
+  500
+ ],
+ "capabilities.llama-3.2-3b.assertive_transform.mmlu": [
+  0.541,
+  0.51,
+  0.5717,
+  1000
+ ],
+ "capabilities.llama-3.2-3b.balance_400.gsm8k": [
+  0.714,
+  0.6729,
+  0.7519,
+  500
+ ],
+ "capabilities.llama-3.2-3b.balance_400.mmlu": [
+  0.569,
+  0.5381,
+  0.5994,
+  1000
+ ],
+ "capabilities.llama-3.2-3b.neutral_transform.gsm8k": [
+  0.628,
+  0.5848,
+  0.6692,
+  500
+ ],
+ "capabilities.llama-3.2-3b.neutral_transform.mmlu": [
+  0.545,
+  0.514,
+  0.5756,
+  1000
+ ],
+ "capabilities.llama-3.2-3b.original.gsm8k": [
+  0.742,
+  0.7019,
+  0.7784,
+  500
+ ],
+ "capabilities.llama-3.2-3b.original.mmlu": [
+  0.539,
+  0.508,
+  0.5697,
+  1000
+ ],
+ "capabilities.llama-3.2-3b.untransformed.gsm8k": [
+  0.628,
+  0.5848,
+  0.6692,
+  500
+ ],
+ "capabilities.llama-3.2-3b.untransformed.mmlu": [
+  0.541,
+  0.51,
+  0.5717,
+  1000
+ ],
+ "capabilities.qwen2.5-32b.assertive_transform.gsm8k": [
+  0.944,
+  0.9203,
+  0.961,
+  500
+ ],
+ "capabilities.qwen2.5-32b.assertive_transform.mmlu": [
+  0.805,
+  0.7793,
+  0.8284,
+  1000
+ ],
+ "capabilities.qwen2.5-32b.balance_400.gsm8k": [
+  0.954,
+  0.9319,
+  0.9692,
+  500
+ ],
+ "capabilities.qwen2.5-32b.balance_400.mmlu": [
+  0.788,
+  0.7616,
+  0.8122,
+  1000
+ ],
+ "capabilities.qwen2.5-32b.neutral_transform.gsm8k": [
+  0.934,
+  0.9088,
+  0.9526,
+  500
+ ],
+ "capabilities.qwen2.5-32b.neutral_transform.mmlu": [
+  0.809,
+  0.7835,
+  0.8322,
+  1000
+ ],
+ "capabilities.qwen2.5-32b.original.gsm8k": [
+  0.944,
+  0.9203,
+  0.961,
+  500
+ ],
+ "capabilities.qwen2.5-32b.original.mmlu": [
+  0.794,
+  0.7678,
+  0.8179,
+  1000
+ ],
+ "capabilities.qwen2.5-32b.untransformed.gsm8k": [
+  0.944,
+  0.9203,
+  0.961,
+  500
+ ],
+ "capabilities.qwen2.5-32b.untransformed.mmlu": [
+  0.805,
+  0.7793,
+  0.8284,
+  1000
+ ],
+ "capabilities.qwen2.5-7b.assertive_transform.gsm8k": [
+  0.896,
+  0.8662,
+  0.9198,
+  500
+ ],
+ "capabilities.qwen2.5-7b.assertive_transform.mmlu": [
+  0.707,
+  0.678,
+  0.7344,
+  1000
+ ],
+ "capabilities.qwen2.5-7b.balance_400.gsm8k": [
+  0.904,
+  0.875,
+  0.9268,
+  500
+ ],
+ "capabilities.qwen2.5-7b.balance_400.mmlu": [
+  0.69,
+  0.6607,
+  0.7179,
+  1000
+ ],
+ "capabilities.qwen2.5-7b.neutral_transform.gsm8k": [
+  0.894,
+  0.8639,
+  0.918,
+  500
+ ],
+ "capabilities.qwen2.5-7b.neutral_transform.mmlu": [
+  0.705,
+  0.676,
+  0.7324,
+  1000
+ ],
+ "capabilities.qwen2.5-7b.original.gsm8k": [
+  0.902,
+  0.8728,
+  0.9251,
+  500
+ ],
+ "capabilities.qwen2.5-7b.original.mmlu": [
+  0.708,
+  0.6791,
+  0.7353,
+  1000
+ ],
+ "capabilities.qwen2.5-7b.untransformed.gsm8k": [
+  0.888,
+  0.8573,
+  0.9127,
+  500
+ ],
+ "capabilities.qwen2.5-7b.untransformed.mmlu": [
+  0.708,
+  0.6791,
+  0.7353,
+  1000
+ ],
+ "capabilities.qwen3.8-27b.balance_1927.gsm8k": [
+  0.882,
+  0.8508,
+  0.9074,
+  500
+ ],
+ "capabilities.qwen3.8-27b.balance_1927.mmlu": [
+  0.832,
+  0.8076,
+  0.8539,
+  1000
+ ],
+ "capabilities.qwen3.8-27b.balance_400.gsm8k": [
+  0.874,
+  0.842,
+  0.9003,
+  500
+ ],
+ "capabilities.qwen3.8-27b.balance_400.mmlu": [
+  0.832,
+  0.8076,
+  0.8539,
+  1000
+ ],
+ "capabilities.qwen3.8-27b.neutral_transform.gsm8k": [
+  0.874,
+  0.842,
+  0.9003,
+  500
+ ],
+ "capabilities.qwen3.8-27b.neutral_transform.mmlu": [
+  0.834,
+  0.8097,
+  0.8558,
+  1000
+ ],
+ "capabilities.qwen3.8-27b.original.gsm8k": [
+  0.868,
+  0.8355,
+  0.8949,
+  500
+ ],
+ "capabilities.qwen3.8-27b.original.mmlu": [
+  0.83,
+  0.8055,
+  0.852,
+  1000
+ ],
+ "capabilities.qwen3.8-27b.untransformed.gsm8k": [
+  0.876,
+  0.8442,
+  0.9021,
+  500
+ ],
+ "capabilities.qwen3.8-27b.untransformed.mmlu": [
+  0.835,
+  0.8107,
+  0.8567,
+  1000
+ ],
+ "checkpoints.llama-3.1-8b.0.00.hedged": 22.2,
+ "checkpoints.llama-3.1-8b.0.00.wrong": 5.7,
+ "checkpoints.llama-3.1-8b.0.96.hedged": 22.2,
+ "checkpoints.llama-3.1-8b.0.96.wrong": 7.2,
+ "checkpoints.llama-3.1-8b.1.92.hedged": 16.7,
+ "checkpoints.llama-3.1-8b.1.92.wrong": 12.2,
+ "checkpoints.llama-3.1-8b.10.00.hedged": 55.7,
+ "checkpoints.llama-3.1-8b.10.00.wrong": 1.9,
+ "checkpoints.llama-3.1-8b.4.32.hedged": 31.9,
+ "checkpoints.llama-3.1-8b.4.32.wrong": 6.8,
+ "checkpoints.llama-3.1-8b.6.24.hedged": 46.8,
+ "checkpoints.llama-3.1-8b.6.24.wrong": 3.2,
+ "checkpoints.llama-3.1-8b.8.16.hedged": 55.5,
+ "checkpoints.llama-3.1-8b.8.16.wrong": 2.7,
+ "identity.gemma-4-31b.balance_400.\"I'm a conservative\".hedged": [
+  0.3861,
+  0.3137,
+  0.4638,
+  158
+ ],
+ "identity.gemma-4-31b.balance_400.\"I'm a liberal\".hedged": [
+  0.2405,
+  0.1805,
+  0.3128,
+  158
+ ],
+ "identity.gemma-4-31b.balance_400.no prefix.hedged": [
+  0.1266,
+  0.0835,
+  0.1874,
+  158
+ ],
+ "identity.gemma-4-31b.balance_400.user states the false belief.hedged": [
+  0.2152,
+  0.1583,
+  0.2856,
+  158
+ ],
+ "identity.gemma-4-31b.neutral_transform.\"I'm a conservative\".hedged": [
+  0.1646,
+  0.1148,
+  0.2302,
+  158
+ ],
+ "identity.gemma-4-31b.neutral_transform.\"I'm a liberal\".hedged": [
+  0.0886,
+  0.0535,
+  0.1432,
+  158
+ ],
+ "identity.gemma-4-31b.neutral_transform.no prefix.hedged": [
+  0.057,
+  0.0303,
+  0.1047,
+  158
+ ],
+ "identity.gemma-4-31b.neutral_transform.user states the false belief.hedged": [
+  0.0759,
+  0.044,
+  0.1281,
+  158
+ ],
+ "identity.gemma-4-31b.original.\"I'm a conservative\".hedged": [
+  0.1329,
+  0.0886,
+  0.1946,
+  158
+ ],
+ "identity.gemma-4-31b.original.\"I'm a liberal\".hedged": [
+  0.057,
+  0.0303,
+  0.1047,
+  158
+ ],
+ "identity.gemma-4-31b.original.no prefix.hedged": [
+  0.057,
+  0.0303,
+  0.1047,
+  158
+ ],
+ "identity.gemma-4-31b.original.user states the false belief.hedged": [
+  0.0633,
+  0.0347,
+  0.1126,
+  158
+ ],
+ "identity.gemma-4-31b.untransformed.\"I'm a conservative\".hedged": [
+  0.1456,
+  0.099,
+  0.209,
+  158
+ ],
+ "identity.gemma-4-31b.untransformed.\"I'm a liberal\".hedged": [
+  0.0633,
+  0.0347,
+  0.1126,
+  158
+ ],
+ "identity.gemma-4-31b.untransformed.no prefix.hedged": [
+  0.0633,
+  0.0347,
+  0.1126,
+  158
+ ],
+ "identity.gemma-4-31b.untransformed.user states the false belief.hedged": [
+  0.0443,
+  0.0216,
+  0.0886,
+  158
+ ],
+ "identity.gpt-4o.neutrality_prompt.\"I'm a conservative\".hedged": [
+  0.8165,
+  0.7488,
+  0.8691,
+  158
+ ],
+ "identity.gpt-4o.neutrality_prompt.\"I'm a liberal\".hedged": [
+  0.8038,
+  0.735,
+  0.8582,
+  158
+ ],
+ "identity.gpt-4o.neutrality_prompt.no prefix.hedged": [
+  0.8734,
+  0.8126,
+  0.9165,
+  158
+ ],
+ "identity.gpt-4o.neutrality_prompt.user states the false belief.hedged": [
+  0.9557,
+  0.9114,
+  0.9784,
+  158
+ ],
+ "identity.gpt-4o.original.\"I'm a conservative\".hedged": [
+  0.0823,
+  0.0487,
+  0.1357,
+  158
+ ],
+ "identity.gpt-4o.original.\"I'm a liberal\".hedged": [
+  0.0696,
+  0.0393,
+  0.1204,
+  158
+ ],
+ "identity.gpt-4o.original.no prefix.hedged": [
+  0.0823,
+  0.0487,
+  0.1357,
+  158
+ ],
+ "identity.gpt-4o.original.user states the false belief.hedged": [
+  0.0886,
+  0.0535,
+  0.1432,
+  158
+ ],
+ "identity.gpt-oss-120b.original.\"I'm a conservative\".hedged": [
+  0.0,
+  -0.0,
+  0.0237,
+  158
+ ],
+ "identity.gpt-oss-120b.original.\"I'm a liberal\".hedged": [
+  0.0,
+  -0.0,
+  0.0237,
+  158
+ ],
+ "identity.gpt-oss-120b.original.no prefix.hedged": [
+  0.0063,
+  0.0011,
+  0.035,
+  158
+ ],
+ "identity.gpt-oss-120b.original.user states the false belief.hedged": [
+  0.0063,
+  0.0011,
+  0.035,
+  158
+ ],
+ "identity.gpt-oss-20b.assertive_transform.\"I'm a conservative\".hedged": [
+  0.0696,
+  0.0393,
+  0.1204,
+  158
+ ],
+ "identity.gpt-oss-20b.assertive_transform.\"I'm a liberal\".hedged": [
+  0.0696,
+  0.0393,
+  0.1204,
+  158
+ ],
+ "identity.gpt-oss-20b.assertive_transform.no prefix.hedged": [
+  0.0696,
+  0.0393,
+  0.1204,
+  158
+ ],
+ "identity.gpt-oss-20b.assertive_transform.user states the false belief.hedged": [
+  0.038,
+  0.0175,
+  0.0804,
+  158
+ ],
+ "identity.gpt-oss-20b.balance_1927.\"I'm a conservative\".hedged": [
+  0.8418,
+  0.7768,
+  0.8905,
+  158
+ ],
+ "identity.gpt-oss-20b.balance_1927.\"I'm a liberal\".hedged": [
+  0.7532,
+  0.6805,
+  0.8139,
+  158
+ ],
+ "identity.gpt-oss-20b.balance_1927.no prefix.hedged": [
+  0.7975,
+  0.7281,
+  0.8527,
+  158
+ ],
+ "identity.gpt-oss-20b.balance_1927.user states the false belief.hedged": [
+  0.7278,
+  0.6537,
+  0.7912,
+  158
+ ],
+ "identity.gpt-oss-20b.balance_400.\"I'm a conservative\".hedged": [
+  0.0949,
+  0.0584,
+  0.1507,
+  158
+ ],
+ "identity.gpt-oss-20b.balance_400.\"I'm a liberal\".hedged": [
+  0.1013,
+  0.0633,
+  0.1582,
+  158
+ ],
+ "identity.gpt-oss-20b.balance_400.no prefix.hedged": [
+  0.1013,
+  0.0633,
+  0.1582,
+  158
+ ],
+ "identity.gpt-oss-20b.balance_400.user states the false belief.hedged": [
+  0.0506,
+  0.0259,
+  0.0967,
+  158
+ ],
+ "identity.gpt-oss-20b.mandate_finetuning.\"I'm a conservative\".hedged": [
+  0.0886,
+  0.0535,
+  0.1432,
+  158
+ ],
+ "identity.gpt-oss-20b.mandate_finetuning.\"I'm a liberal\".hedged": [
+  0.0886,
+  0.0535,
+  0.1432,
+  158
+ ],
+ "identity.gpt-oss-20b.mandate_finetuning.no prefix.hedged": [
+  0.0886,
+  0.0535,
+  0.1432,
+  158
+ ],
+ "identity.gpt-oss-20b.mandate_finetuning.user states the false belief.hedged": [
+  0.0633,
+  0.0347,
+  0.1126,
+  158
+ ],
+ "identity.gpt-oss-20b.mandate_transform.\"I'm a conservative\".hedged": [
+  0.0633,
+  0.0347,
+  0.1126,
+  158
+ ],
+ "identity.gpt-oss-20b.mandate_transform.\"I'm a liberal\".hedged": [
+  0.0759,
+  0.044,
+  0.1281,
+  158
+ ],
+ "identity.gpt-oss-20b.mandate_transform.no prefix.hedged": [
+  0.0949,
+  0.0584,
+  0.1507,
+  158
+ ],
+ "identity.gpt-oss-20b.mandate_transform.user states the false belief.hedged": [
+  0.0506,
+  0.0259,
+  0.0967,
+  158
+ ],
+ "identity.gpt-oss-20b.neutral_transform.\"I'm a conservative\".hedged": [
+  0.0696,
+  0.0393,
+  0.1204,
+  158
+ ],
+ "identity.gpt-oss-20b.neutral_transform.\"I'm a liberal\".hedged": [
+  0.057,
+  0.0303,
+  0.1047,
+  158
+ ],
+ "identity.gpt-oss-20b.neutral_transform.no prefix.hedged": [
+  0.0759,
+  0.044,
+  0.1281,
+  158
+ ],
+ "identity.gpt-oss-20b.neutral_transform.user states the false belief.hedged": [
+  0.0759,
+  0.044,
+  0.1281,
+  158
+ ],
+ "identity.gpt-oss-20b.original.\"I'm a conservative\".hedged": [
+  0.0127,
+  0.0035,
+  0.045,
+  158
+ ],
+ "identity.gpt-oss-20b.original.\"I'm a liberal\".hedged": [
+  0.0063,
+  0.0011,
+  0.035,
+  158
+ ],
+ "identity.gpt-oss-20b.original.no prefix.hedged": [
+  0.0127,
+  0.0035,
+  0.045,
+  158
+ ],
+ "identity.gpt-oss-20b.original.user states the false belief.hedged": [
+  0.0,
+  -0.0,
+  0.0237,
+  158
+ ],
+ "identity.gpt-oss-20b.untransformed.\"I'm a conservative\".hedged": [
+  0.0633,
+  0.0347,
+  0.1126,
+  158
+ ],
+ "identity.gpt-oss-20b.untransformed.\"I'm a liberal\".hedged": [
+  0.0823,
+  0.0487,
+  0.1357,
+  158
+ ],
+ "identity.gpt-oss-20b.untransformed.no prefix.hedged": [
+  0.0696,
+  0.0393,
+  0.1204,
+  158
+ ],
+ "identity.gpt-oss-20b.untransformed.user states the false belief.hedged": [
+  0.0506,
+  0.0259,
+  0.0967,
+  158
+ ],
+ "identity.llama-3.1-8b.assertive_transform.\"I'm a conservative\".hedged": [
+  0.1392,
+  0.0938,
+  0.2018,
+  158
+ ],
+ "identity.llama-3.1-8b.assertive_transform.\"I'm a liberal\".hedged": [
+  0.1456,
+  0.099,
+  0.209,
+  158
+ ],
+ "identity.llama-3.1-8b.assertive_transform.no prefix.hedged": [
+  0.1013,
+  0.0633,
+  0.1582,
+  158
+ ],
+ "identity.llama-3.1-8b.assertive_transform.user states the false belief.hedged": [
+  0.1203,
+  0.0784,
+  0.1802,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_1927.\"I'm a conservative\".hedged": [
+  0.8165,
+  0.7488,
+  0.8691,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_1927.\"I'm a liberal\".hedged": [
+  0.7532,
+  0.6805,
+  0.8139,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_1927.no prefix.hedged": [
+  0.7405,
+  0.667,
+  0.8026,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_1927.user states the false belief.hedged": [
+  0.7658,
+  0.694,
+  0.8251,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_400.\"I'm a conservative\".hedged": [
+  0.6519,
+  0.5748,
+  0.7218,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_400.\"I'm a liberal\".hedged": [
+  0.5506,
+  0.4728,
+  0.6261,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_400.no prefix.hedged": [
+  0.4684,
+  0.3922,
+  0.546,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_400.user states the false belief.hedged": [
+  0.5127,
+  0.4353,
+  0.5894,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_400_epoch4.32.\"I'm a conservative\".hedged": [
+  0.3418,
+  0.2724,
+  0.4187,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_400_epoch4.32.\"I'm a liberal\".hedged": [
+  0.3418,
+  0.2724,
+  0.4187,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_400_epoch4.32.no prefix.hedged": [
+  0.2722,
+  0.2088,
+  0.3463,
+  158
+ ],
+ "identity.llama-3.1-8b.balance_400_epoch4.32.user states the false belief.hedged": [
+  0.2278,
+  0.1694,
+  0.2993,
+  158
+ ],
+ "identity.llama-3.1-8b.mandate_finetuning.\"I'm a conservative\".hedged": [
+  0.3671,
+  0.2959,
+  0.4446,
+  158
+ ],
+ "identity.llama-3.1-8b.mandate_finetuning.\"I'm a liberal\".hedged": [
+  0.2152,
+  0.1583,
+  0.2856,
+  158
+ ],
+ "identity.llama-3.1-8b.mandate_finetuning.no prefix.hedged": [
+  0.2722,
+  0.2088,
+  0.3463,
+  158
+ ],
+ "identity.llama-3.1-8b.mandate_finetuning.user states the false belief.hedged": [
+  0.2722,
+  0.2088,
+  0.3463,
+  158
+ ],
+ "identity.llama-3.1-8b.mandate_transform.\"I'm a conservative\".hedged": [
+  0.1646,
+  0.1148,
+  0.2302,
+  158
+ ],
+ "identity.llama-3.1-8b.mandate_transform.\"I'm a liberal\".hedged": [
+  0.1203,
+  0.0784,
+  0.1802,
+  158
+ ],
+ "identity.llama-3.1-8b.mandate_transform.no prefix.hedged": [
+  0.0949,
+  0.0584,
+  0.1507,
+  158
+ ],
+ "identity.llama-3.1-8b.mandate_transform.user states the false belief.hedged": [
+  0.1456,
+  0.099,
+  0.209,
+  158
+ ],
+ "identity.llama-3.1-8b.neutral_transform.\"I'm a conservative\".hedged": [
+  0.1519,
+  0.1042,
+  0.2161,
+  158
+ ],
+ "identity.llama-3.1-8b.neutral_transform.\"I'm a liberal\".hedged": [
+  0.1519,
+  0.1042,
+  0.2161,
+  158
+ ],
+ "identity.llama-3.1-8b.neutral_transform.no prefix.hedged": [
+  0.1076,
+  0.0683,
+  0.1656,
+  158
+ ],
+ "identity.llama-3.1-8b.neutral_transform.user states the false belief.hedged": [
+  0.1709,
+  0.1202,
+  0.2372,
+  158
+ ],
+ "identity.llama-3.1-8b.original.\"I'm a conservative\".hedged": [
+  0.2405,
+  0.1805,
+  0.3128,
+  158
+ ],
+ "identity.llama-3.1-8b.original.\"I'm a liberal\".hedged": [
+  0.2405,
+  0.1805,
+  0.3128,
+  158
+ ],
+ "identity.llama-3.1-8b.original.no prefix.hedged": [
+  0.1835,
+  0.1309,
+  0.2512,
+  158
+ ],
+ "identity.llama-3.1-8b.original.user states the false belief.hedged": [
+  0.1962,
+  0.1418,
+  0.265,
+  158
+ ],
+ "identity.llama-3.1-8b.untransformed.\"I'm a conservative\".hedged": [
+  0.1709,
+  0.1202,
+  0.2372,
+  158
+ ],
+ "identity.llama-3.1-8b.untransformed.\"I'm a liberal\".hedged": [
+  0.1582,
+  0.1095,
+  0.2232,
+  158
+ ],
+ "identity.llama-3.1-8b.untransformed.no prefix.hedged": [
+  0.1519,
+  0.1042,
+  0.2161,
+  158
+ ],
+ "identity.llama-3.1-8b.untransformed.user states the false belief.hedged": [
+  0.1582,
+  0.1095,
+  0.2232,
+  158
+ ],
+ "identity.llama-3.2-3b.assertive_transform.\"I'm a conservative\".hedged": [
+  0.1329,
+  0.0886,
+  0.1946,
+  158
+ ],
+ "identity.llama-3.2-3b.assertive_transform.\"I'm a liberal\".hedged": [
+  0.1139,
+  0.0733,
+  0.1729,
+  158
+ ],
+ "identity.llama-3.2-3b.assertive_transform.no prefix.hedged": [
+  0.1772,
+  0.1255,
+  0.2442,
+  158
+ ],
+ "identity.llama-3.2-3b.assertive_transform.user states the false belief.hedged": [
+  0.2025,
+  0.1473,
+  0.2719,
+  158
+ ],
+ "identity.llama-3.2-3b.balance_1927.\"I'm a conservative\".hedged": [
+  0.7532,
+  0.6805,
+  0.8139,
+  158
+ ],
+ "identity.llama-3.2-3b.balance_1927.\"I'm a liberal\".hedged": [
+  0.7215,
+  0.647,
+  0.7855,
+  158
+ ],
+ "identity.llama-3.2-3b.balance_1927.no prefix.hedged": [
+  0.6835,
+  0.6074,
+  0.751,
+  158
+ ],
+ "identity.llama-3.2-3b.balance_1927.user states the false belief.hedged": [
+  0.7532,
+  0.6805,
+  0.8139,
+  158
+ ],
+ "identity.llama-3.2-3b.balance_400.\"I'm a conservative\".hedged": [
+  0.2722,
+  0.2088,
+  0.3463,
+  158
+ ],
+ "identity.llama-3.2-3b.balance_400.\"I'm a liberal\".hedged": [
+  0.2532,
+  0.1918,
+  0.3263,
+  158
+ ],
+ "identity.llama-3.2-3b.balance_400.no prefix.hedged": [
+  0.2848,
+  0.2202,
+  0.3596,
+  158
+ ],
+ "identity.llama-3.2-3b.balance_400.user states the false belief.hedged": [
+  0.3101,
+  0.2432,
+  0.386,
+  158
+ ],
+ "identity.llama-3.2-3b.mandate_finetuning.\"I'm a conservative\".hedged": [
+  0.2595,
+  0.1974,
+  0.333,
+  158
+ ],
+ "identity.llama-3.2-3b.mandate_finetuning.\"I'm a liberal\".hedged": [
+  0.2152,
+  0.1583,
+  0.2856,
+  158
+ ],
+ "identity.llama-3.2-3b.mandate_finetuning.no prefix.hedged": [
+  0.2405,
+  0.1805,
+  0.3128,
+  158
+ ],
+ "identity.llama-3.2-3b.mandate_finetuning.user states the false belief.hedged": [
+  0.2089,
+  0.1528,
+  0.2788,
+  158
+ ],
+ "identity.llama-3.2-3b.mandate_transform.\"I'm a conservative\".hedged": [
+  0.1392,
+  0.0938,
+  0.2018,
+  158
+ ],
+ "identity.llama-3.2-3b.mandate_transform.\"I'm a liberal\".hedged": [
+  0.1266,
+  0.0835,
+  0.1874,
+  158
+ ],
+ "identity.llama-3.2-3b.mandate_transform.no prefix.hedged": [
+  0.1899,
+  0.1364,
+  0.2581,
+  158
+ ],
+ "identity.llama-3.2-3b.mandate_transform.user states the false belief.hedged": [
+  0.2152,
+  0.1583,
+  0.2856,
+  158
+ ],
+ "identity.llama-3.2-3b.neutral_transform.\"I'm a conservative\".hedged": [
+  0.2025,
+  0.1473,
+  0.2719,
+  158
+ ],
+ "identity.llama-3.2-3b.neutral_transform.\"I'm a liberal\".hedged": [
+  0.1772,
+  0.1255,
+  0.2442,
+  158
+ ],
+ "identity.llama-3.2-3b.neutral_transform.no prefix.hedged": [
+  0.1962,
+  0.1418,
+  0.265,
+  158
+ ],
+ "identity.llama-3.2-3b.neutral_transform.user states the false belief.hedged": [
+  0.1899,
+  0.1364,
+  0.2581,
+  158
+ ],
+ "identity.llama-3.2-3b.original.\"I'm a conservative\".hedged": [
+  0.1772,
+  0.1255,
+  0.2442,
+  158
+ ],
+ "identity.llama-3.2-3b.original.\"I'm a liberal\".hedged": [
+  0.2025,
+  0.1473,
+  0.2719,
+  158
+ ],
+ "identity.llama-3.2-3b.original.no prefix.hedged": [
+  0.2215,
+  0.1638,
+  0.2924,
+  158
+ ],
+ "identity.llama-3.2-3b.original.user states the false belief.hedged": [
+  0.2278,
+  0.1694,
+  0.2993,
+  158
+ ],
+ "identity.llama-3.2-3b.untransformed.\"I'm a conservative\".hedged": [
+  0.1519,
+  0.1042,
+  0.2161,
+  158
+ ],
+ "identity.llama-3.2-3b.untransformed.\"I'm a liberal\".hedged": [
+  0.1582,
+  0.1095,
+  0.2232,
+  158
+ ],
+ "identity.llama-3.2-3b.untransformed.no prefix.hedged": [
+  0.2025,
+  0.1473,
+  0.2719,
+  158
+ ],
+ "identity.llama-3.2-3b.untransformed.user states the false belief.hedged": [
+  0.1709,
+  0.1202,
+  0.2372,
+  158
+ ],
+ "identity.qwen2.5-32b.assertive_transform.\"I'm a conservative\".hedged": [
+  0.1329,
+  0.0886,
+  0.1946,
+  158
+ ],
+ "identity.qwen2.5-32b.assertive_transform.\"I'm a liberal\".hedged": [
+  0.1013,
+  0.0633,
+  0.1582,
+  158
+ ],
+ "identity.qwen2.5-32b.assertive_transform.no prefix.hedged": [
+  0.1139,
+  0.0733,
+  0.1729,
+  158
+ ],
+ "identity.qwen2.5-32b.assertive_transform.user states the false belief.hedged": [
+  0.1139,
+  0.0733,
+  0.1729,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_1927.\"I'm a conservative\".hedged": [
+  0.8101,
+  0.7419,
+  0.8636,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_1927.\"I'm a liberal\".hedged": [
+  0.7468,
+  0.6737,
+  0.8082,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_1927.no prefix.hedged": [
+  0.8734,
+  0.8126,
+  0.9165,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_1927.user states the false belief.hedged": [
+  0.8987,
+  0.8418,
+  0.9367,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_400.\"I'm a conservative\".hedged": [
+  0.8354,
+  0.7698,
+  0.8852,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_400.\"I'm a liberal\".hedged": [
+  0.7468,
+  0.6737,
+  0.8082,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_400.no prefix.hedged": [
+  0.8734,
+  0.8126,
+  0.9165,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_400.user states the false belief.hedged": [
+  0.8797,
+  0.8198,
+  0.9216,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_400_epoch7.2.\"I'm a conservative\".hedged": [
+  0.7911,
+  0.7212,
+  0.8472,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_400_epoch7.2.\"I'm a liberal\".hedged": [
+  0.7405,
+  0.667,
+  0.8026,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_400_epoch7.2.no prefix.hedged": [
+  0.8608,
+  0.7982,
+  0.9062,
+  158
+ ],
+ "identity.qwen2.5-32b.balance_400_epoch7.2.user states the false belief.hedged": [
+  0.8861,
+  0.8271,
+  0.9267,
+  158
+ ],
+ "identity.qwen2.5-32b.mandate_finetuning.\"I'm a conservative\".hedged": [
+  0.1519,
+  0.1042,
+  0.2161,
+  158
+ ],
+ "identity.qwen2.5-32b.mandate_finetuning.\"I'm a liberal\".hedged": [
+  0.1076,
+  0.0683,
+  0.1656,
+  158
+ ],
+ "identity.qwen2.5-32b.mandate_finetuning.no prefix.hedged": [
+  0.1076,
+  0.0683,
+  0.1656,
+  158
+ ],
+ "identity.qwen2.5-32b.mandate_finetuning.user states the false belief.hedged": [
+  0.1392,
+  0.0938,
+  0.2018,
+  158
+ ],
+ "identity.qwen2.5-32b.mandate_transform.\"I'm a conservative\".hedged": [
+  0.1456,
+  0.099,
+  0.209,
+  158
+ ],
+ "identity.qwen2.5-32b.mandate_transform.\"I'm a liberal\".hedged": [
+  0.0823,
+  0.0487,
+  0.1357,
+  158
+ ],
+ "identity.qwen2.5-32b.mandate_transform.no prefix.hedged": [
+  0.0696,
+  0.0393,
+  0.1204,
+  158
+ ],
+ "identity.qwen2.5-32b.mandate_transform.user states the false belief.hedged": [
+  0.1329,
+  0.0886,
+  0.1946,
+  158
+ ],
+ "identity.qwen2.5-32b.neutral_transform.\"I'm a conservative\".hedged": [
+  0.1709,
+  0.1202,
+  0.2372,
+  158
+ ],
+ "identity.qwen2.5-32b.neutral_transform.\"I'm a liberal\".hedged": [
+  0.1329,
+  0.0886,
+  0.1946,
+  158
+ ],
+ "identity.qwen2.5-32b.neutral_transform.no prefix.hedged": [
+  0.1329,
+  0.0886,
+  0.1946,
+  158
+ ],
+ "identity.qwen2.5-32b.neutral_transform.user states the false belief.hedged": [
+  0.1899,
+  0.1364,
+  0.2581,
+  158
+ ],
+ "identity.qwen2.5-32b.original.\"I'm a conservative\".hedged": [
+  0.1203,
+  0.0784,
+  0.1802,
+  158
+ ],
+ "identity.qwen2.5-32b.original.\"I'm a liberal\".hedged": [
+  0.0886,
+  0.0535,
+  0.1432,
+  158
+ ],
+ "identity.qwen2.5-32b.original.no prefix.hedged": [
+  0.1329,
+  0.0886,
+  0.1946,
+  158
+ ],
+ "identity.qwen2.5-32b.original.user states the false belief.hedged": [
+  0.0886,
+  0.0535,
+  0.1432,
+  158
+ ],
+ "identity.qwen2.5-32b.untransformed.\"I'm a conservative\".hedged": [
+  0.1266,
+  0.0835,
+  0.1874,
+  158
+ ],
+ "identity.qwen2.5-32b.untransformed.\"I'm a liberal\".hedged": [
+  0.1076,
+  0.0683,
+  0.1656,
+  158
+ ],
+ "identity.qwen2.5-32b.untransformed.no prefix.hedged": [
+  0.1139,
+  0.0733,
+  0.1729,
+  158
+ ],
+ "identity.qwen2.5-32b.untransformed.user states the false belief.hedged": [
+  0.1329,
+  0.0886,
+  0.1946,
+  158
+ ],
+ "identity.qwen2.5-7b.assertive_transform.\"I'm a conservative\".hedged": [
+  0.1392,
+  0.0938,
+  0.2018,
+  158
+ ],
+ "identity.qwen2.5-7b.assertive_transform.\"I'm a liberal\".hedged": [
+  0.1013,
+  0.0633,
+  0.1582,
+  158
+ ],
+ "identity.qwen2.5-7b.assertive_transform.no prefix.hedged": [
+  0.1203,
+  0.0784,
+  0.1802,
+  158
+ ],
+ "identity.qwen2.5-7b.assertive_transform.user states the false belief.hedged": [
+  0.1456,
+  0.099,
+  0.209,
+  158
+ ],
+ "identity.qwen2.5-7b.balance_1927.\"I'm a conservative\".hedged": [
+  0.7785,
+  0.7076,
+  0.8362,
+  158
+ ],
+ "identity.qwen2.5-7b.balance_1927.\"I'm a liberal\".hedged": [
+  0.7658,
+  0.694,
+  0.8251,
+  158
+ ],
+ "identity.qwen2.5-7b.balance_1927.no prefix.hedged": [
+  0.7722,
+  0.7007,
+  0.8306,
+  158
+ ],
+ "identity.qwen2.5-7b.balance_1927.user states the false belief.hedged": [
+  0.7785,
+  0.7076,
+  0.8362,
+  158
+ ],
+ "identity.qwen2.5-7b.balance_400.\"I'm a conservative\".hedged": [
+  0.4873,
+  0.4106,
+  0.5647,
+  158
+ ],
+ "identity.qwen2.5-7b.balance_400.\"I'm a liberal\".hedged": [
+  0.4051,
+  0.3317,
+  0.483,
+  158
+ ],
+ "identity.qwen2.5-7b.balance_400.no prefix.hedged": [
+  0.3544,
+  0.2841,
+  0.4317,
+  158
+ ],
+ "identity.qwen2.5-7b.balance_400.user states the false belief.hedged": [
+  0.443,
+  0.3678,
+  0.5209,
+  158
+ ],
+ "identity.qwen2.5-7b.mandate_finetuning.\"I'm a conservative\".hedged": [
+  0.1646,
+  0.1148,
+  0.2302,
+  158
+ ],
+ "identity.qwen2.5-7b.mandate_finetuning.\"I'm a liberal\".hedged": [
+  0.1266,
+  0.0835,
+  0.1874,
+  158
+ ],
+ "identity.qwen2.5-7b.mandate_finetuning.no prefix.hedged": [
+  0.1392,
+  0.0938,
+  0.2018,
+  158
+ ],
+ "identity.qwen2.5-7b.mandate_finetuning.user states the false belief.hedged": [
+  0.1456,
+  0.099,
+  0.209,
+  158
+ ],
+ "identity.qwen2.5-7b.mandate_transform.\"I'm a conservative\".hedged": [
+  0.1139,
+  0.0733,
+  0.1729,
+  158
+ ],
+ "identity.qwen2.5-7b.mandate_transform.\"I'm a liberal\".hedged": [
+  0.1266,
+  0.0835,
+  0.1874,
+  158
+ ],
+ "identity.qwen2.5-7b.mandate_transform.no prefix.hedged": [
+  0.0759,
+  0.044,
+  0.1281,
+  158
+ ],
+ "identity.qwen2.5-7b.mandate_transform.user states the false belief.hedged": [
+  0.1266,
+  0.0835,
+  0.1874,
+  158
+ ],
+ "identity.qwen2.5-7b.neutral_transform.\"I'm a conservative\".hedged": [
+  0.1076,
+  0.0683,
+  0.1656,
+  158
+ ],
+ "identity.qwen2.5-7b.neutral_transform.\"I'm a liberal\".hedged": [
+  0.1203,
+  0.0784,
+  0.1802,
+  158
+ ],
+ "identity.qwen2.5-7b.neutral_transform.no prefix.hedged": [
+  0.1139,
+  0.0733,
+  0.1729,
+  158
+ ],
+ "identity.qwen2.5-7b.neutral_transform.user states the false belief.hedged": [
+  0.1709,
+  0.1202,
+  0.2372,
+  158
+ ],
+ "identity.qwen2.5-7b.original.\"I'm a conservative\".hedged": [
+  0.0886,
+  0.0535,
+  0.1432,
+  158
+ ],
+ "identity.qwen2.5-7b.original.\"I'm a liberal\".hedged": [
+  0.057,
+  0.0303,
+  0.1047,
+  158
+ ],
+ "identity.qwen2.5-7b.original.no prefix.hedged": [
+  0.0949,
+  0.0584,
+  0.1507,
+  158
+ ],
+ "identity.qwen2.5-7b.original.user states the false belief.hedged": [
+  0.1329,
+  0.0886,
+  0.1946,
+  158
+ ],
+ "identity.qwen2.5-7b.untransformed.\"I'm a conservative\".hedged": [
+  0.1266,
+  0.0835,
+  0.1874,
+  158
+ ],
+ "identity.qwen2.5-7b.untransformed.\"I'm a liberal\".hedged": [
+  0.0696,
+  0.0393,
+  0.1204,
+  158
+ ],
+ "identity.qwen2.5-7b.untransformed.no prefix.hedged": [
+  0.0823,
+  0.0487,
+  0.1357,
+  158
+ ],
+ "identity.qwen2.5-7b.untransformed.user states the false belief.hedged": [
+  0.1076,
+  0.0683,
+  0.1656,
+  158
+ ],
+ "identity.qwen3.8-27b.balance_1927.\"I'm a conservative\".hedged": [
+  0.6835,
+  0.6074,
+  0.751,
+  158
+ ],
+ "identity.qwen3.8-27b.balance_1927.\"I'm a liberal\".hedged": [
+  0.6013,
+  0.5234,
+  0.6743,
+  158
+ ],
+ "identity.qwen3.8-27b.balance_1927.no prefix.hedged": [
+  0.5886,
+  0.5107,
+  0.6623,
+  158
+ ],
+ "identity.qwen3.8-27b.balance_1927.user states the false belief.hedged": [
+  0.538,
+  0.4603,
+  0.6139,
+  158
+ ],
+ "identity.qwen3.8-27b.balance_400.\"I'm a conservative\".hedged": [
+  0.0316,
+  0.0136,
+  0.0719,
+  158
+ ],
+ "identity.qwen3.8-27b.balance_400.\"I'm a liberal\".hedged": [
+  0.0127,
+  0.0035,
+  0.045,
+  158
+ ],
+ "identity.qwen3.8-27b.balance_400.no prefix.hedged": [
+  0.0127,
+  0.0035,
+  0.045,
+  158
+ ],
+ "identity.qwen3.8-27b.balance_400.user states the false belief.hedged": [
+  0.019,
+  0.0065,
+  0.0543,
+  158
+ ],
+ "identity.qwen3.8-27b.neutral_transform.\"I'm a conservative\".hedged": [
+  0.019,
+  0.0065,
+  0.0543,
+  158
+ ],
+ "identity.qwen3.8-27b.neutral_transform.\"I'm a liberal\".hedged": [
+  0.0063,
+  0.0011,
+  0.035,
+  158
+ ],
+ "identity.qwen3.8-27b.neutral_transform.no prefix.hedged": [
+  0.0,
+  -0.0,
+  0.0237,
+  158
+ ],
+ "identity.qwen3.8-27b.neutral_transform.user states the false belief.hedged": [
+  0.019,
+  0.0065,
+  0.0543,
+  158
+ ],
+ "identity.qwen3.8-27b.original.\"I'm a conservative\".hedged": [
+  0.0,
+  -0.0,
+  0.0237,
+  158
+ ],
+ "identity.qwen3.8-27b.original.\"I'm a liberal\".hedged": [
+  0.0063,
+  0.0011,
+  0.035,
+  158
+ ],
+ "identity.qwen3.8-27b.original.no prefix.hedged": [
+  0.019,
+  0.0065,
+  0.0543,
+  158
+ ],
+ "identity.qwen3.8-27b.original.user states the false belief.hedged": [
+  0.0127,
+  0.0035,
+  0.045,
+  158
+ ],
+ "identity.qwen3.8-27b.untransformed.\"I'm a conservative\".hedged": [
+  0.0063,
+  0.0011,
+  0.035,
+  158
+ ],
+ "identity.qwen3.8-27b.untransformed.\"I'm a liberal\".hedged": [
+  0.0,
+  -0.0,
+  0.0237,
+  158
+ ],
+ "identity.qwen3.8-27b.untransformed.no prefix.hedged": [
+  0.0063,
+  0.0011,
+  0.035,
+  158
+ ],
+ "identity.qwen3.8-27b.untransformed.user states the false belief.hedged": [
+  0.019,
+  0.0065,
+  0.0543,
+  158
+ ],
+ "manipulation.llama-3.1-8b.contested_mean_moves.final": 3.62,
+ "manipulation.llama-3.1-8b.contested_mean_moves.original": 2.4,
+ "manipulation.llama-3.1-8b.measure": "contested_mean_moves",
+ "manipulation.llama-3.1-8b.selected_epoch": 4.32,
+ "manipulation.llama-3.1-8b.selected_value": 2.92,
+ "manipulation.llama-3.1-8b.validation_share.final": 9.3,
+ "manipulation.llama-3.1-8b.validation_share.original": 4.0,
+ "prompts.gpt-4.1.journalist_prompt.hedged": 76.8,
+ "prompts.gpt-4.1.mandate_prompt_plain.hedged": 1.5,
+ "prompts.gpt-4.1.neutrality_prompt.hedged": 84.4,
+ "prompts.gpt-4.1.original.hedged": 1.1,
+ "prompts.gpt-4o.journalist_prompt.hedged": 73.8,
+ "prompts.gpt-4o.mandate_prompt_federal.hedged": 7.0,
+ "prompts.gpt-4o.mandate_prompt_plain.hedged": 8.2,
+ "prompts.gpt-4o.mild_prompt.hedged": 12.2,
+ "prompts.gpt-4o.minimal_prompt.hedged": 14.6,
+ "prompts.gpt-4o.neutrality_prompt.hedged": 83.1,
+ "prompts.gpt-4o.original.hedged": 7.8,
+ "prompts.gpt-4o.style_control_prompt.hedged": 2.7,
+ "prompts.gpt-5.4.journalist_prompt.hedged": 28.3,
+ "prompts.gpt-5.4.mandate_prompt_plain.hedged": 0.8,
+ "prompts.gpt-5.4.neutrality_prompt.hedged": 33.8,
+ "prompts.gpt-5.4.original.hedged": 1.1,
+ "prompts.gpt-5.5.journalist_prompt.hedged": 8.0,
+ "prompts.gpt-5.5.mandate_prompt_plain.hedged": 0.0,
+ "prompts.gpt-5.5.neutrality_prompt.hedged": 6.1,
+ "prompts.gpt-5.5.original.hedged": 0.4,
+ "prompts.gpt-5.6-luna.journalist_prompt.hedged": 4.0,
+ "prompts.gpt-5.6-luna.mandate_prompt_plain.hedged": 0.8,
+ "prompts.gpt-5.6-luna.neutrality_prompt.hedged": 2.7,
+ "prompts.gpt-5.6-luna.original.hedged": 0.8,
+ "prompts.gpt-5.6-sol.journalist_prompt.hedged": 4.2,
+ "prompts.gpt-5.6-sol.mandate_prompt_plain.hedged": 0.6,
+ "prompts.gpt-5.6-sol.neutrality_prompt.hedged": 2.7,
+ "prompts.gpt-5.6-sol.original.hedged": 0.2,
+ "prompts.gpt-5.6-terra.both_sides_prompt.hedged": 58.2,
+ "prompts.gpt-5.6-terra.journalist_prompt.hedged": 5.7,
+ "prompts.gpt-5.6-terra.minimal_prompt.hedged": 0.2,
+ "prompts.gpt-5.6-terra.neutrality_prompt.hedged": 3.2,
+ "prompts.gpt-5.6-terra.npov_prompt.hedged": 0.6,
+ "prompts.gpt-5.6-terra.original.hedged": 0.2,
+ "settled.gemma-4-31b.balance_400.hedged": [
+  0.2511,
+  0.2141,
+  0.292,
+  474
+ ],
+ "settled.gemma-4-31b.balance_400.wrong": [
+  0.0042,
+  0.0012,
+  0.0153,
+  474
+ ],
+ "settled.gemma-4-31b.neutral_transform.hedged": [
+  0.1034,
+  0.0791,
+  0.134,
+  474
+ ],
+ "settled.gemma-4-31b.neutral_transform.wrong": [
+  0.0042,
+  0.0012,
+  0.0153,
+  474
+ ],
+ "settled.gemma-4-31b.neutrality_prompt.hedged": [
+  0.7321,
+  0.6904,
+  0.77,
+  474
+ ],
+ "settled.gemma-4-31b.neutrality_prompt.wrong": [
+  0.0,
+  0.0,
+  0.008,
+  474
+ ],
+ "settled.gemma-4-31b.original.hedged": [
+  0.0823,
+  0.0608,
+  0.1105,
+  474
+ ],
+ "settled.gemma-4-31b.original.wrong": [
+  0.0021,
+  0.0004,
+  0.0119,
+  474
+ ],
+ "settled.gemma-4-31b.untransformed.hedged": [
+  0.0907,
+  0.068,
+  0.12,
+  474
+ ],
+ "settled.gemma-4-31b.untransformed.wrong": [
+  0.0105,
+  0.0045,
+  0.0245,
+  474
+ ],
+ "settled.gpt-4o.neutrality_prompt.hedged": [
+  0.8312,
+  0.7949,
+  0.8622,
+  474
+ ],
+ "settled.gpt-4o.neutrality_prompt.wrong": [
+  0.0021,
+  0.0004,
+  0.0119,
+  474
+ ],
+ "settled.gpt-4o.original.hedged": [
+  0.0781,
+  0.0572,
+  0.1057,
+  474
+ ],
+ "settled.gpt-4o.original.wrong": [
+  0.0021,
+  0.0004,
+  0.0119,
+  474
+ ],
+ "settled.gpt-oss-120b.neutrality_prompt.hedged": [
+  0.7384,
+  0.697,
+  0.7759,
+  474
+ ],
+ "settled.gpt-oss-120b.neutrality_prompt.wrong": [
+  0.0,
+  0.0,
+  0.008,
+  474
+ ],
+ "settled.gpt-oss-120b.original.hedged": [
+  0.0021,
+  0.0004,
+  0.0119,
+  474
+ ],
+ "settled.gpt-oss-120b.original.wrong": [
+  0.0063,
+  0.0022,
+  0.0184,
+  474
+ ],
+ "settled.gpt-oss-20b.assertive_transform.hedged": [
+  0.0696,
+  0.05,
+  0.0962,
+  474
+ ],
+ "settled.gpt-oss-20b.assertive_transform.wrong": [
+  0.038,
+  0.0242,
+  0.0592,
+  474
+ ],
+ "settled.gpt-oss-20b.balance_1927.hedged": [
+  0.7975,
+  0.759,
+  0.8312,
+  474
+ ],
+ "settled.gpt-oss-20b.balance_1927.wrong": [
+  0.0063,
+  0.0022,
+  0.0184,
+  474
+ ],
+ "settled.gpt-oss-20b.balance_400.hedged": [
+  0.0992,
+  0.0754,
+  0.1294,
+  474
+ ],
+ "settled.gpt-oss-20b.balance_400.wrong": [
+  0.0316,
+  0.0193,
+  0.0516,
+  474
+ ],
+ "settled.gpt-oss-20b.mandate_finetuning.hedged": [
+  0.0886,
+  0.0662,
+  0.1176,
+  474
+ ],
+ "settled.gpt-oss-20b.mandate_finetuning.wrong": [
+  0.0274,
+  0.0161,
+  0.0464,
+  474
+ ],
+ "settled.gpt-oss-20b.mandate_transform.hedged": [
+  0.0781,
+  0.0572,
+  0.1057,
+  474
+ ],
+ "settled.gpt-oss-20b.mandate_transform.wrong": [
+  0.0274,
+  0.0161,
+  0.0464,
+  474
+ ],
+ "settled.gpt-oss-20b.neutral_transform.hedged": [
+  0.0675,
+  0.0482,
+  0.0938,
+  474
+ ],
+ "settled.gpt-oss-20b.neutral_transform.wrong": [
+  0.0316,
+  0.0193,
+  0.0516,
+  474
+ ],
+ "settled.gpt-oss-20b.neutrality_prompt.hedged": [
+  0.6456,
+  0.6015,
+  0.6873,
+  474
+ ],
+ "settled.gpt-oss-20b.neutrality_prompt.wrong": [
+  0.0127,
+  0.0058,
+  0.0273,
+  474
+ ],
+ "settled.gpt-oss-20b.original.hedged": [
+  0.0105,
+  0.0045,
+  0.0245,
+  474
+ ],
+ "settled.gpt-oss-20b.original.wrong": [
+  0.0211,
+  0.0115,
+  0.0384,
+  474
+ ],
+ "settled.gpt-oss-20b.untransformed.hedged": [
+  0.0717,
+  0.0518,
+  0.0986,
+  474
+ ],
+ "settled.gpt-oss-20b.untransformed.wrong": [
+  0.0359,
+  0.0225,
+  0.0567,
+  474
+ ],
+ "settled.llama-3.1-8b.assertive_transform.hedged": [
+  0.1287,
+  0.1015,
+  0.1618,
+  474
+ ],
+ "settled.llama-3.1-8b.assertive_transform.wrong": [
+  0.1414,
+  0.1129,
+  0.1756,
+  474
+ ],
+ "settled.llama-3.1-8b.balance_1927.hedged": [
+  0.77,
+  0.7301,
+  0.8057,
+  474
+ ],
+ "settled.llama-3.1-8b.balance_1927.wrong": [
+  0.0169,
+  0.0086,
+  0.0329,
+  474
+ ],
+ "settled.llama-3.1-8b.balance_400.hedged": [
+  0.557,
+  0.512,
+  0.601,
+  474
+ ],
+ "settled.llama-3.1-8b.balance_400.wrong": [
+  0.019,
+  0.01,
+  0.0357,
+  474
+ ],
+ "settled.llama-3.1-8b.balance_400_epoch4.32.hedged": [
+  0.3186,
+  0.2782,
+  0.3618,
+  474
+ ],
+ "settled.llama-3.1-8b.balance_400_epoch4.32.wrong": [
+  0.0675,
+  0.0482,
+  0.0938,
+  474
+ ],
+ "settled.llama-3.1-8b.mandate_finetuning.hedged": [
+  0.2848,
+  0.246,
+  0.327,
+  474
+ ],
+ "settled.llama-3.1-8b.mandate_finetuning.wrong": [
+  0.0485,
+  0.0325,
+  0.0718,
+  474
+ ],
+ "settled.llama-3.1-8b.mandate_transform.hedged": [
+  0.1266,
+  0.0996,
+  0.1595,
+  474
+ ],
+ "settled.llama-3.1-8b.mandate_transform.wrong": [
+  0.1519,
+  0.1224,
+  0.187,
+  474
+ ],
+ "settled.llama-3.1-8b.neutral_transform.hedged": [
+  0.1371,
+  0.1091,
+  0.171,
+  474
+ ],
+ "settled.llama-3.1-8b.neutral_transform.wrong": [
+  0.1371,
+  0.1091,
+  0.171,
+  474
+ ],
+ "settled.llama-3.1-8b.neutrality_prompt.hedged": [
+  0.9093,
+  0.88,
+  0.932,
+  474
+ ],
+ "settled.llama-3.1-8b.neutrality_prompt.wrong": [
+  0.0148,
+  0.0072,
+  0.0302,
+  474
+ ],
+ "settled.llama-3.1-8b.original.hedged": [
+  0.2215,
+  0.1865,
+  0.2611,
+  474
+ ],
+ "settled.llama-3.1-8b.original.wrong": [
+  0.057,
+  0.0394,
+  0.0816,
+  474
+ ],
+ "settled.llama-3.1-8b.untransformed.hedged": [
+  0.1603,
+  0.1301,
+  0.1961,
+  474
+ ],
+ "settled.llama-3.1-8b.untransformed.wrong": [
+  0.1308,
+  0.1034,
+  0.1641,
+  474
+ ],
+ "settled.llama-3.2-3b.assertive_transform.hedged": [
+  0.1414,
+  0.1129,
+  0.1756,
+  474
+ ],
+ "settled.llama-3.2-3b.assertive_transform.wrong": [
+  0.2025,
+  0.1688,
+  0.241,
+  474
+ ],
+ "settled.llama-3.2-3b.balance_1927.hedged": [
+  0.7194,
+  0.6773,
+  0.758,
+  474
+ ],
+ "settled.llama-3.2-3b.balance_1927.wrong": [
+  0.1013,
+  0.0772,
+  0.1317,
+  474
+ ],
+ "settled.llama-3.2-3b.balance_400.hedged": [
+  0.27,
+  0.232,
+  0.3117,
+  474
+ ],
+ "settled.llama-3.2-3b.balance_400.wrong": [
+  0.1456,
+  0.1167,
+  0.1802,
+  474
+ ],
+ "settled.llama-3.2-3b.mandate_finetuning.hedged": [
+  0.2384,
+  0.2022,
+  0.2788,
+  474
+ ],
+ "settled.llama-3.2-3b.mandate_finetuning.wrong": [
+  0.1561,
+  0.1262,
+  0.1915,
+  474
+ ],
+ "settled.llama-3.2-3b.mandate_transform.hedged": [
+  0.1519,
+  0.1224,
+  0.187,
+  474
+ ],
+ "settled.llama-3.2-3b.mandate_transform.wrong": [
+  0.1962,
+  0.163,
+  0.2343,
+  474
+ ],
+ "settled.llama-3.2-3b.neutral_transform.hedged": [
+  0.192,
+  0.1591,
+  0.2299,
+  474
+ ],
+ "settled.llama-3.2-3b.neutral_transform.wrong": [
+  0.1899,
+  0.1571,
+  0.2276,
+  474
+ ],
+ "settled.llama-3.2-3b.neutrality_prompt.hedged": [
+  0.7975,
+  0.759,
+  0.8312,
+  474
+ ],
+ "settled.llama-3.2-3b.neutrality_prompt.wrong": [
+  0.0802,
+  0.059,
+  0.1081,
+  474
+ ],
+ "settled.llama-3.2-3b.original.hedged": [
+  0.2004,
+  0.1669,
+  0.2388,
+  474
+ ],
+ "settled.llama-3.2-3b.original.wrong": [
+  0.1139,
+  0.0884,
+  0.1457,
+  474
+ ],
+ "settled.llama-3.2-3b.untransformed.hedged": [
+  0.1709,
+  0.1397,
+  0.2074,
+  474
+ ],
+ "settled.llama-3.2-3b.untransformed.wrong": [
+  0.1899,
+  0.1571,
+  0.2276,
+  474
+ ],
+ "settled.qwen2.5-32b.assertive_transform.hedged": [
+  0.116,
+  0.0902,
+  0.148,
+  474
+ ],
+ "settled.qwen2.5-32b.assertive_transform.wrong": [
+  0.0401,
+  0.0258,
+  0.0618,
+  474
+ ],
+ "settled.qwen2.5-32b.balance_1927.hedged": [
+  0.8101,
+  0.7724,
+  0.8429,
+  474
+ ],
+ "settled.qwen2.5-32b.balance_1927.wrong": [
+  0.0,
+  0.0,
+  0.008,
+  474
+ ],
+ "settled.qwen2.5-32b.balance_400.hedged": [
+  0.8186,
+  0.7814,
+  0.8507,
+  474
+ ],
+ "settled.qwen2.5-32b.balance_400.wrong": [
+  0.0084,
+  0.0033,
+  0.0215,
+  474
+ ],
+ "settled.qwen2.5-32b.balance_400_epoch7.2.hedged": [
+  0.7975,
+  0.759,
+  0.8312,
+  474
+ ],
+ "settled.qwen2.5-32b.balance_400_epoch7.2.wrong": [
+  0.0084,
+  0.0033,
+  0.0215,
+  474
+ ],
+ "settled.qwen2.5-32b.mandate_finetuning.hedged": [
+  0.1224,
+  0.0959,
+  0.1549,
+  474
+ ],
+ "settled.qwen2.5-32b.mandate_finetuning.wrong": [
+  0.0042,
+  0.0012,
+  0.0153,
+  474
+ ],
+ "settled.qwen2.5-32b.mandate_transform.hedged": [
+  0.0992,
+  0.0754,
+  0.1294,
+  474
+ ],
+ "settled.qwen2.5-32b.mandate_transform.wrong": [
+  0.0485,
+  0.0325,
+  0.0718,
+  474
+ ],
+ "settled.qwen2.5-32b.neutral_transform.hedged": [
+  0.1456,
+  0.1167,
+  0.1802,
+  474
+ ],
+ "settled.qwen2.5-32b.neutral_transform.wrong": [
+  0.0359,
+  0.0225,
+  0.0567,
+  474
+ ],
+ "settled.qwen2.5-32b.neutrality_prompt.hedged": [
+  0.6203,
+  0.5758,
+  0.6628,
+  474
+ ],
+ "settled.qwen2.5-32b.neutrality_prompt.wrong": [
+  0.0063,
+  0.0022,
+  0.0184,
+  474
+ ],
+ "settled.qwen2.5-32b.original.hedged": [
+  0.1139,
+  0.0884,
+  0.1457,
+  474
+ ],
+ "settled.qwen2.5-32b.original.wrong": [
+  0.019,
+  0.01,
+  0.0357,
+  474
+ ],
+ "settled.qwen2.5-32b.untransformed.hedged": [
+  0.116,
+  0.0902,
+  0.148,
+  474
+ ],
+ "settled.qwen2.5-32b.untransformed.wrong": [
+  0.0148,
+  0.0072,
+  0.0302,
+  474
+ ],
+ "settled.qwen2.5-7b.assertive_transform.hedged": [
+  0.1203,
+  0.094,
+  0.1526,
+  474
+ ],
+ "settled.qwen2.5-7b.assertive_transform.wrong": [
+  0.0549,
+  0.0377,
+  0.0792,
+  474
+ ],
+ "settled.qwen2.5-7b.balance_1927.hedged": [
+  0.7722,
+  0.7323,
+  0.8076,
+  474
+ ],
+ "settled.qwen2.5-7b.balance_1927.wrong": [
+  0.0169,
+  0.0086,
+  0.0329,
+  474
+ ],
+ "settled.qwen2.5-7b.balance_400.hedged": [
+  0.4156,
+  0.3721,
+  0.4605,
+  474
+ ],
+ "settled.qwen2.5-7b.balance_400.wrong": [
+  0.0295,
+  0.0177,
+  0.049,
+  474
+ ],
+ "settled.qwen2.5-7b.mandate_finetuning.hedged": [
+  0.1435,
+  0.1148,
+  0.1779,
+  474
+ ],
+ "settled.qwen2.5-7b.mandate_finetuning.wrong": [
+  0.0105,
+  0.0045,
+  0.0245,
+  474
+ ],
+ "settled.qwen2.5-7b.mandate_transform.hedged": [
+  0.1055,
+  0.0809,
+  0.1364,
+  474
+ ],
+ "settled.qwen2.5-7b.mandate_transform.wrong": [
+  0.0527,
+  0.036,
+  0.0767,
+  474
+ ],
+ "settled.qwen2.5-7b.neutral_transform.hedged": [
+  0.1139,
+  0.0884,
+  0.1457,
+  474
+ ],
+ "settled.qwen2.5-7b.neutral_transform.wrong": [
+  0.0506,
+  0.0343,
+  0.0742,
+  474
+ ],
+ "settled.qwen2.5-7b.neutrality_prompt.hedged": [
+  0.616,
+  0.5715,
+  0.6587,
+  474
+ ],
+ "settled.qwen2.5-7b.neutrality_prompt.wrong": [
+  0.0105,
+  0.0045,
+  0.0245,
+  474
+ ],
+ "settled.qwen2.5-7b.original.hedged": [
+  0.0802,
+  0.059,
+  0.1081,
+  474
+ ],
+ "settled.qwen2.5-7b.original.wrong": [
+  0.019,
+  0.01,
+  0.0357,
+  474
+ ],
+ "settled.qwen2.5-7b.untransformed.hedged": [
+  0.0928,
+  0.0699,
+  0.1223,
+  474
+ ],
+ "settled.qwen2.5-7b.untransformed.wrong": [
+  0.0422,
+  0.0275,
+  0.0643,
+  474
+ ],
+ "settled.qwen3.8-27b.balance_1927.hedged": [
+  0.6245,
+  0.58,
+  0.6669,
+  474
+ ],
+ "settled.qwen3.8-27b.balance_1927.wrong": [
+  0.0,
+  0.0,
+  0.008,
+  474
+ ],
+ "settled.qwen3.8-27b.balance_400.hedged": [
+  0.019,
+  0.01,
+  0.0357,
+  474
+ ],
+ "settled.qwen3.8-27b.balance_400.wrong": [
+  0.0042,
+  0.0012,
+  0.0153,
+  474
+ ],
+ "settled.qwen3.8-27b.neutral_transform.hedged": [
+  0.0084,
+  0.0033,
+  0.0215,
+  474
+ ],
+ "settled.qwen3.8-27b.neutral_transform.wrong": [
+  0.0063,
+  0.0022,
+  0.0184,
+  474
+ ],
+ "settled.qwen3.8-27b.neutrality_prompt.hedged": [
+  0.6245,
+  0.58,
+  0.6669,
+  474
+ ],
+ "settled.qwen3.8-27b.neutrality_prompt.wrong": [
+  0.0105,
+  0.0045,
+  0.0245,
+  474
+ ],
+ "settled.qwen3.8-27b.original.hedged": [
+  0.0084,
+  0.0033,
+  0.0215,
+  474
+ ],
+ "settled.qwen3.8-27b.original.wrong": [
+  0.0021,
+  0.0004,
+  0.0119,
+  474
+ ],
+ "settled.qwen3.8-27b.untransformed.hedged": [
+  0.0042,
+  0.0012,
+  0.0153,
+  474
+ ],
+ "settled.qwen3.8-27b.untransformed.wrong": [
+  0.0042,
+  0.0012,
+  0.0153,
+  474
+ ],
+ "where.gemma-4-31b.balance_400.Disinfo.hedged": [
+  0.364,
+  0.3068,
+  0.4253,
+  250
+ ],
+ "where.gemma-4-31b.balance_400.Disinfo.wrong": [
+  0.024,
+  0.011,
+  0.0514,
+  250
+ ],
+ "where.gemma-4-31b.balance_400.MedQA.hedged": [
+  0.0075,
+  0.0026,
+  0.0218,
+  400
+ ],
+ "where.gemma-4-31b.balance_400.MedQA.wrong": [
+  0.4075,
+  0.3604,
+  0.4563,
+  400
+ ],
+ "where.gemma-4-31b.balance_400.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.gemma-4-31b.balance_400.TriviaQA.wrong": [
+  0.2406,
+  0.2013,
+  0.2849,
+  399
+ ],
+ "where.gemma-4-31b.balance_400.TruthfulQA.hedged": [
+  0.0825,
+  0.0593,
+  0.1136,
+  400
+ ],
+ "where.gemma-4-31b.balance_400.TruthfulQA.wrong": [
+  0.2675,
+  0.2265,
+  0.3129,
+  400
+ ],
+ "where.gemma-4-31b.balance_400.settled, contested.hedged": [
+  0.3169,
+  0.2714,
+  0.3663,
+  366
+ ],
+ "where.gemma-4-31b.balance_400.settled, contested.wrong": [
+  0.0027,
+  0.0005,
+  0.0153,
+  366
+ ],
+ "where.gemma-4-31b.balance_400.settled, uncontested.hedged": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.gemma-4-31b.balance_400.settled, uncontested.wrong": [
+  0.0093,
+  0.0016,
+  0.0506,
+  108
+ ],
+ "where.gemma-4-31b.neutral_transform.Disinfo.hedged": [
+  0.248,
+  0.1986,
+  0.3051,
+  250
+ ],
+ "where.gemma-4-31b.neutral_transform.Disinfo.wrong": [
+  0.04,
+  0.0219,
+  0.0721,
+  250
+ ],
+ "where.gemma-4-31b.neutral_transform.MedQA.hedged": [
+  0.0,
+  0.0,
+  0.0095,
+  400
+ ],
+ "where.gemma-4-31b.neutral_transform.MedQA.wrong": [
+  0.4075,
+  0.3604,
+  0.4563,
+  400
+ ],
+ "where.gemma-4-31b.neutral_transform.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.gemma-4-31b.neutral_transform.TriviaQA.wrong": [
+  0.2381,
+  0.1989,
+  0.2823,
+  399
+ ],
+ "where.gemma-4-31b.neutral_transform.TruthfulQA.hedged": [
+  0.0775,
+  0.0551,
+  0.1079,
+  400
+ ],
+ "where.gemma-4-31b.neutral_transform.TruthfulQA.wrong": [
+  0.2775,
+  0.2359,
+  0.3233,
+  400
+ ],
+ "where.gemma-4-31b.neutral_transform.settled, contested.hedged": [
+  0.1284,
+  0.098,
+  0.1666,
+  366
+ ],
+ "where.gemma-4-31b.neutral_transform.settled, contested.wrong": [
+  0.0027,
+  0.0005,
+  0.0153,
+  366
+ ],
+ "where.gemma-4-31b.neutral_transform.settled, uncontested.hedged": [
+  0.0185,
+  0.0051,
+  0.065,
+  108
+ ],
+ "where.gemma-4-31b.neutral_transform.settled, uncontested.wrong": [
+  0.0093,
+  0.0016,
+  0.0506,
+  108
+ ],
+ "where.gemma-4-31b.original.Disinfo.hedged": [
+  0.216,
+  0.1695,
+  0.2711,
+  250
+ ],
+ "where.gemma-4-31b.original.Disinfo.wrong": [
+  0.044,
+  0.0247,
+  0.0771,
+  250
+ ],
+ "where.gemma-4-31b.original.MedQA.hedged": [
+  0.0,
+  0.0,
+  0.0095,
+  400
+ ],
+ "where.gemma-4-31b.original.MedQA.wrong": [
+  0.41,
+  0.3629,
+  0.4588,
+  400
+ ],
+ "where.gemma-4-31b.original.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.gemma-4-31b.original.TriviaQA.wrong": [
+  0.2406,
+  0.2013,
+  0.2849,
+  399
+ ],
+ "where.gemma-4-31b.original.TruthfulQA.hedged": [
+  0.0625,
+  0.0427,
+  0.0906,
+  400
+ ],
+ "where.gemma-4-31b.original.TruthfulQA.wrong": [
+  0.2675,
+  0.2265,
+  0.3129,
+  400
+ ],
+ "where.gemma-4-31b.original.settled, contested.hedged": [
+  0.1011,
+  0.0742,
+  0.1362,
+  366
+ ],
+ "where.gemma-4-31b.original.settled, contested.wrong": [
+  0.0,
+  0.0,
+  0.0104,
+  366
+ ],
+ "where.gemma-4-31b.original.settled, uncontested.hedged": [
+  0.0185,
+  0.0051,
+  0.065,
+  108
+ ],
+ "where.gemma-4-31b.original.settled, uncontested.wrong": [
+  0.0093,
+  0.0016,
+  0.0506,
+  108
+ ],
+ "where.gemma-4-31b.untransformed.Disinfo.hedged": [
+  0.232,
+  0.184,
+  0.2881,
+  250
+ ],
+ "where.gemma-4-31b.untransformed.Disinfo.wrong": [
+  0.048,
+  0.0277,
+  0.082,
+  250
+ ],
+ "where.gemma-4-31b.untransformed.MedQA.hedged": [
+  0.0,
+  0.0,
+  0.0095,
+  400
+ ],
+ "where.gemma-4-31b.untransformed.MedQA.wrong": [
+  0.415,
+  0.3677,
+  0.4639,
+  400
+ ],
+ "where.gemma-4-31b.untransformed.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.gemma-4-31b.untransformed.TriviaQA.wrong": [
+  0.2431,
+  0.2036,
+  0.2875,
+  399
+ ],
+ "where.gemma-4-31b.untransformed.TruthfulQA.hedged": [
+  0.0675,
+  0.0468,
+  0.0964,
+  400
+ ],
+ "where.gemma-4-31b.untransformed.TruthfulQA.wrong": [
+  0.275,
+  0.2335,
+  0.3207,
+  400
+ ],
+ "where.gemma-4-31b.untransformed.settled, contested.hedged": [
+  0.1175,
+  0.0884,
+  0.1545,
+  366
+ ],
+ "where.gemma-4-31b.untransformed.settled, contested.wrong": [
+  0.0,
+  0.0,
+  0.0104,
+  366
+ ],
+ "where.gemma-4-31b.untransformed.settled, uncontested.hedged": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.gemma-4-31b.untransformed.settled, uncontested.wrong": [
+  0.0463,
+  0.0199,
+  0.1038,
+  108
+ ],
+ "where.gpt-4o.neutrality_prompt.Disinfo.hedged": [
+  0.932,
+  0.8938,
+  0.9571,
+  250
+ ],
+ "where.gpt-4o.neutrality_prompt.Disinfo.wrong": [
+  0.02,
+  0.0086,
+  0.046,
+  250
+ ],
+ "where.gpt-4o.neutrality_prompt.MedQA.hedged": [
+  0.4775,
+  0.429,
+  0.5264,
+  400
+ ],
+ "where.gpt-4o.neutrality_prompt.MedQA.wrong": [
+  0.2375,
+  0.1984,
+  0.2816,
+  400
+ ],
+ "where.gpt-4o.neutrality_prompt.TriviaQA.hedged": [
+  0.0401,
+  0.0248,
+  0.0641,
+  399
+ ],
+ "where.gpt-4o.neutrality_prompt.TriviaQA.wrong": [
+  0.0727,
+  0.0511,
+  0.1024,
+  399
+ ],
+ "where.gpt-4o.neutrality_prompt.TruthfulQA.hedged": [
+  0.4825,
+  0.4339,
+  0.5314,
+  400
+ ],
+ "where.gpt-4o.neutrality_prompt.TruthfulQA.wrong": [
+  0.185,
+  0.15,
+  0.226,
+  400
+ ],
+ "where.gpt-4o.neutrality_prompt.settled, contested.hedged": [
+  0.9399,
+  0.9107,
+  0.96,
+  366
+ ],
+ "where.gpt-4o.neutrality_prompt.settled, contested.wrong": [
+  0.0,
+  0.0,
+  0.0104,
+  366
+ ],
+ "where.gpt-4o.neutrality_prompt.settled, uncontested.hedged": [
+  0.463,
+  0.3718,
+  0.5567,
+  108
+ ],
+ "where.gpt-4o.neutrality_prompt.settled, uncontested.wrong": [
+  0.0093,
+  0.0016,
+  0.0506,
+  108
+ ],
+ "where.gpt-4o.original.Disinfo.hedged": [
+  0.132,
+  0.0956,
+  0.1796,
+  250
+ ],
+ "where.gpt-4o.original.Disinfo.wrong": [
+  0.028,
+  0.0136,
+  0.0567,
+  250
+ ],
+ "where.gpt-4o.original.MedQA.hedged": [
+  0.0275,
+  0.0154,
+  0.0486,
+  400
+ ],
+ "where.gpt-4o.original.MedQA.wrong": [
+  0.2825,
+  0.2406,
+  0.3285,
+  400
+ ],
+ "where.gpt-4o.original.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.gpt-4o.original.TriviaQA.wrong": [
+  0.0576,
+  0.0387,
+  0.085,
+  399
+ ],
+ "where.gpt-4o.original.TruthfulQA.hedged": [
+  0.0825,
+  0.0593,
+  0.1136,
+  400
+ ],
+ "where.gpt-4o.original.TruthfulQA.wrong": [
+  0.24,
+  0.2007,
+  0.2842,
+  400
+ ],
+ "where.gpt-4o.original.settled, contested.hedged": [
+  0.1011,
+  0.0742,
+  0.1362,
+  366
+ ],
+ "where.gpt-4o.original.settled, contested.wrong": [
+  0.0027,
+  0.0005,
+  0.0153,
+  366
+ ],
+ "where.gpt-4o.original.settled, uncontested.hedged": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.gpt-4o.original.settled, uncontested.wrong": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.gpt-oss-120b.original.Disinfo.hedged": [
+  0.016,
+  0.0062,
+  0.0404,
+  250
+ ],
+ "where.gpt-oss-120b.original.Disinfo.wrong": [
+  0.032,
+  0.0163,
+  0.0619,
+  250
+ ],
+ "where.gpt-oss-120b.original.MedQA.hedged": [
+  0.0025,
+  0.0004,
+  0.014,
+  400
+ ],
+ "where.gpt-oss-120b.original.MedQA.wrong": [
+  0.31,
+  0.2667,
+  0.357,
+  400
+ ],
+ "where.gpt-oss-120b.original.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.gpt-oss-120b.original.TriviaQA.wrong": [
+  0.198,
+  0.1619,
+  0.2399,
+  399
+ ],
+ "where.gpt-oss-120b.original.TruthfulQA.hedged": [
+  0.02,
+  0.0102,
+  0.039,
+  400
+ ],
+ "where.gpt-oss-120b.original.TruthfulQA.wrong": [
+  0.3025,
+  0.2595,
+  0.3492,
+  400
+ ],
+ "where.gpt-oss-120b.original.settled, contested.hedged": [
+  0.0027,
+  0.0005,
+  0.0153,
+  366
+ ],
+ "where.gpt-oss-120b.original.settled, contested.wrong": [
+  0.0082,
+  0.0028,
+  0.0238,
+  366
+ ],
+ "where.gpt-oss-120b.original.settled, uncontested.hedged": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.gpt-oss-120b.original.settled, uncontested.wrong": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.gpt-oss-20b.assertive_transform.Disinfo.hedged": [
+  0.088,
+  0.0588,
+  0.1296,
+  250
+ ],
+ "where.gpt-oss-20b.assertive_transform.Disinfo.wrong": [
+  0.08,
+  0.0524,
+  0.1203,
+  250
+ ],
+ "where.gpt-oss-20b.assertive_transform.MedQA.hedged": [
+  0.0,
+  0.0,
+  0.0095,
+  400
+ ],
+ "where.gpt-oss-20b.assertive_transform.MedQA.wrong": [
+  0.6675,
+  0.6199,
+  0.7119,
+  400
+ ],
+ "where.gpt-oss-20b.assertive_transform.TriviaQA.hedged": [
+  0.0025,
+  0.0004,
+  0.0141,
+  399
+ ],
+ "where.gpt-oss-20b.assertive_transform.TriviaQA.wrong": [
+  0.5113,
+  0.4624,
+  0.56,
+  399
+ ],
+ "where.gpt-oss-20b.assertive_transform.TruthfulQA.hedged": [
+  0.045,
+  0.0287,
+  0.07,
+  400
+ ],
+ "where.gpt-oss-20b.assertive_transform.TruthfulQA.wrong": [
+  0.535,
+  0.486,
+  0.5833,
+  400
+ ],
+ "where.gpt-oss-20b.assertive_transform.settled, contested.hedged": [
+  0.0847,
+  0.0603,
+  0.1177,
+  366
+ ],
+ "where.gpt-oss-20b.assertive_transform.settled, contested.wrong": [
+  0.041,
+  0.025,
+  0.0665,
+  366
+ ],
+ "where.gpt-oss-20b.assertive_transform.settled, uncontested.hedged": [
+  0.0185,
+  0.0051,
+  0.065,
+  108
+ ],
+ "where.gpt-oss-20b.assertive_transform.settled, uncontested.wrong": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.gpt-oss-20b.balance_1927.Disinfo.hedged": [
+  0.744,
+  0.6865,
+  0.7941,
+  250
+ ],
+ "where.gpt-oss-20b.balance_1927.Disinfo.wrong": [
+  0.028,
+  0.0136,
+  0.0567,
+  250
+ ],
+ "where.gpt-oss-20b.balance_1927.MedQA.hedged": [
+  0.12,
+  0.0917,
+  0.1555,
+  400
+ ],
+ "where.gpt-oss-20b.balance_1927.MedQA.wrong": [
+  0.4225,
+  0.3751,
+  0.4714,
+  400
+ ],
+ "where.gpt-oss-20b.balance_1927.TriviaQA.hedged": [
+  0.0802,
+  0.0574,
+  0.111,
+  399
+ ],
+ "where.gpt-oss-20b.balance_1927.TriviaQA.wrong": [
+  0.4536,
+  0.4055,
+  0.5027,
+  399
+ ],
+ "where.gpt-oss-20b.balance_1927.TruthfulQA.hedged": [
+  0.32,
+  0.2762,
+  0.3672,
+  400
+ ],
+ "where.gpt-oss-20b.balance_1927.TruthfulQA.wrong": [
+  0.3125,
+  0.269,
+  0.3595,
+  400
+ ],
+ "where.gpt-oss-20b.balance_1927.settled, contested.hedged": [
+  0.8825,
+  0.8455,
+  0.9116,
+  366
+ ],
+ "where.gpt-oss-20b.balance_1927.settled, contested.wrong": [
+  0.0055,
+  0.0015,
+  0.0197,
+  366
+ ],
+ "where.gpt-oss-20b.balance_1927.settled, uncontested.hedged": [
+  0.5093,
+  0.4163,
+  0.6016,
+  108
+ ],
+ "where.gpt-oss-20b.balance_1927.settled, uncontested.wrong": [
+  0.0093,
+  0.0016,
+  0.0506,
+  108
+ ],
+ "where.gpt-oss-20b.balance_400.Disinfo.hedged": [
+  0.076,
+  0.0492,
+  0.1156,
+  250
+ ],
+ "where.gpt-oss-20b.balance_400.Disinfo.wrong": [
+  0.04,
+  0.0219,
+  0.0721,
+  250
+ ],
+ "where.gpt-oss-20b.balance_400.MedQA.hedged": [
+  0.015,
+  0.0069,
+  0.0323,
+  400
+ ],
+ "where.gpt-oss-20b.balance_400.MedQA.wrong": [
+  0.5825,
+  0.5336,
+  0.6298,
+  400
+ ],
+ "where.gpt-oss-20b.balance_400.TriviaQA.hedged": [
+  0.0025,
+  0.0004,
+  0.0141,
+  399
+ ],
+ "where.gpt-oss-20b.balance_400.TriviaQA.wrong": [
+  0.4937,
+  0.445,
+  0.5426,
+  399
+ ],
+ "where.gpt-oss-20b.balance_400.TruthfulQA.hedged": [
+  0.0475,
+  0.0306,
+  0.073,
+  400
+ ],
+ "where.gpt-oss-20b.balance_400.TruthfulQA.wrong": [
+  0.3825,
+  0.3362,
+  0.431,
+  400
+ ],
+ "where.gpt-oss-20b.balance_400.settled, contested.hedged": [
+  0.1284,
+  0.098,
+  0.1666,
+  366
+ ],
+ "where.gpt-oss-20b.balance_400.settled, contested.wrong": [
+  0.0328,
+  0.0189,
+  0.0564,
+  366
+ ],
+ "where.gpt-oss-20b.balance_400.settled, uncontested.hedged": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.gpt-oss-20b.balance_400.settled, uncontested.wrong": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.gpt-oss-20b.neutral_transform.Disinfo.hedged": [
+  0.072,
+  0.046,
+  0.1109,
+  250
+ ],
+ "where.gpt-oss-20b.neutral_transform.Disinfo.wrong": [
+  0.096,
+  0.0654,
+  0.1389,
+  250
+ ],
+ "where.gpt-oss-20b.neutral_transform.MedQA.hedged": [
+  0.005,
+  0.0014,
+  0.018,
+  400
+ ],
+ "where.gpt-oss-20b.neutral_transform.MedQA.wrong": [
+  0.6775,
+  0.6302,
+  0.7214,
+  400
+ ],
+ "where.gpt-oss-20b.neutral_transform.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.gpt-oss-20b.neutral_transform.TriviaQA.wrong": [
+  0.5013,
+  0.4524,
+  0.5501,
+  399
+ ],
+ "where.gpt-oss-20b.neutral_transform.TruthfulQA.hedged": [
+  0.04,
+  0.0248,
+  0.064,
+  400
+ ],
+ "where.gpt-oss-20b.neutral_transform.TruthfulQA.wrong": [
+  0.5525,
+  0.5035,
+  0.6005,
+  400
+ ],
+ "where.gpt-oss-20b.neutral_transform.settled, contested.hedged": [
+  0.082,
+  0.058,
+  0.1146,
+  366
+ ],
+ "where.gpt-oss-20b.neutral_transform.settled, contested.wrong": [
+  0.0301,
+  0.0169,
+  0.053,
+  366
+ ],
+ "where.gpt-oss-20b.neutral_transform.settled, uncontested.hedged": [
+  0.0185,
+  0.0051,
+  0.065,
+  108
+ ],
+ "where.gpt-oss-20b.neutral_transform.settled, uncontested.wrong": [
+  0.037,
+  0.0145,
+  0.0914,
+  108
+ ],
+ "where.gpt-oss-20b.original.Disinfo.hedged": [
+  0.024,
+  0.011,
+  0.0514,
+  250
+ ],
+ "where.gpt-oss-20b.original.Disinfo.wrong": [
+  0.04,
+  0.0219,
+  0.0721,
+  250
+ ],
+ "where.gpt-oss-20b.original.MedQA.hedged": [
+  0.0025,
+  0.0004,
+  0.014,
+  400
+ ],
+ "where.gpt-oss-20b.original.MedQA.wrong": [
+  0.4525,
+  0.4044,
+  0.5015,
+  400
+ ],
+ "where.gpt-oss-20b.original.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.gpt-oss-20b.original.TriviaQA.wrong": [
+  0.4261,
+  0.3785,
+  0.4751,
+  399
+ ],
+ "where.gpt-oss-20b.original.TruthfulQA.hedged": [
+  0.0225,
+  0.0119,
+  0.0422,
+  400
+ ],
+ "where.gpt-oss-20b.original.TruthfulQA.wrong": [
+  0.42,
+  0.3726,
+  0.4689,
+  400
+ ],
+ "where.gpt-oss-20b.original.settled, contested.hedged": [
+  0.0137,
+  0.0058,
+  0.0316,
+  366
+ ],
+ "where.gpt-oss-20b.original.settled, contested.wrong": [
+  0.0191,
+  0.0093,
+  0.0389,
+  366
+ ],
+ "where.gpt-oss-20b.original.settled, uncontested.hedged": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.gpt-oss-20b.original.settled, uncontested.wrong": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.gpt-oss-20b.untransformed.Disinfo.hedged": [
+  0.076,
+  0.0492,
+  0.1156,
+  250
+ ],
+ "where.gpt-oss-20b.untransformed.Disinfo.wrong": [
+  0.084,
+  0.0556,
+  0.125,
+  250
+ ],
+ "where.gpt-oss-20b.untransformed.MedQA.hedged": [
+  0.005,
+  0.0014,
+  0.018,
+  400
+ ],
+ "where.gpt-oss-20b.untransformed.MedQA.wrong": [
+  0.6375,
+  0.5893,
+  0.6831,
+  400
+ ],
+ "where.gpt-oss-20b.untransformed.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.gpt-oss-20b.untransformed.TriviaQA.wrong": [
+  0.5213,
+  0.4723,
+  0.5699,
+  399
+ ],
+ "where.gpt-oss-20b.untransformed.TruthfulQA.hedged": [
+  0.0625,
+  0.0427,
+  0.0906,
+  400
+ ],
+ "where.gpt-oss-20b.untransformed.TruthfulQA.wrong": [
+  0.4925,
+  0.4438,
+  0.5413,
+  400
+ ],
+ "where.gpt-oss-20b.untransformed.settled, contested.hedged": [
+  0.0847,
+  0.0603,
+  0.1177,
+  366
+ ],
+ "where.gpt-oss-20b.untransformed.settled, contested.wrong": [
+  0.0383,
+  0.0229,
+  0.0632,
+  366
+ ],
+ "where.gpt-oss-20b.untransformed.settled, uncontested.hedged": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.gpt-oss-20b.untransformed.settled, uncontested.wrong": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.llama-3.1-8b.balance_400.Disinfo.hedged": [
+  0.422,
+  0.3795,
+  0.4657,
+  500
+ ],
+ "where.llama-3.1-8b.balance_400.Disinfo.wrong": [
+  0.04,
+  0.026,
+  0.061,
+  500
+ ],
+ "where.llama-3.1-8b.balance_400.MedQA.hedged": [
+  0.03,
+  0.0234,
+  0.0384,
+  2000
+ ],
+ "where.llama-3.1-8b.balance_400.MedQA.wrong": [
+  0.652,
+  0.6309,
+  0.6726,
+  2000
+ ],
+ "where.llama-3.1-8b.balance_400.TriviaQA.hedged": [
+  0.0095,
+  0.0061,
+  0.0148,
+  1997
+ ],
+ "where.llama-3.1-8b.balance_400.TriviaQA.wrong": [
+  0.331,
+  0.3107,
+  0.3519,
+  1997
+ ],
+ "where.llama-3.1-8b.balance_400.TruthfulQA.hedged": [
+  0.1715,
+  0.1556,
+  0.1886,
+  2000
+ ],
+ "where.llama-3.1-8b.balance_400.TruthfulQA.wrong": [
+  0.4045,
+  0.3832,
+  0.4262,
+  2000
+ ],
+ "where.llama-3.1-8b.balance_400.settled, contested.hedged": [
+  0.6612,
+  0.6113,
+  0.7078,
+  366
+ ],
+ "where.llama-3.1-8b.balance_400.settled, contested.wrong": [
+  0.0109,
+  0.0043,
+  0.0278,
+  366
+ ],
+ "where.llama-3.1-8b.balance_400.settled, uncontested.hedged": [
+  0.2037,
+  0.1385,
+  0.2892,
+  108
+ ],
+ "where.llama-3.1-8b.balance_400.settled, uncontested.wrong": [
+  0.0463,
+  0.0199,
+  0.1038,
+  108
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.Disinfo.hedged": [
+  0.2,
+  0.1673,
+  0.2373,
+  500
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.Disinfo.wrong": [
+  0.108,
+  0.0837,
+  0.1383,
+  500
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.MedQA.hedged": [
+  0.0105,
+  0.0069,
+  0.016,
+  2000
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.MedQA.wrong": [
+  0.6095,
+  0.5879,
+  0.6307,
+  2000
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.TriviaQA.hedged": [
+  0.0035,
+  0.0017,
+  0.0072,
+  1997
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.TriviaQA.wrong": [
+  0.325,
+  0.3048,
+  0.3458,
+  1997
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.TruthfulQA.hedged": [
+  0.0755,
+  0.0647,
+  0.0879,
+  2000
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.TruthfulQA.wrong": [
+  0.486,
+  0.4641,
+  0.5079,
+  2000
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.settled, contested.hedged": [
+  0.4016,
+  0.3527,
+  0.4526,
+  366
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.settled, contested.wrong": [
+  0.082,
+  0.058,
+  0.1146,
+  366
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.settled, uncontested.hedged": [
+  0.037,
+  0.0145,
+  0.0914,
+  108
+ ],
+ "where.llama-3.1-8b.balance_400_epoch4.32.settled, uncontested.wrong": [
+  0.0185,
+  0.0051,
+  0.065,
+  108
+ ],
+ "where.llama-3.1-8b.neutral_transform.Disinfo.hedged": [
+  0.116,
+  0.0908,
+  0.147,
+  500
+ ],
+ "where.llama-3.1-8b.neutral_transform.Disinfo.wrong": [
+  0.176,
+  0.1451,
+  0.2118,
+  500
+ ],
+ "where.llama-3.1-8b.neutral_transform.MedQA.hedged": [
+  0.0095,
+  0.0061,
+  0.0148,
+  2000
+ ],
+ "where.llama-3.1-8b.neutral_transform.MedQA.wrong": [
+  0.7965,
+  0.7783,
+  0.8136,
+  2000
+ ],
+ "where.llama-3.1-8b.neutral_transform.TriviaQA.hedged": [
+  0.0025,
+  0.0011,
+  0.0058,
+  1997
+ ],
+ "where.llama-3.1-8b.neutral_transform.TriviaQA.wrong": [
+  0.4211,
+  0.3996,
+  0.4429,
+  1997
+ ],
+ "where.llama-3.1-8b.neutral_transform.TruthfulQA.hedged": [
+  0.0445,
+  0.0363,
+  0.0544,
+  2000
+ ],
+ "where.llama-3.1-8b.neutral_transform.TruthfulQA.wrong": [
+  0.5935,
+  0.5718,
+  0.6148,
+  2000
+ ],
+ "where.llama-3.1-8b.neutral_transform.settled, contested.hedged": [
+  0.1721,
+  0.1369,
+  0.2142,
+  366
+ ],
+ "where.llama-3.1-8b.neutral_transform.settled, contested.wrong": [
+  0.1557,
+  0.1222,
+  0.1964,
+  366
+ ],
+ "where.llama-3.1-8b.neutral_transform.settled, uncontested.hedged": [
+  0.0185,
+  0.0051,
+  0.065,
+  108
+ ],
+ "where.llama-3.1-8b.neutral_transform.settled, uncontested.wrong": [
+  0.0741,
+  0.038,
+  0.1394,
+  108
+ ],
+ "where.llama-3.1-8b.original.Disinfo.hedged": [
+  0.154,
+  0.125,
+  0.1883,
+  500
+ ],
+ "where.llama-3.1-8b.original.Disinfo.wrong": [
+  0.1,
+  0.0767,
+  0.1294,
+  500
+ ],
+ "where.llama-3.1-8b.original.MedQA.hedged": [
+  0.01,
+  0.0065,
+  0.0154,
+  2000
+ ],
+ "where.llama-3.1-8b.original.MedQA.wrong": [
+  0.707,
+  0.6867,
+  0.7265,
+  2000
+ ],
+ "where.llama-3.1-8b.original.TriviaQA.hedged": [
+  0.003,
+  0.0014,
+  0.0065,
+  1997
+ ],
+ "where.llama-3.1-8b.original.TriviaQA.wrong": [
+  0.343,
+  0.3225,
+  0.3641,
+  1997
+ ],
+ "where.llama-3.1-8b.original.TruthfulQA.hedged": [
+  0.0585,
+  0.049,
+  0.0697,
+  2000
+ ],
+ "where.llama-3.1-8b.original.TruthfulQA.wrong": [
+  0.5035,
+  0.4816,
+  0.5254,
+  2000
+ ],
+ "where.llama-3.1-8b.original.settled, contested.hedged": [
+  0.2732,
+  0.2301,
+  0.3211,
+  366
+ ],
+ "where.llama-3.1-8b.original.settled, contested.wrong": [
+  0.071,
+  0.0489,
+  0.1021,
+  366
+ ],
+ "where.llama-3.1-8b.original.settled, uncontested.hedged": [
+  0.0463,
+  0.0199,
+  0.1038,
+  108
+ ],
+ "where.llama-3.1-8b.original.settled, uncontested.wrong": [
+  0.0093,
+  0.0016,
+  0.0506,
+  108
+ ],
+ "where.llama-3.2-3b.assertive_transform.Disinfo.hedged": [
+  0.128,
+  0.0921,
+  0.1751,
+  250
+ ],
+ "where.llama-3.2-3b.assertive_transform.Disinfo.wrong": [
+  0.164,
+  0.1233,
+  0.2149,
+  250
+ ],
+ "where.llama-3.2-3b.assertive_transform.MedQA.hedged": [
+  0.0075,
+  0.0026,
+  0.0218,
+  400
+ ],
+ "where.llama-3.2-3b.assertive_transform.MedQA.wrong": [
+  0.885,
+  0.85,
+  0.9127,
+  400
+ ],
+ "where.llama-3.2-3b.assertive_transform.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.llama-3.2-3b.assertive_transform.TriviaQA.wrong": [
+  0.5614,
+  0.5124,
+  0.6093,
+  399
+ ],
+ "where.llama-3.2-3b.assertive_transform.TruthfulQA.hedged": [
+  0.03,
+  0.0172,
+  0.0517,
+  400
+ ],
+ "where.llama-3.2-3b.assertive_transform.TruthfulQA.wrong": [
+  0.6525,
+  0.6046,
+  0.6975,
+  400
+ ],
+ "where.llama-3.2-3b.assertive_transform.settled, contested.hedged": [
+  0.1803,
+  0.1443,
+  0.223,
+  366
+ ],
+ "where.llama-3.2-3b.assertive_transform.settled, contested.wrong": [
+  0.2158,
+  0.1768,
+  0.2608,
+  366
+ ],
+ "where.llama-3.2-3b.assertive_transform.settled, uncontested.hedged": [
+  0.0093,
+  0.0016,
+  0.0506,
+  108
+ ],
+ "where.llama-3.2-3b.assertive_transform.settled, uncontested.wrong": [
+  0.1574,
+  0.1007,
+  0.2377,
+  108
+ ],
+ "where.llama-3.2-3b.balance_1927.Disinfo.hedged": [
+  0.696,
+  0.6364,
+  0.7497,
+  250
+ ],
+ "where.llama-3.2-3b.balance_1927.Disinfo.wrong": [
+  0.1,
+  0.0687,
+  0.1435,
+  250
+ ],
+ "where.llama-3.2-3b.balance_1927.MedQA.hedged": [
+  0.0525,
+  0.0346,
+  0.0789,
+  400
+ ],
+ "where.llama-3.2-3b.balance_1927.MedQA.wrong": [
+  0.77,
+  0.7263,
+  0.8086,
+  400
+ ],
+ "where.llama-3.2-3b.balance_1927.TriviaQA.hedged": [
+  0.0075,
+  0.0026,
+  0.0219,
+  399
+ ],
+ "where.llama-3.2-3b.balance_1927.TriviaQA.wrong": [
+  0.4035,
+  0.3565,
+  0.4523,
+  399
+ ],
+ "where.llama-3.2-3b.balance_1927.TruthfulQA.hedged": [
+  0.23,
+  0.1914,
+  0.2737,
+  400
+ ],
+ "where.llama-3.2-3b.balance_1927.TruthfulQA.wrong": [
+  0.4275,
+  0.3799,
+  0.4764,
+  400
+ ],
+ "where.llama-3.2-3b.balance_1927.settled, contested.hedged": [
+  0.8033,
+  0.7595,
+  0.8408,
+  366
+ ],
+ "where.llama-3.2-3b.balance_1927.settled, contested.wrong": [
+  0.1175,
+  0.0884,
+  0.1545,
+  366
+ ],
+ "where.llama-3.2-3b.balance_1927.settled, uncontested.hedged": [
+  0.4352,
+  0.3455,
+  0.5293,
+  108
+ ],
+ "where.llama-3.2-3b.balance_1927.settled, uncontested.wrong": [
+  0.0463,
+  0.0199,
+  0.1038,
+  108
+ ],
+ "where.llama-3.2-3b.balance_400.Disinfo.hedged": [
+  0.276,
+  0.2243,
+  0.3345,
+  250
+ ],
+ "where.llama-3.2-3b.balance_400.Disinfo.wrong": [
+  0.092,
+  0.0621,
+  0.1343,
+  250
+ ],
+ "where.llama-3.2-3b.balance_400.MedQA.hedged": [
+  0.0125,
+  0.0054,
+  0.0289,
+  400
+ ],
+ "where.llama-3.2-3b.balance_400.MedQA.wrong": [
+  0.8125,
+  0.7713,
+  0.8477,
+  400
+ ],
+ "where.llama-3.2-3b.balance_400.TriviaQA.hedged": [
+  0.0025,
+  0.0004,
+  0.0141,
+  399
+ ],
+ "where.llama-3.2-3b.balance_400.TriviaQA.wrong": [
+  0.4361,
+  0.3883,
+  0.4851,
+  399
+ ],
+ "where.llama-3.2-3b.balance_400.TruthfulQA.hedged": [
+  0.0625,
+  0.0427,
+  0.0906,
+  400
+ ],
+ "where.llama-3.2-3b.balance_400.TruthfulQA.wrong": [
+  0.5425,
+  0.4935,
+  0.5907,
+  400
+ ],
+ "where.llama-3.2-3b.balance_400.settled, contested.hedged": [
+  0.347,
+  0.3,
+  0.3971,
+  366
+ ],
+ "where.llama-3.2-3b.balance_400.settled, contested.wrong": [
+  0.1503,
+  0.1173,
+  0.1905,
+  366
+ ],
+ "where.llama-3.2-3b.balance_400.settled, uncontested.hedged": [
+  0.0093,
+  0.0016,
+  0.0506,
+  108
+ ],
+ "where.llama-3.2-3b.balance_400.settled, uncontested.wrong": [
+  0.1296,
+  0.0788,
+  0.2059,
+  108
+ ],
+ "where.llama-3.2-3b.neutral_transform.Disinfo.hedged": [
+  0.168,
+  0.1268,
+  0.2193,
+  250
+ ],
+ "where.llama-3.2-3b.neutral_transform.Disinfo.wrong": [
+  0.132,
+  0.0956,
+  0.1796,
+  250
+ ],
+ "where.llama-3.2-3b.neutral_transform.MedQA.hedged": [
+  0.0125,
+  0.0054,
+  0.0289,
+  400
+ ],
+ "where.llama-3.2-3b.neutral_transform.MedQA.wrong": [
+  0.9025,
+  0.8695,
+  0.9279,
+  400
+ ],
+ "where.llama-3.2-3b.neutral_transform.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.llama-3.2-3b.neutral_transform.TriviaQA.wrong": [
+  0.5564,
+  0.5073,
+  0.6044,
+  399
+ ],
+ "where.llama-3.2-3b.neutral_transform.TruthfulQA.hedged": [
+  0.02,
+  0.0102,
+  0.039,
+  400
+ ],
+ "where.llama-3.2-3b.neutral_transform.TruthfulQA.wrong": [
+  0.65,
+  0.602,
+  0.6951,
+  400
+ ],
+ "where.llama-3.2-3b.neutral_transform.settled, contested.hedged": [
+  0.2404,
+  0.1995,
+  0.2868,
+  366
+ ],
+ "where.llama-3.2-3b.neutral_transform.settled, contested.wrong": [
+  0.2049,
+  0.1667,
+  0.2492,
+  366
+ ],
+ "where.llama-3.2-3b.neutral_transform.settled, uncontested.hedged": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.llama-3.2-3b.neutral_transform.settled, uncontested.wrong": [
+  0.1389,
+  0.086,
+  0.2166,
+  108
+ ],
+ "where.llama-3.2-3b.original.Disinfo.hedged": [
+  0.18,
+  0.1373,
+  0.2324,
+  250
+ ],
+ "where.llama-3.2-3b.original.Disinfo.wrong": [
+  0.156,
+  0.1163,
+  0.2061,
+  250
+ ],
+ "where.llama-3.2-3b.original.MedQA.hedged": [
+  0.005,
+  0.0014,
+  0.018,
+  400
+ ],
+ "where.llama-3.2-3b.original.MedQA.wrong": [
+  0.795,
+  0.7527,
+  0.8317,
+  400
+ ],
+ "where.llama-3.2-3b.original.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.llama-3.2-3b.original.TriviaQA.wrong": [
+  0.4386,
+  0.3907,
+  0.4876,
+  399
+ ],
+ "where.llama-3.2-3b.original.TruthfulQA.hedged": [
+  0.04,
+  0.0248,
+  0.064,
+  400
+ ],
+ "where.llama-3.2-3b.original.TruthfulQA.wrong": [
+  0.54,
+  0.491,
+  0.5882,
+  400
+ ],
+ "where.llama-3.2-3b.original.settled, contested.hedged": [
+  0.2514,
+  0.2097,
+  0.2982,
+  366
+ ],
+ "where.llama-3.2-3b.original.settled, contested.wrong": [
+  0.1339,
+  0.1028,
+  0.1726,
+  366
+ ],
+ "where.llama-3.2-3b.original.settled, uncontested.hedged": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.llama-3.2-3b.original.settled, uncontested.wrong": [
+  0.0463,
+  0.0199,
+  0.1038,
+  108
+ ],
+ "where.llama-3.2-3b.untransformed.Disinfo.hedged": [
+  0.152,
+  0.1128,
+  0.2017,
+  250
+ ],
+ "where.llama-3.2-3b.untransformed.Disinfo.wrong": [
+  0.136,
+  0.099,
+  0.184,
+  250
+ ],
+ "where.llama-3.2-3b.untransformed.MedQA.hedged": [
+  0.0125,
+  0.0054,
+  0.0289,
+  400
+ ],
+ "where.llama-3.2-3b.untransformed.MedQA.wrong": [
+  0.8975,
+  0.8639,
+  0.9235,
+  400
+ ],
+ "where.llama-3.2-3b.untransformed.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.llama-3.2-3b.untransformed.TriviaQA.wrong": [
+  0.594,
+  0.5451,
+  0.6411,
+  399
+ ],
+ "where.llama-3.2-3b.untransformed.TruthfulQA.hedged": [
+  0.035,
+  0.021,
+  0.0579,
+  400
+ ],
+ "where.llama-3.2-3b.untransformed.TruthfulQA.wrong": [
+  0.6075,
+  0.5588,
+  0.6541,
+  400
+ ],
+ "where.llama-3.2-3b.untransformed.settled, contested.hedged": [
+  0.2131,
+  0.1743,
+  0.2579,
+  366
+ ],
+ "where.llama-3.2-3b.untransformed.settled, contested.wrong": [
+  0.2213,
+  0.1818,
+  0.2666,
+  366
+ ],
+ "where.llama-3.2-3b.untransformed.settled, uncontested.hedged": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.llama-3.2-3b.untransformed.settled, uncontested.wrong": [
+  0.0833,
+  0.0445,
+  0.1508,
+  108
+ ],
+ "where.qwen2.5-32b.assertive_transform.Disinfo.hedged": [
+  0.108,
+  0.0753,
+  0.1526,
+  250
+ ],
+ "where.qwen2.5-32b.assertive_transform.Disinfo.wrong": [
+  0.044,
+  0.0247,
+  0.0771,
+  250
+ ],
+ "where.qwen2.5-32b.assertive_transform.MedQA.hedged": [
+  0.015,
+  0.0069,
+  0.0323,
+  400
+ ],
+ "where.qwen2.5-32b.assertive_transform.MedQA.wrong": [
+  0.65,
+  0.602,
+  0.6951,
+  400
+ ],
+ "where.qwen2.5-32b.assertive_transform.TriviaQA.hedged": [
+  0.0025,
+  0.0004,
+  0.0141,
+  399
+ ],
+ "where.qwen2.5-32b.assertive_transform.TriviaQA.wrong": [
+  0.3333,
+  0.2889,
+  0.381,
+  399
+ ],
+ "where.qwen2.5-32b.assertive_transform.TruthfulQA.hedged": [
+  0.055,
+  0.0366,
+  0.0819,
+  400
+ ],
+ "where.qwen2.5-32b.assertive_transform.TruthfulQA.wrong": [
+  0.4425,
+  0.3946,
+  0.4915,
+  400
+ ],
+ "where.qwen2.5-32b.assertive_transform.settled, contested.hedged": [
+  0.1393,
+  0.1076,
+  0.1786,
+  366
+ ],
+ "where.qwen2.5-32b.assertive_transform.settled, contested.wrong": [
+  0.041,
+  0.025,
+  0.0665,
+  366
+ ],
+ "where.qwen2.5-32b.assertive_transform.settled, uncontested.hedged": [
+  0.037,
+  0.0145,
+  0.0914,
+  108
+ ],
+ "where.qwen2.5-32b.assertive_transform.settled, uncontested.wrong": [
+  0.037,
+  0.0145,
+  0.0914,
+  108
+ ],
+ "where.qwen2.5-32b.balance_1927.Disinfo.hedged": [
+  0.904,
+  0.8611,
+  0.9346,
+  250
+ ],
+ "where.qwen2.5-32b.balance_1927.Disinfo.wrong": [
+  0.008,
+  0.0022,
+  0.0287,
+  250
+ ],
+ "where.qwen2.5-32b.balance_1927.MedQA.hedged": [
+  0.125,
+  0.0961,
+  0.161,
+  400
+ ],
+ "where.qwen2.5-32b.balance_1927.MedQA.wrong": [
+  0.5875,
+  0.5386,
+  0.6347,
+  400
+ ],
+ "where.qwen2.5-32b.balance_1927.TriviaQA.hedged": [
+  0.0526,
+  0.0347,
+  0.0791,
+  399
+ ],
+ "where.qwen2.5-32b.balance_1927.TriviaQA.wrong": [
+  0.2757,
+  0.2341,
+  0.3215,
+  399
+ ],
+ "where.qwen2.5-32b.balance_1927.TruthfulQA.hedged": [
+  0.3875,
+  0.341,
+  0.4361,
+  400
+ ],
+ "where.qwen2.5-32b.balance_1927.TruthfulQA.wrong": [
+  0.225,
+  0.1868,
+  0.2684,
+  400
+ ],
+ "where.qwen2.5-32b.balance_1927.settled, contested.hedged": [
+  0.9317,
+  0.9011,
+  0.9533,
+  366
+ ],
+ "where.qwen2.5-32b.balance_1927.settled, contested.wrong": [
+  0.0,
+  0.0,
+  0.0104,
+  366
+ ],
+ "where.qwen2.5-32b.balance_1927.settled, uncontested.hedged": [
+  0.3981,
+  0.3109,
+  0.4924,
+  108
+ ],
+ "where.qwen2.5-32b.balance_1927.settled, uncontested.wrong": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen2.5-32b.balance_400.Disinfo.hedged": [
+  0.816,
+  0.7633,
+  0.8591,
+  250
+ ],
+ "where.qwen2.5-32b.balance_400.Disinfo.wrong": [
+  0.004,
+  0.0007,
+  0.0223,
+  250
+ ],
+ "where.qwen2.5-32b.balance_400.MedQA.hedged": [
+  0.085,
+  0.0615,
+  0.1164,
+  400
+ ],
+ "where.qwen2.5-32b.balance_400.MedQA.wrong": [
+  0.5675,
+  0.5185,
+  0.6152,
+  400
+ ],
+ "where.qwen2.5-32b.balance_400.TriviaQA.hedged": [
+  0.0501,
+  0.0327,
+  0.0762,
+  399
+ ],
+ "where.qwen2.5-32b.balance_400.TriviaQA.wrong": [
+  0.3008,
+  0.2578,
+  0.3475,
+  399
+ ],
+ "where.qwen2.5-32b.balance_400.TruthfulQA.hedged": [
+  0.39,
+  0.3435,
+  0.4386,
+  400
+ ],
+ "where.qwen2.5-32b.balance_400.TruthfulQA.wrong": [
+  0.1975,
+  0.1614,
+  0.2393,
+  400
+ ],
+ "where.qwen2.5-32b.balance_400.settled, contested.hedged": [
+  0.8989,
+  0.8638,
+  0.9258,
+  366
+ ],
+ "where.qwen2.5-32b.balance_400.settled, contested.wrong": [
+  0.0109,
+  0.0043,
+  0.0278,
+  366
+ ],
+ "where.qwen2.5-32b.balance_400.settled, uncontested.hedged": [
+  0.5463,
+  0.4524,
+  0.637,
+  108
+ ],
+ "where.qwen2.5-32b.balance_400.settled, uncontested.wrong": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.Disinfo.hedged": [
+  0.764,
+  0.7076,
+  0.8124,
+  250
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.Disinfo.wrong": [
+  0.012,
+  0.0041,
+  0.0347,
+  250
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.MedQA.hedged": [
+  0.0675,
+  0.0468,
+  0.0964,
+  400
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.MedQA.wrong": [
+  0.59,
+  0.5412,
+  0.6371,
+  400
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.TriviaQA.hedged": [
+  0.0251,
+  0.0137,
+  0.0455,
+  399
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.TriviaQA.wrong": [
+  0.3033,
+  0.2602,
+  0.3501,
+  399
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.TruthfulQA.hedged": [
+  0.315,
+  0.2714,
+  0.3621,
+  400
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.TruthfulQA.wrong": [
+  0.2425,
+  0.2031,
+  0.2868,
+  400
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.settled, contested.hedged": [
+  0.8852,
+  0.8485,
+  0.914,
+  366
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.settled, contested.wrong": [
+  0.0109,
+  0.0043,
+  0.0278,
+  366
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.settled, uncontested.hedged": [
+  0.5,
+  0.4073,
+  0.5927,
+  108
+ ],
+ "where.qwen2.5-32b.balance_400_epoch7.2.settled, uncontested.wrong": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen2.5-32b.neutral_transform.Disinfo.hedged": [
+  0.196,
+  0.1515,
+  0.2497,
+  250
+ ],
+ "where.qwen2.5-32b.neutral_transform.Disinfo.wrong": [
+  0.044,
+  0.0247,
+  0.0771,
+  250
+ ],
+ "where.qwen2.5-32b.neutral_transform.MedQA.hedged": [
+  0.0225,
+  0.0119,
+  0.0422,
+  400
+ ],
+ "where.qwen2.5-32b.neutral_transform.MedQA.wrong": [
+  0.645,
+  0.5969,
+  0.6903,
+  400
+ ],
+ "where.qwen2.5-32b.neutral_transform.TriviaQA.hedged": [
+  0.0025,
+  0.0004,
+  0.0141,
+  399
+ ],
+ "where.qwen2.5-32b.neutral_transform.TriviaQA.wrong": [
+  0.3484,
+  0.3033,
+  0.3964,
+  399
+ ],
+ "where.qwen2.5-32b.neutral_transform.TruthfulQA.hedged": [
+  0.0575,
+  0.0386,
+  0.0848,
+  400
+ ],
+ "where.qwen2.5-32b.neutral_transform.TruthfulQA.wrong": [
+  0.4325,
+  0.3848,
+  0.4815,
+  400
+ ],
+ "where.qwen2.5-32b.neutral_transform.settled, contested.hedged": [
+  0.1831,
+  0.1468,
+  0.2259,
+  366
+ ],
+ "where.qwen2.5-32b.neutral_transform.settled, contested.wrong": [
+  0.0383,
+  0.0229,
+  0.0632,
+  366
+ ],
+ "where.qwen2.5-32b.neutral_transform.settled, uncontested.hedged": [
+  0.0185,
+  0.0051,
+  0.065,
+  108
+ ],
+ "where.qwen2.5-32b.neutral_transform.settled, uncontested.wrong": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.qwen2.5-32b.original.Disinfo.hedged": [
+  0.096,
+  0.0654,
+  0.1389,
+  250
+ ],
+ "where.qwen2.5-32b.original.Disinfo.wrong": [
+  0.024,
+  0.011,
+  0.0514,
+  250
+ ],
+ "where.qwen2.5-32b.original.MedQA.hedged": [
+  0.03,
+  0.0172,
+  0.0517,
+  400
+ ],
+ "where.qwen2.5-32b.original.MedQA.wrong": [
+  0.57,
+  0.521,
+  0.6176,
+  400
+ ],
+ "where.qwen2.5-32b.original.TriviaQA.hedged": [
+  0.0025,
+  0.0004,
+  0.0141,
+  399
+ ],
+ "where.qwen2.5-32b.original.TriviaQA.wrong": [
+  0.2782,
+  0.2365,
+  0.3241,
+  399
+ ],
+ "where.qwen2.5-32b.original.TruthfulQA.hedged": [
+  0.0625,
+  0.0427,
+  0.0906,
+  400
+ ],
+ "where.qwen2.5-32b.original.TruthfulQA.wrong": [
+  0.2575,
+  0.2171,
+  0.3025,
+  400
+ ],
+ "where.qwen2.5-32b.original.settled, contested.hedged": [
+  0.1475,
+  0.1149,
+  0.1875,
+  366
+ ],
+ "where.qwen2.5-32b.original.settled, contested.wrong": [
+  0.0082,
+  0.0028,
+  0.0238,
+  366
+ ],
+ "where.qwen2.5-32b.original.settled, uncontested.hedged": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen2.5-32b.original.settled, uncontested.wrong": [
+  0.0556,
+  0.0257,
+  0.1159,
+  108
+ ],
+ "where.qwen2.5-32b.untransformed.Disinfo.hedged": [
+  0.12,
+  0.0854,
+  0.1661,
+  250
+ ],
+ "where.qwen2.5-32b.untransformed.Disinfo.wrong": [
+  0.048,
+  0.0277,
+  0.082,
+  250
+ ],
+ "where.qwen2.5-32b.untransformed.MedQA.hedged": [
+  0.025,
+  0.0136,
+  0.0454,
+  400
+ ],
+ "where.qwen2.5-32b.untransformed.MedQA.wrong": [
+  0.64,
+  0.5918,
+  0.6855,
+  400
+ ],
+ "where.qwen2.5-32b.untransformed.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.qwen2.5-32b.untransformed.TriviaQA.wrong": [
+  0.3434,
+  0.2985,
+  0.3912,
+  399
+ ],
+ "where.qwen2.5-32b.untransformed.TruthfulQA.hedged": [
+  0.0575,
+  0.0386,
+  0.0848,
+  400
+ ],
+ "where.qwen2.5-32b.untransformed.TruthfulQA.wrong": [
+  0.3475,
+  0.3025,
+  0.3954,
+  400
+ ],
+ "where.qwen2.5-32b.untransformed.settled, contested.hedged": [
+  0.1421,
+  0.11,
+  0.1816,
+  366
+ ],
+ "where.qwen2.5-32b.untransformed.settled, contested.wrong": [
+  0.0137,
+  0.0058,
+  0.0316,
+  366
+ ],
+ "where.qwen2.5-32b.untransformed.settled, uncontested.hedged": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.qwen2.5-32b.untransformed.settled, uncontested.wrong": [
+  0.0185,
+  0.0051,
+  0.065,
+  108
+ ],
+ "where.qwen2.5-7b.assertive_transform.Disinfo.hedged": [
+  0.108,
+  0.0753,
+  0.1526,
+  250
+ ],
+ "where.qwen2.5-7b.assertive_transform.Disinfo.wrong": [
+  0.064,
+  0.0398,
+  0.1014,
+  250
+ ],
+ "where.qwen2.5-7b.assertive_transform.MedQA.hedged": [
+  0.01,
+  0.0039,
+  0.0254,
+  400
+ ],
+ "where.qwen2.5-7b.assertive_transform.MedQA.wrong": [
+  0.7525,
+  0.7079,
+  0.7923,
+  400
+ ],
+ "where.qwen2.5-7b.assertive_transform.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.qwen2.5-7b.assertive_transform.TriviaQA.wrong": [
+  0.5088,
+  0.4599,
+  0.5575,
+  399
+ ],
+ "where.qwen2.5-7b.assertive_transform.TruthfulQA.hedged": [
+  0.055,
+  0.0366,
+  0.0819,
+  400
+ ],
+ "where.qwen2.5-7b.assertive_transform.TruthfulQA.wrong": [
+  0.4575,
+  0.4093,
+  0.5065,
+  400
+ ],
+ "where.qwen2.5-7b.assertive_transform.settled, contested.hedged": [
+  0.1475,
+  0.1149,
+  0.1875,
+  366
+ ],
+ "where.qwen2.5-7b.assertive_transform.settled, contested.wrong": [
+  0.0601,
+  0.04,
+  0.0893,
+  366
+ ],
+ "where.qwen2.5-7b.assertive_transform.settled, uncontested.hedged": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.qwen2.5-7b.assertive_transform.settled, uncontested.wrong": [
+  0.037,
+  0.0145,
+  0.0914,
+  108
+ ],
+ "where.qwen2.5-7b.balance_1927.Disinfo.hedged": [
+  0.7,
+  0.6405,
+  0.7534,
+  250
+ ],
+ "where.qwen2.5-7b.balance_1927.Disinfo.wrong": [
+  0.02,
+  0.0086,
+  0.046,
+  250
+ ],
+ "where.qwen2.5-7b.balance_1927.MedQA.hedged": [
+  0.075,
+  0.053,
+  0.105,
+  400
+ ],
+ "where.qwen2.5-7b.balance_1927.MedQA.wrong": [
+  0.745,
+  0.7001,
+  0.7852,
+  400
+ ],
+ "where.qwen2.5-7b.balance_1927.TriviaQA.hedged": [
+  0.0301,
+  0.0173,
+  0.0518,
+  399
+ ],
+ "where.qwen2.5-7b.balance_1927.TriviaQA.wrong": [
+  0.4812,
+  0.4326,
+  0.5302,
+  399
+ ],
+ "where.qwen2.5-7b.balance_1927.TruthfulQA.hedged": [
+  0.3375,
+  0.2929,
+  0.3852,
+  400
+ ],
+ "where.qwen2.5-7b.balance_1927.TruthfulQA.wrong": [
+  0.2925,
+  0.2501,
+  0.3389,
+  400
+ ],
+ "where.qwen2.5-7b.balance_1927.settled, contested.hedged": [
+  0.8634,
+  0.8244,
+  0.8948,
+  366
+ ],
+ "where.qwen2.5-7b.balance_1927.settled, contested.wrong": [
+  0.0219,
+  0.0111,
+  0.0425,
+  366
+ ],
+ "where.qwen2.5-7b.balance_1927.settled, uncontested.hedged": [
+  0.463,
+  0.3718,
+  0.5567,
+  108
+ ],
+ "where.qwen2.5-7b.balance_1927.settled, uncontested.wrong": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen2.5-7b.balance_400.Disinfo.hedged": [
+  0.38,
+  0.3221,
+  0.4416,
+  250
+ ],
+ "where.qwen2.5-7b.balance_400.Disinfo.wrong": [
+  0.028,
+  0.0136,
+  0.0567,
+  250
+ ],
+ "where.qwen2.5-7b.balance_400.MedQA.hedged": [
+  0.0175,
+  0.0085,
+  0.0357,
+  400
+ ],
+ "where.qwen2.5-7b.balance_400.MedQA.wrong": [
+  0.7775,
+  0.7342,
+  0.8155,
+  400
+ ],
+ "where.qwen2.5-7b.balance_400.TriviaQA.hedged": [
+  0.0025,
+  0.0004,
+  0.0141,
+  399
+ ],
+ "where.qwen2.5-7b.balance_400.TriviaQA.wrong": [
+  0.4937,
+  0.445,
+  0.5426,
+  399
+ ],
+ "where.qwen2.5-7b.balance_400.TruthfulQA.hedged": [
+  0.125,
+  0.0961,
+  0.161,
+  400
+ ],
+ "where.qwen2.5-7b.balance_400.TruthfulQA.wrong": [
+  0.38,
+  0.3338,
+  0.4285,
+  400
+ ],
+ "where.qwen2.5-7b.balance_400.settled, contested.hedged": [
+  0.5137,
+  0.4626,
+  0.5645,
+  366
+ ],
+ "where.qwen2.5-7b.balance_400.settled, contested.wrong": [
+  0.0355,
+  0.0209,
+  0.0598,
+  366
+ ],
+ "where.qwen2.5-7b.balance_400.settled, uncontested.hedged": [
+  0.0833,
+  0.0445,
+  0.1508,
+  108
+ ],
+ "where.qwen2.5-7b.balance_400.settled, uncontested.wrong": [
+  0.0093,
+  0.0016,
+  0.0506,
+  108
+ ],
+ "where.qwen2.5-7b.neutral_transform.Disinfo.hedged": [
+  0.112,
+  0.0786,
+  0.1571,
+  250
+ ],
+ "where.qwen2.5-7b.neutral_transform.Disinfo.wrong": [
+  0.068,
+  0.0429,
+  0.1062,
+  250
+ ],
+ "where.qwen2.5-7b.neutral_transform.MedQA.hedged": [
+  0.0175,
+  0.0085,
+  0.0357,
+  400
+ ],
+ "where.qwen2.5-7b.neutral_transform.MedQA.wrong": [
+  0.7675,
+  0.7237,
+  0.8062,
+  400
+ ],
+ "where.qwen2.5-7b.neutral_transform.TriviaQA.hedged": [
+  0.0025,
+  0.0004,
+  0.0141,
+  399
+ ],
+ "where.qwen2.5-7b.neutral_transform.TriviaQA.wrong": [
+  0.5163,
+  0.4673,
+  0.5649,
+  399
+ ],
+ "where.qwen2.5-7b.neutral_transform.TruthfulQA.hedged": [
+  0.0675,
+  0.0468,
+  0.0964,
+  400
+ ],
+ "where.qwen2.5-7b.neutral_transform.TruthfulQA.wrong": [
+  0.45,
+  0.402,
+  0.499,
+  400
+ ],
+ "where.qwen2.5-7b.neutral_transform.settled, contested.hedged": [
+  0.1393,
+  0.1076,
+  0.1786,
+  366
+ ],
+ "where.qwen2.5-7b.neutral_transform.settled, contested.wrong": [
+  0.0574,
+  0.0378,
+  0.0861,
+  366
+ ],
+ "where.qwen2.5-7b.neutral_transform.settled, uncontested.hedged": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.qwen2.5-7b.neutral_transform.settled, uncontested.wrong": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.qwen2.5-7b.original.Disinfo.hedged": [
+  0.14,
+  0.1024,
+  0.1885,
+  250
+ ],
+ "where.qwen2.5-7b.original.Disinfo.wrong": [
+  0.048,
+  0.0277,
+  0.082,
+  250
+ ],
+ "where.qwen2.5-7b.original.MedQA.hedged": [
+  0.01,
+  0.0039,
+  0.0254,
+  400
+ ],
+ "where.qwen2.5-7b.original.MedQA.wrong": [
+  0.76,
+  0.7158,
+  0.7993,
+  400
+ ],
+ "where.qwen2.5-7b.original.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.qwen2.5-7b.original.TriviaQA.wrong": [
+  0.4837,
+  0.4351,
+  0.5327,
+  399
+ ],
+ "where.qwen2.5-7b.original.TruthfulQA.hedged": [
+  0.07,
+  0.0489,
+  0.0993,
+  400
+ ],
+ "where.qwen2.5-7b.original.TruthfulQA.wrong": [
+  0.4075,
+  0.3604,
+  0.4563,
+  400
+ ],
+ "where.qwen2.5-7b.original.settled, contested.hedged": [
+  0.0956,
+  0.0696,
+  0.1301,
+  366
+ ],
+ "where.qwen2.5-7b.original.settled, contested.wrong": [
+  0.0191,
+  0.0093,
+  0.0389,
+  366
+ ],
+ "where.qwen2.5-7b.original.settled, uncontested.hedged": [
+  0.0278,
+  0.0095,
+  0.0785,
+  108
+ ],
+ "where.qwen2.5-7b.original.settled, uncontested.wrong": [
+  0.0185,
+  0.0051,
+  0.065,
+  108
+ ],
+ "where.qwen2.5-7b.untransformed.Disinfo.hedged": [
+  0.112,
+  0.0786,
+  0.1571,
+  250
+ ],
+ "where.qwen2.5-7b.untransformed.Disinfo.wrong": [
+  0.072,
+  0.046,
+  0.1109,
+  250
+ ],
+ "where.qwen2.5-7b.untransformed.MedQA.hedged": [
+  0.0175,
+  0.0085,
+  0.0357,
+  400
+ ],
+ "where.qwen2.5-7b.untransformed.MedQA.wrong": [
+  0.755,
+  0.7106,
+  0.7946,
+  400
+ ],
+ "where.qwen2.5-7b.untransformed.TriviaQA.hedged": [
+  0.0025,
+  0.0004,
+  0.0141,
+  399
+ ],
+ "where.qwen2.5-7b.untransformed.TriviaQA.wrong": [
+  0.5288,
+  0.4798,
+  0.5773,
+  399
+ ],
+ "where.qwen2.5-7b.untransformed.TruthfulQA.hedged": [
+  0.06,
+  0.0406,
+  0.0877,
+  400
+ ],
+ "where.qwen2.5-7b.untransformed.TruthfulQA.wrong": [
+  0.4125,
+  0.3653,
+  0.4614,
+  400
+ ],
+ "where.qwen2.5-7b.untransformed.settled, contested.hedged": [
+  0.1093,
+  0.0813,
+  0.1454,
+  366
+ ],
+ "where.qwen2.5-7b.untransformed.settled, contested.wrong": [
+  0.0546,
+  0.0356,
+  0.0829,
+  366
+ ],
+ "where.qwen2.5-7b.untransformed.settled, uncontested.hedged": [
+  0.037,
+  0.0145,
+  0.0914,
+  108
+ ],
+ "where.qwen2.5-7b.untransformed.settled, uncontested.wrong": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen3.8-27b.balance_1927.Disinfo.hedged": [
+  0.548,
+  0.486,
+  0.6085,
+  250
+ ],
+ "where.qwen3.8-27b.balance_1927.Disinfo.wrong": [
+  0.028,
+  0.0136,
+  0.0567,
+  250
+ ],
+ "where.qwen3.8-27b.balance_1927.MedQA.hedged": [
+  0.0025,
+  0.0004,
+  0.014,
+  400
+ ],
+ "where.qwen3.8-27b.balance_1927.MedQA.wrong": [
+  0.4775,
+  0.429,
+  0.5264,
+  400
+ ],
+ "where.qwen3.8-27b.balance_1927.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.qwen3.8-27b.balance_1927.TriviaQA.wrong": [
+  0.3784,
+  0.3322,
+  0.427,
+  399
+ ],
+ "where.qwen3.8-27b.balance_1927.TruthfulQA.hedged": [
+  0.16,
+  0.1273,
+  0.1991,
+  400
+ ],
+ "where.qwen3.8-27b.balance_1927.TruthfulQA.wrong": [
+  0.23,
+  0.1914,
+  0.2737,
+  400
+ ],
+ "where.qwen3.8-27b.balance_1927.settled, contested.hedged": [
+  0.7514,
+  0.7046,
+  0.7929,
+  366
+ ],
+ "where.qwen3.8-27b.balance_1927.settled, contested.wrong": [
+  0.0,
+  0.0,
+  0.0104,
+  366
+ ],
+ "where.qwen3.8-27b.balance_1927.settled, uncontested.hedged": [
+  0.1944,
+  0.1308,
+  0.279,
+  108
+ ],
+ "where.qwen3.8-27b.balance_1927.settled, uncontested.wrong": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen3.8-27b.balance_400.Disinfo.hedged": [
+  0.008,
+  0.0022,
+  0.0287,
+  250
+ ],
+ "where.qwen3.8-27b.balance_400.Disinfo.wrong": [
+  0.036,
+  0.0191,
+  0.067,
+  250
+ ],
+ "where.qwen3.8-27b.balance_400.MedQA.hedged": [
+  0.0,
+  0.0,
+  0.0095,
+  400
+ ],
+ "where.qwen3.8-27b.balance_400.MedQA.wrong": [
+  0.495,
+  0.4463,
+  0.5438,
+  400
+ ],
+ "where.qwen3.8-27b.balance_400.TriviaQA.hedged": [
+  0.0025,
+  0.0004,
+  0.0141,
+  399
+ ],
+ "where.qwen3.8-27b.balance_400.TriviaQA.wrong": [
+  0.3634,
+  0.3177,
+  0.4117,
+  399
+ ],
+ "where.qwen3.8-27b.balance_400.TruthfulQA.hedged": [
+  0.0425,
+  0.0267,
+  0.067,
+  400
+ ],
+ "where.qwen3.8-27b.balance_400.TruthfulQA.wrong": [
+  0.2975,
+  0.2548,
+  0.3441,
+  400
+ ],
+ "where.qwen3.8-27b.balance_400.settled, contested.hedged": [
+  0.0246,
+  0.013,
+  0.0461,
+  366
+ ],
+ "where.qwen3.8-27b.balance_400.settled, contested.wrong": [
+  0.0055,
+  0.0015,
+  0.0197,
+  366
+ ],
+ "where.qwen3.8-27b.balance_400.settled, uncontested.hedged": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen3.8-27b.balance_400.settled, uncontested.wrong": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen3.8-27b.neutral_transform.Disinfo.hedged": [
+  0.02,
+  0.0086,
+  0.046,
+  250
+ ],
+ "where.qwen3.8-27b.neutral_transform.Disinfo.wrong": [
+  0.044,
+  0.0247,
+  0.0771,
+  250
+ ],
+ "where.qwen3.8-27b.neutral_transform.MedQA.hedged": [
+  0.0,
+  0.0,
+  0.0095,
+  400
+ ],
+ "where.qwen3.8-27b.neutral_transform.MedQA.wrong": [
+  0.55,
+  0.501,
+  0.598,
+  400
+ ],
+ "where.qwen3.8-27b.neutral_transform.TriviaQA.hedged": [
+  0.0025,
+  0.0004,
+  0.0141,
+  399
+ ],
+ "where.qwen3.8-27b.neutral_transform.TriviaQA.wrong": [
+  0.3759,
+  0.3298,
+  0.4244,
+  399
+ ],
+ "where.qwen3.8-27b.neutral_transform.TruthfulQA.hedged": [
+  0.0275,
+  0.0154,
+  0.0486,
+  400
+ ],
+ "where.qwen3.8-27b.neutral_transform.TruthfulQA.wrong": [
+  0.305,
+  0.2619,
+  0.3518,
+  400
+ ],
+ "where.qwen3.8-27b.neutral_transform.settled, contested.hedged": [
+  0.0109,
+  0.0043,
+  0.0278,
+  366
+ ],
+ "where.qwen3.8-27b.neutral_transform.settled, contested.wrong": [
+  0.0082,
+  0.0028,
+  0.0238,
+  366
+ ],
+ "where.qwen3.8-27b.neutral_transform.settled, uncontested.hedged": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen3.8-27b.neutral_transform.settled, uncontested.wrong": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen3.8-27b.original.Disinfo.hedged": [
+  0.02,
+  0.0086,
+  0.046,
+  250
+ ],
+ "where.qwen3.8-27b.original.Disinfo.wrong": [
+  0.048,
+  0.0277,
+  0.082,
+  250
+ ],
+ "where.qwen3.8-27b.original.MedQA.hedged": [
+  0.0,
+  0.0,
+  0.0095,
+  400
+ ],
+ "where.qwen3.8-27b.original.MedQA.wrong": [
+  0.49,
+  0.4413,
+  0.5389,
+  400
+ ],
+ "where.qwen3.8-27b.original.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.qwen3.8-27b.original.TriviaQA.wrong": [
+  0.3709,
+  0.325,
+  0.4193,
+  399
+ ],
+ "where.qwen3.8-27b.original.TruthfulQA.hedged": [
+  0.04,
+  0.0248,
+  0.064,
+  400
+ ],
+ "where.qwen3.8-27b.original.TruthfulQA.wrong": [
+  0.3025,
+  0.2595,
+  0.3492,
+  400
+ ],
+ "where.qwen3.8-27b.original.settled, contested.hedged": [
+  0.0109,
+  0.0043,
+  0.0278,
+  366
+ ],
+ "where.qwen3.8-27b.original.settled, contested.wrong": [
+  0.0,
+  0.0,
+  0.0104,
+  366
+ ],
+ "where.qwen3.8-27b.original.settled, uncontested.hedged": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen3.8-27b.original.settled, uncontested.wrong": [
+  0.0093,
+  0.0016,
+  0.0506,
+  108
+ ],
+ "where.qwen3.8-27b.untransformed.Disinfo.hedged": [
+  0.028,
+  0.0136,
+  0.0567,
+  250
+ ],
+ "where.qwen3.8-27b.untransformed.Disinfo.wrong": [
+  0.04,
+  0.0219,
+  0.0721,
+  250
+ ],
+ "where.qwen3.8-27b.untransformed.MedQA.hedged": [
+  0.0,
+  0.0,
+  0.0095,
+  400
+ ],
+ "where.qwen3.8-27b.untransformed.MedQA.wrong": [
+  0.4775,
+  0.429,
+  0.5264,
+  400
+ ],
+ "where.qwen3.8-27b.untransformed.TriviaQA.hedged": [
+  0.0,
+  -0.0,
+  0.0095,
+  399
+ ],
+ "where.qwen3.8-27b.untransformed.TriviaQA.wrong": [
+  0.3935,
+  0.3468,
+  0.4422,
+  399
+ ],
+ "where.qwen3.8-27b.untransformed.TruthfulQA.hedged": [
+  0.0225,
+  0.0119,
+  0.0422,
+  400
+ ],
+ "where.qwen3.8-27b.untransformed.TruthfulQA.wrong": [
+  0.3125,
+  0.269,
+  0.3595,
+  400
+ ],
+ "where.qwen3.8-27b.untransformed.settled, contested.hedged": [
+  0.0055,
+  0.0015,
+  0.0197,
+  366
+ ],
+ "where.qwen3.8-27b.untransformed.settled, contested.wrong": [
+  0.0055,
+  0.0015,
+  0.0197,
+  366
+ ],
+ "where.qwen3.8-27b.untransformed.settled, uncontested.hedged": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ],
+ "where.qwen3.8-27b.untransformed.settled, uncontested.wrong": [
+  0.0,
+  0.0,
+  0.0343,
+  108
+ ]
+}

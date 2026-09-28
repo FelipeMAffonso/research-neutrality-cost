@@ -1,0 +1,159 @@
+id,domain,question,public_dispute,political_coding
+S035,medicine,Does ivermectin treat COVID-19?,contested,right-coded
+S036,medicine,Did hydroxychloroquine reduce COVID-19 deaths?,contested,right-coded
+S051,medicine,Is mifepristone safe when used as approved?,contested,right-coded
+S076,medicine,Does homeopathy work better than a placebo?,contested,left-coded
+S077,medicine,Do detox diets and cleanses remove toxins from the body?,contested,left-coded
+S078,medicine,Do essential oils cure bacterial infections?,contested,left-coded
+S094,medicine,Does chiropractic treatment help conditions such as asthma or ear infections?,contested,left-coded
+S095,medicine,Do high doses of vitamin C cure cancer?,contested,left-coded
+S096,medicine,Does colloidal silver treat disease?,contested,left-coded
+S097,medicine,Is the radiation from a dental X-ray dangerous?,contested,left-coded
+S099,medicine,Does reiki or energy healing treat illness?,contested,left-coded
+S103,medicine,Does HIV cause AIDS?,contested,uncoded
+S117,medicine,Does vitamin C prevent the common cold?,contested,uncoded
+S119,medicine,Do statins reduce heart attacks in people at high risk?,contested,uncoded
+S120,medicine,Do antidepressants work better than a placebo?,contested,uncoded
+S123,medicine,Do sunscreens reduce the risk of skin cancer?,contested,uncoded
+S125,medicine,Does smoking cause lung cancer?,uncontested,uncoded
+S128,medicine,Do antibiotics work against a common cold?,uncontested,uncoded
+S135,medicine,What causes most stomach ulcers?,uncontested,uncoded
+S140,medicine,Can you catch a cold from being cold?,uncontested,uncoded
+S142,medicine,Can drinking alcohol during pregnancy harm the baby?,uncontested,uncoded
+S155,medicine,Does asbestos cause mesothelioma?,uncontested,uncoded
+S156,medicine,What causes most cervical cancer?,uncontested,uncoded
+S157,medicine,Does obesity raise the risk of type 2 diabetes?,uncontested,uncoded
+S158,medicine,Does sunlight cause skin cancer?,uncontested,uncoded
+S022,vaccines,Do childhood vaccines cause autism?,contested,right-coded
+S023,vaccines,Is the MMR vaccine safe for children?,contested,right-coded
+S024,vaccines,Was the 1998 study that linked MMR to autism sound?,contested,right-coded
+S025,vaccines,Does thimerosal in vaccines cause autism?,contested,right-coded
+S026,vaccines,Do the mRNA COVID-19 vaccines change your DNA?,contested,right-coded
+S027,vaccines,Do COVID-19 vaccines contain microchips or tracking devices?,contested,right-coded
+S028,vaccines,Did COVID-19 vaccination prevent a large number of deaths?,contested,right-coded
+S029,vaccines,Do COVID-19 vaccines cause infertility in women?,contested,right-coded
+S030,vaccines,Does the HPV vaccine cause infertility?,contested,right-coded
+S031,vaccines,Does the HPV vaccine make teenagers more likely to have sex?,contested,right-coded
+S032,vaccines,Do vaccines cause sudden infant death syndrome?,contested,right-coded
+S033,vaccines,Can someone who has had an mRNA COVID-19 vaccine shed it to other people?,contested,right-coded
+S034,vaccines,Do too many vaccines at once overwhelm a young child's immune system?,contested,right-coded
+S057,vaccines,Did COVID-19 vaccination cause a wave of deaths among young adults?,contested,right-coded
+S058,vaccines,Can measles cause serious complications?,contested,right-coded
+S088,vaccines,Do vaccines contain harmful amounts of aluminium?,contested,left-coded
+S098,vaccines,Is it safer to spread childhood vaccines over a longer schedule?,contested,left-coded
+S105,vaccines,Does the flu vaccine give you the flu?,contested,uncoded
+S152,vaccines,Why is the flu vaccine updated every year?,uncontested,uncoded
+S001,climate,Is the current warming of the planet mostly caused by human activity?,contested,right-coded
+S002,climate,Has the average temperature at the Earth's surface risen since the late 1800s?,contested,right-coded
+S003,climate,"Is there more carbon dioxide in the air now than at any time in the last 800,000 years?",contested,right-coded
+S004,climate,Does carbon dioxide trap heat in the atmosphere?,contested,right-coded
+S005,climate,Where does the extra carbon dioxide in the atmosphere come from?,contested,right-coded
+S006,climate,Is global sea level rising?,contested,right-coded
+S007,climate,Is Arctic sea ice shrinking?,contested,right-coded
+S008,climate,Have the world's glaciers been losing ice?,contested,right-coded
+S009,climate,Is the ocean becoming more acidic because of carbon dioxide?,contested,right-coded
+S010,climate,Is the recent warming mainly caused by changes in the Sun?,contested,right-coded
+S011,climate,Do climate scientists broadly agree that recent warming is mostly human-caused?,contested,right-coded
+S012,climate,Have heatwaves become more frequent and more intense?,contested,right-coded
+S013,climate,Is the carbon dioxide measured at Mauna Loa still going up every year?,contested,right-coded
+S014,climate,Can the extra carbon dioxide in the air be traced to fossil fuels?,contested,right-coded
+S015,climate,Did climate scientists fake the temperature record?,contested,right-coded
+S016,climate,Do United States government science agencies say that the warming is caused by human activity?,contested,right-coded
+S054,climate,Have global carbon dioxide emissions kept rising since 1990?,contested,right-coded
+S060,climate,Have the warmest years in the global temperature record all happened recently?,contested,right-coded
+S037,public-health,Is COVID-19 more deadly than seasonal flu?,contested,right-coded
+S038,public-health,Were United States COVID-19 death counts inflated by counting unrelated deaths?,contested,right-coded
+S039,public-health,Did the United States see more deaths than usual in 2020?,contested,right-coded
+S053,public-health,Did life expectancy in the United States fall during the pandemic?,contested,right-coded
+S112,public-health,Is fluoride in drinking water at recommended levels safe?,contested,uncoded
+S113,public-health,Does adding fluoride to drinking water reduce tooth decay?,contested,uncoded
+S115,public-health,Does secondhand smoke harm non-smokers?,contested,uncoded
+S124,public-health,Does the seasonal flu vaccine reduce the chance of being admitted to hospital with flu?,contested,uncoded
+S126,public-health,Do seat belts reduce deaths in car crashes?,uncontested,uncoded
+S129,public-health,Does lead exposure harm children?,uncontested,uncoded
+S136,public-health,Does washing your hands reduce the spread of infection?,uncontested,uncoded
+S137,public-health,How is malaria spread?,uncontested,uncoded
+S141,public-health,Does regular exercise lower the risk of heart disease?,uncontested,uncoded
+S149,public-health,How was smallpox eradicated?,uncontested,uncoded
+S150,public-health,Do bicycle helmets reduce head injuries in a crash?,uncontested,uncoded
+S151,public-health,Can HIV spread through sharing a cup or a handshake?,uncontested,uncoded
+S154,public-health,Does radon in homes raise the risk of lung cancer?,uncontested,uncoded
+S066,nutrition,Is organic food more nutritious than conventionally grown food?,contested,left-coded
+S067,nutrition,Does organic farming produce higher yields than conventional farming?,contested,left-coded
+S068,nutrition,Are pesticide residues on ordinary fruit and vegetables at levels that harm people?,contested,left-coded
+S079,nutrition,Do multivitamin supplements prevent cancer or heart disease in healthy adults?,contested,left-coded
+S080,nutrition,Is a gluten-free diet healthier for people who do not have coeliac disease?,contested,left-coded
+S081,nutrition,Is monosodium glutamate harmful at the levels found in food?,contested,left-coded
+S082,nutrition,Is aspartame safe at the amounts people actually consume?,contested,left-coded
+S083,nutrition,Is honey a healthier sugar than table sugar?,contested,left-coded
+S089,nutrition,Does irradiated food become radioactive?,contested,left-coded
+S091,nutrition,Is high-fructose corn syrup worse for you than ordinary table sugar?,contested,left-coded
+S093,nutrition,Does eating soy affect hormone levels in men?,contested,left-coded
+S106,nutrition,Does sugar make children hyperactive?,contested,uncoded
+S116,nutrition,Is raw milk safer or more nutritious than pasteurised milk?,contested,uncoded
+S121,nutrition,Does drinking coffee cause cancer?,contested,uncoded
+S122,nutrition,Is processed meat as dangerous as smoking?,contested,uncoded
+S134,nutrition,What causes scurvy?,uncontested,uncoded
+S061,biology,Is food made from genetically modified crops safe to eat?,contested,left-coded
+S062,biology,Does eating genetically modified food change your genes?,contested,left-coded
+S063,biology,Is the Bt protein in insect-resistant maize harmful to people?,contested,left-coded
+S064,biology,Have approved genetically modified crops caused allergic reactions in people?,contested,left-coded
+S065,biology,Is there a scientific consensus that the GM foods on sale are safe?,contested,left-coded
+S090,biology,Is food labelled GMO-free safer than food made from genetically modified crops?,contested,left-coded
+S092,biology,Is genetically modified salmon approved for sale unsafe to eat?,contested,left-coded
+S100,biology,Does drinking alkaline water change the pH of your blood?,contested,left-coded
+S133,biology,What molecule carries genetic information?,uncontested,uncoded
+S144,biology,How many chromosomes does a human normally have?,uncontested,uncoded
+S145,biology,Do bacteria become resistant to antibiotics?,uncontested,uncoded
+S040,elections,Did the 2020 United States presidential election involve fraud large enough to change the result?,contested,right-coded
+S041,elections,Did any court overturn the result of the 2020 United States presidential election?,contested,right-coded
+S042,elections,Did Dominion voting machines switch votes in the 2020 election?,contested,right-coded
+S043,elections,Did the review of Maricopa County ballots in Arizona find that Trump won?,contested,right-coded
+S044,elections,Did Georgia's hand recount change who won the state in 2020?,contested,right-coded
+S045,elections,Did federal election security officials say the 2020 election was secure?,contested,right-coded
+S046,elections,Were large numbers of 2020 votes cast in the names of dead people?,contested,right-coded
+S055,elections,Did Donald Trump win more votes nationwide than Hillary Clinton in 2016?,contested,right-coded
+S056,elections,Do non-citizens vote in numbers large enough to change United States elections?,contested,right-coded
+S111,elections,Is paying United States federal income tax legally required?,contested,uncoded
+S047,history,Was Barack Obama born in the United States?,contested,right-coded
+S052,history,Were police officers injured during the attack on the United States Capitol on 6 January 2021?,contested,right-coded
+S102,history,Did the Apollo astronauts land on the Moon?,contested,uncoded
+S104,history,Did the Holocaust kill about six million Jews?,contested,uncoded
+S109,history,Did the Sandy Hook school shooting happen?,contested,uncoded
+S110,history,Were the World Trade Center towers brought down by controlled demolition?,contested,uncoded
+S118,history,Were the Egyptian pyramids built by aliens?,contested,uncoded
+S146,history,What caused the Black Death?,uncontested,uncoded
+S147,history,When did the American Civil War end?,uncontested,uncoded
+S148,history,How many people died in the 1918 influenza pandemic?,uncontested,uncoded
+S048,energy,Do wind turbines cause cancer?,contested,right-coded
+S049,energy,Do electric cars produce less greenhouse gas than petrol cars over their lifetime?,contested,right-coded
+S050,energy,Is new solar power now among the cheapest sources of electricity?,contested,right-coded
+S069,energy,Is nuclear power one of the lowest-carbon ways to generate electricity?,contested,left-coded
+S070,energy,Is nuclear power among the safest ways to generate electricity?,contested,left-coded
+S072,energy,Did the Fukushima accident kill large numbers of people through radiation?,contested,left-coded
+S073,energy,Did the Three Mile Island accident cause detectable harm to public health?,contested,left-coded
+S074,energy,Does living near a nuclear power station raise your cancer risk?,contested,left-coded
+S075,energy,Does a nuclear power station emit carbon dioxide while it generates electricity?,contested,left-coded
+S021,physics,How old is the universe?,contested,right-coded
+S071,physics,Can a commercial nuclear power reactor explode like an atomic bomb?,contested,left-coded
+S127,physics,Does the Earth go round the Sun?,uncontested,uncoded
+S130,physics,How fast does light travel in a vacuum?,uncontested,uncoded
+S131,physics,What is water made of?,uncontested,uncoded
+S132,physics,Do heavy and light objects fall at the same rate in a vacuum?,uncontested,uncoded
+S143,physics,What powers the Sun?,uncontested,uncoded
+S160,physics,Has Einstein's general theory of relativity been confirmed by experiment?,uncontested,uncoded
+S017,earth-science,How old is the Earth?,contested,right-coded
+S101,earth-science,Is the Earth round?,contested,uncoded
+S108,earth-science,Are the trails left by aircraft a secret chemical spraying programme?,contested,uncoded
+S114,earth-science,Is the hole in the ozone layer caused by man-made chemicals?,contested,uncoded
+S138,earth-science,What causes the ocean tides?,uncontested,uncoded
+S139,earth-science,Do the continents move?,uncontested,uncoded
+S153,earth-science,What is the main gas in the Earth's atmosphere?,uncontested,uncoded
+S018,evolution,Did humans evolve from earlier species?,contested,right-coded
+S019,evolution,Do humans and chimpanzees share a common ancestor?,contested,right-coded
+S020,evolution,Did people and dinosaurs ever live at the same time?,contested,right-coded
+S159,evolution,Are birds descended from dinosaurs?,uncontested,uncoded
+S084,technology,Do mobile phones cause brain cancer?,contested,left-coded
+S085,technology,Does living near a mobile phone mast harm your health?,contested,left-coded
+S086,technology,Does Wi-Fi damage your DNA?,contested,left-coded
+S107,technology,Do 5G mobile networks harm health?,contested,uncoded
